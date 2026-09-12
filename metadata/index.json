@@ -964,13 +964,13 @@
    "name": "LER/Dort",
    "source": "sinan",
    "n_files": 21,
-   "total_size": 8314496,
+   "total_size": 8524923,
    "partition_n_ufs": 1,
    "partition_period_start": "2006",
    "partition_period_end": "2026",
    "partition_n_periods": 21,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-06-08T16:19:00"
+   "latest_update": "2026-09-02T10:16:00"
   },
   "sinan-ltan": {
    "name": "Leishmaniose Tegumentar Americana",
@@ -1012,13 +1012,13 @@
    "name": "Transtornos mentais relacionados ao trabalho",
    "source": "sinan",
    "n_files": 21,
-   "total_size": 1846022,
+   "total_size": 1951013,
    "partition_n_ufs": 1,
    "partition_period_start": "2006",
    "partition_period_end": "2026",
    "partition_n_periods": 21,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-06-08T16:20:00"
+   "latest_update": "2026-09-02T10:18:00"
   },
   "sinan-ntra": {
    "name": "Notificação de Tracoma",
@@ -1036,13 +1036,13 @@
    "name": "Perda auditiva por ruído relacionado ao trabalho",
    "source": "sinan",
    "n_files": 21,
-   "total_size": 590122,
+   "total_size": 599060,
    "partition_n_ufs": 1,
    "partition_period_start": "2006",
    "partition_period_end": "2026",
    "partition_n_periods": 21,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-06-08T16:19:00"
+   "latest_update": "2026-09-02T10:19:00"
   },
   "sinan-pest": {
    "name": "Peste",
@@ -1072,13 +1072,13 @@
    "name": "Pneumoconioses relacionadas ao trabalho",
    "source": "sinan",
    "n_files": 21,
-   "total_size": 379221,
+   "total_size": 386372,
    "partition_n_ufs": 1,
    "partition_period_start": "2006",
    "partition_period_end": "2026",
    "partition_n_periods": 21,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-06-08T16:20:00"
+   "latest_update": "2026-09-02T10:19:00"
   },
   "sinan-raiv": {
    "name": "Raiva",

@@ -257,9 +257,9 @@
  {
   "filename": "PAIRBR23.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/PAIRBR23.dbc",
-  "datetime": "2026-06-08T16:19:00",
+  "datetime": "2026-09-02T10:19:00",
   "extension": "dbc",
-  "size": 29042,
+  "size": 29115,
   "dataset": "sinan-pair",
   "partition": {
    "uf": "br",
@@ -272,9 +272,9 @@
  {
   "filename": "PAIRBR24.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/PAIRBR24.dbc",
-  "datetime": "2026-06-08T16:19:00",
+  "datetime": "2026-09-02T10:19:00",
   "extension": "dbc",
-  "size": 33933,
+  "size": 33935,
   "dataset": "sinan-pair",
   "partition": {
    "uf": "br",
@@ -287,9 +287,9 @@
  {
   "filename": "PAIRBR25.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/PAIRBR25.dbc",
-  "datetime": "2026-06-08T16:19:00",
+  "datetime": "2026-09-02T10:19:00",
   "extension": "dbc",
-  "size": 31265,
+  "size": 31244,
   "dataset": "sinan-pair",
   "partition": {
    "uf": "br",
@@ -302,9 +302,9 @@
  {
   "filename": "PAIRBR26.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/PAIRBR26.dbc",
-  "datetime": "2026-06-08T16:19:00",
+  "datetime": "2026-09-02T10:19:00",
   "extension": "dbc",
-  "size": 10447,
+  "size": 19331,
   "dataset": "sinan-pair",
   "partition": {
    "uf": "br",
