@@ -303,50 +303,50 @@
   "sia-abo": {
    "name": "APAC Acompanhamento Pós Cirurgia Bariátrica",
    "source": "sia",
-   "n_files": 1592,
-   "total_size": 38322787,
+   "n_files": 1607,
+   "total_size": 38637067,
    "partition_n_ufs": 18,
    "partition_period_start": "2014-01",
-   "partition_period_end": "2026-06",
-   "partition_n_periods": 150,
+   "partition_period_end": "2026-07",
+   "partition_n_periods": 151,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-08-12T11:30:00"
+   "latest_update": "2026-09-12T18:10:00"
   },
   "sia-acf": {
    "name": "APAC Confeção de Fístula Arteriovenosa",
    "source": "sia",
-   "n_files": 3741,
-   "total_size": 32052623,
+   "n_files": 3768,
+   "total_size": 32253989,
    "partition_n_ufs": 27,
    "partition_period_start": "2014-08",
-   "partition_period_end": "2026-06",
-   "partition_n_periods": 143,
+   "partition_period_end": "2026-07",
+   "partition_n_periods": 144,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-08-12T11:30:00"
+   "latest_update": "2026-09-12T18:10:00"
   },
   "sia-ad": {
    "name": "APAC de Laudos Diversos",
    "source": "sia",
-   "n_files": 5992,
-   "total_size": 3193736477,
+   "n_files": 6019,
+   "total_size": 3210885679,
    "partition_n_ufs": 27,
    "partition_period_start": "2008-01",
-   "partition_period_end": "2026-06",
-   "partition_n_periods": 222,
+   "partition_period_end": "2026-07",
+   "partition_n_periods": 223,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-08-12T11:30:00"
+   "latest_update": "2026-09-12T18:10:00"
   },
   "sia-am": {
    "name": "APAC de Medicamentos",
    "source": "sia",
-   "n_files": 5932,
-   "total_size": 18454387078,
+   "n_files": 5957,
+   "total_size": 18620817185,
    "partition_n_ufs": 27,
    "partition_period_start": "2008-01",
-   "partition_period_end": "2026-06",
-   "partition_n_periods": 222,
+   "partition_period_end": "2026-07",
+   "partition_n_periods": 223,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-08-12T11:30:00"
+   "latest_update": "2026-09-12T18:10:00"
   },
   "sia-an": {
    "name": "APAC de Nefrologia",
@@ -363,50 +363,50 @@
   "sia-aq": {
    "name": "APAC de Quimioterapia",
    "source": "sia",
-   "n_files": 5953,
-   "total_size": 5027145618,
+   "n_files": 5979,
+   "total_size": 5055222568,
    "partition_n_ufs": 27,
    "partition_period_start": "2008-01",
-   "partition_period_end": "2026-06",
-   "partition_n_periods": 222,
+   "partition_period_end": "2026-07",
+   "partition_n_periods": 223,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-08-12T11:31:00"
+   "latest_update": "2026-09-12T18:11:00"
   },
   "sia-ar": {
    "name": "APAC de Radioterapia",
    "source": "sia",
-   "n_files": 5440,
-   "total_size": 357181259,
+   "n_files": 5465,
+   "total_size": 358497013,
    "partition_n_ufs": 26,
    "partition_period_start": "2008-01",
-   "partition_period_end": "2026-06",
-   "partition_n_periods": 222,
+   "partition_period_end": "2026-07",
+   "partition_n_periods": 223,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-08-12T11:31:00"
+   "latest_update": "2026-09-12T18:11:00"
   },
   "sia-atd": {
    "name": "APAC de Tratamento Dialítico",
    "source": "sia",
-   "n_files": 3857,
-   "total_size": 1044588363,
+   "n_files": 3884,
+   "total_size": 1051742864,
    "partition_n_ufs": 27,
    "partition_period_start": "2014-08",
-   "partition_period_end": "2026-06",
-   "partition_n_periods": 143,
+   "partition_period_end": "2026-07",
+   "partition_n_periods": 144,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-08-12T11:31:00"
+   "latest_update": "2026-09-12T18:11:00"
   },
   "sia-pa": {
    "name": "Produção Ambulatorial",
    "source": "sia",
-   "n_files": 10792,
-   "total_size": 214179997058,
+   "n_files": 10558,
+   "total_size": 194829768011,
    "partition_n_ufs": 27,
    "partition_period_start": "1994-07",
-   "partition_period_end": "2026-06",
-   "partition_n_periods": 384,
+   "partition_period_end": "2026-07",
+   "partition_n_periods": 385,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-08-12T11:37:00"
+   "latest_update": "2026-09-12T18:15:00"
   },
   "sia-ps": {
    "name": "Psicossocial",
