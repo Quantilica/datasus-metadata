@@ -310,7 +310,7 @@
    "partition_period_end": "2026-07",
    "partition_n_periods": 151,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-09-12T18:10:00"
+   "latest_update": "2026-09-14T15:00:00"
   },
   "sia-acf": {
    "name": "APAC Confeção de Fístula Arteriovenosa",
@@ -322,7 +322,7 @@
    "partition_period_end": "2026-07",
    "partition_n_periods": 144,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-09-12T18:10:00"
+   "latest_update": "2026-09-14T15:00:00"
   },
   "sia-ad": {
    "name": "APAC de Laudos Diversos",
@@ -334,7 +334,7 @@
    "partition_period_end": "2026-07",
    "partition_n_periods": 223,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-09-12T18:10:00"
+   "latest_update": "2026-09-14T15:00:00"
   },
   "sia-am": {
    "name": "APAC de Medicamentos",
@@ -346,7 +346,7 @@
    "partition_period_end": "2026-07",
    "partition_n_periods": 223,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-09-12T18:10:00"
+   "latest_update": "2026-09-14T15:00:00"
   },
   "sia-an": {
    "name": "APAC de Nefrologia",
@@ -370,7 +370,7 @@
    "partition_period_end": "2026-07",
    "partition_n_periods": 223,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-09-12T18:11:00"
+   "latest_update": "2026-09-14T15:01:00"
   },
   "sia-ar": {
    "name": "APAC de Radioterapia",
@@ -382,7 +382,7 @@
    "partition_period_end": "2026-07",
    "partition_n_periods": 223,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-09-12T18:11:00"
+   "latest_update": "2026-09-14T15:01:00"
   },
   "sia-atd": {
    "name": "APAC de Tratamento Dialítico",
@@ -394,31 +394,31 @@
    "partition_period_end": "2026-07",
    "partition_n_periods": 144,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-09-12T18:11:00"
+   "latest_update": "2026-09-14T15:01:00"
   },
   "sia-pa": {
    "name": "Produção Ambulatorial",
    "source": "sia",
-   "n_files": 10558,
-   "total_size": 194829768011,
+   "n_files": 10828,
+   "total_size": 218124235314,
    "partition_n_ufs": 27,
    "partition_period_start": "1994-07",
    "partition_period_end": "2026-07",
    "partition_n_periods": 385,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-09-12T18:15:00"
+   "latest_update": "2026-09-14T15:07:00"
   },
   "sia-ps": {
    "name": "Psicossocial",
    "source": "sia",
-   "n_files": 4367,
-   "total_size": 3273425678,
+   "n_files": 4394,
+   "total_size": 3328043945,
    "partition_n_ufs": 27,
    "partition_period_start": "2012-11",
-   "partition_period_end": "2026-06",
-   "partition_n_periods": 164,
+   "partition_period_end": "2026-07",
+   "partition_n_periods": 165,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-08-12T11:37:00"
+   "latest_update": "2026-09-14T15:07:00"
   },
   "sia-sad": {
    "name": "Atenção Domiciliar",
@@ -604,25 +604,25 @@
    "name": "Acidente de trabalho com material biológico",
    "source": "sinan",
    "n_files": 21,
-   "total_size": 55380105,
+   "total_size": 56721740,
    "partition_n_ufs": 1,
    "partition_period_start": "2006",
    "partition_period_end": "2026",
    "partition_n_periods": 21,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-06-09T08:56:00"
+   "latest_update": "2026-09-02T16:30:00"
   },
   "sinan-acgr": {
    "name": "Acidente de trabalho",
    "source": "sinan",
    "n_files": 21,
-   "total_size": 174422623,
+   "total_size": 185441488,
    "partition_n_ufs": 1,
    "partition_period_start": "2006",
    "partition_period_end": "2026",
    "partition_n_periods": 21,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-06-09T08:57:00"
+   "latest_update": "2026-09-02T16:33:00"
   },
   "sinan-aida": {
    "name": "AIDS em adultos",
@@ -688,13 +688,13 @@
    "name": "Câncer relacionado ao trabalho",
    "source": "sinan",
    "n_files": 20,
-   "total_size": 569017,
+   "total_size": 575873,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2026",
    "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-06-09T08:58:00"
+   "latest_update": "2026-09-03T09:24:00"
   },
   "sinan-chag": {
    "name": "Doença de Chagas Aguda",
@@ -736,13 +736,13 @@
    "name": "Coqueluche",
    "source": "sinan",
    "n_files": 20,
-   "total_size": 10754423,
+   "total_size": 10763446,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2026",
    "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-08-26T12:07:00"
+   "latest_update": "2026-09-04T12:27:00"
   },
   "sinan-deng": {
    "name": "Dengue",
@@ -760,13 +760,13 @@
    "name": "Dermatoses ocupacionais",
    "source": "sinan",
    "n_files": 21,
-   "total_size": 673220,
+   "total_size": 690948,
    "partition_n_ufs": 1,
    "partition_period_start": "2006",
    "partition_period_end": "2026",
    "partition_n_periods": 21,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-06-09T09:00:00"
+   "latest_update": "2026-09-03T09:27:00"
   },
   "sinan-dift": {
    "name": "Difteria",
@@ -778,7 +778,7 @@
    "partition_period_end": "2026",
    "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-08-26T12:08:00"
+   "latest_update": "2026-09-04T12:27:00"
   },
   "sinan-espo": {
    "name": "Esporotricose (Epizootia)",
@@ -940,13 +940,13 @@
    "name": "Leishmaniose Visceral",
    "source": "sinan",
    "n_files": 26,
-   "total_size": 13183687,
+   "total_size": 13423706,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
    "partition_period_end": "2025",
    "partition_n_periods": 26,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-12-02T11:20:00"
+   "latest_update": "2026-09-03T16:07:00"
   },
   "sinan-lept": {
    "name": "Leptospirose",
@@ -976,13 +976,13 @@
    "name": "Leishmaniose Tegumentar Americana",
    "source": "sinan",
    "n_files": 26,
-   "total_size": 38507374,
+   "total_size": 38750493,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
    "partition_period_end": "2025",
    "partition_n_periods": 26,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-09-26T10:17:00"
+   "latest_update": "2026-09-14T12:23:00"
   },
   "sinan-mala": {
    "name": "Malária",
@@ -1168,13 +1168,13 @@
    "name": "Tétano Acidental",
    "source": "sinan",
    "n_files": 20,
-   "total_size": 756111,
+   "total_size": 757977,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2026",
    "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-08-26T12:11:00"
+   "latest_update": "2026-09-04T12:28:00"
   },
   "sinan-tetn": {
    "name": "Tétano Neonatal",
@@ -1186,7 +1186,7 @@
    "partition_period_end": "2026",
    "partition_n_periods": 13,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-08-26T12:12:00"
+   "latest_update": "2026-09-04T12:28:00"
   },
   "sinan-toxc": {
    "name": "Toxoplasmose Congênita",

@@ -272,9 +272,9 @@
  {
   "filename": "TETABR25.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TETABR25.dbc",
-  "datetime": "2026-08-26T12:11:00",
+  "datetime": "2026-09-04T12:28:00",
   "extension": "dbc",
-  "size": 44582,
+  "size": 44703,
   "dataset": "sinan-teta",
   "partition": {
    "uf": "br",
@@ -287,9 +287,9 @@
  {
   "filename": "TETABR26.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TETABR26.dbc",
-  "datetime": "2026-08-26T12:11:00",
+  "datetime": "2026-09-04T12:28:00",
   "extension": "dbc",
-  "size": 32898,
+  "size": 34643,
   "dataset": "sinan-teta",
   "partition": {
    "uf": "br",
