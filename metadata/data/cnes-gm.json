@@ -88828,5 +88828,410 @@
    "subpartition": null
   },
   "preliminary": false
+ },
+ {
+  "filename": "GMAC2608.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMAC2608.dbc",
+  "datetime": "2026-09-15T08:44:00",
+  "extension": "dbc",
+  "size": 1135,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "ac",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMAL2608.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMAL2608.dbc",
+  "datetime": "2026-09-15T08:44:00",
+  "extension": "dbc",
+  "size": 1278,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "al",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMAM2608.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMAM2608.dbc",
+  "datetime": "2026-09-15T08:44:00",
+  "extension": "dbc",
+  "size": 1135,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "am",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMAP2608.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMAP2608.dbc",
+  "datetime": "2026-09-15T08:44:00",
+  "extension": "dbc",
+  "size": 1202,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "ap",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMBA2608.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMBA2608.dbc",
+  "datetime": "2026-09-15T08:44:00",
+  "extension": "dbc",
+  "size": 2909,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "ba",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMCE2608.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMCE2608.dbc",
+  "datetime": "2026-09-15T08:44:00",
+  "extension": "dbc",
+  "size": 3592,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "ce",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMDF2608.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMDF2608.dbc",
+  "datetime": "2026-09-15T08:44:00",
+  "extension": "dbc",
+  "size": 1684,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "df",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMES2608.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMES2608.dbc",
+  "datetime": "2026-09-15T08:44:00",
+  "extension": "dbc",
+  "size": 1844,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "es",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMGO2608.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMGO2608.dbc",
+  "datetime": "2026-09-15T08:44:00",
+  "extension": "dbc",
+  "size": 1746,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "go",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMMA2608.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMMA2608.dbc",
+  "datetime": "2026-09-15T08:44:00",
+  "extension": "dbc",
+  "size": 2314,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "ma",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMMG2608.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMMG2608.dbc",
+  "datetime": "2026-09-15T08:44:00",
+  "extension": "dbc",
+  "size": 6479,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "mg",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMMS2608.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMMS2608.dbc",
+  "datetime": "2026-09-15T08:44:00",
+  "extension": "dbc",
+  "size": 3132,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "ms",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMMT2608.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMMT2608.dbc",
+  "datetime": "2026-09-15T08:44:00",
+  "extension": "dbc",
+  "size": 2272,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "mt",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMPA2608.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMPA2608.dbc",
+  "datetime": "2026-09-15T08:44:00",
+  "extension": "dbc",
+  "size": 2403,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "pa",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMPB2608.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMPB2608.dbc",
+  "datetime": "2026-09-15T08:44:00",
+  "extension": "dbc",
+  "size": 1710,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "pb",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMPE2608.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMPE2608.dbc",
+  "datetime": "2026-09-15T08:44:00",
+  "extension": "dbc",
+  "size": 3273,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "pe",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMPI2608.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMPI2608.dbc",
+  "datetime": "2026-09-15T08:44:00",
+  "extension": "dbc",
+  "size": 3468,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "pi",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMPR2608.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMPR2608.dbc",
+  "datetime": "2026-09-15T08:44:00",
+  "extension": "dbc",
+  "size": 4407,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "pr",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMRJ2608.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMRJ2608.dbc",
+  "datetime": "2026-09-15T08:44:00",
+  "extension": "dbc",
+  "size": 4578,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "rj",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMRN2608.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMRN2608.dbc",
+  "datetime": "2026-09-15T08:44:00",
+  "extension": "dbc",
+  "size": 1566,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "rn",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMRO2608.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMRO2608.dbc",
+  "datetime": "2026-09-15T08:44:00",
+  "extension": "dbc",
+  "size": 1196,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "ro",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMRR2608.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMRR2608.dbc",
+  "datetime": "2026-09-15T08:44:00",
+  "extension": "dbc",
+  "size": 1519,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "rr",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMRS2608.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMRS2608.dbc",
+  "datetime": "2026-09-15T08:44:00",
+  "extension": "dbc",
+  "size": 4065,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "rs",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMSC2608.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMSC2608.dbc",
+  "datetime": "2026-09-15T08:44:00",
+  "extension": "dbc",
+  "size": 7505,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "sc",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMSE2608.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMSE2608.dbc",
+  "datetime": "2026-09-15T08:44:00",
+  "extension": "dbc",
+  "size": 2230,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "se",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMSP2608.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMSP2608.dbc",
+  "datetime": "2026-09-15T08:44:00",
+  "extension": "dbc",
+  "size": 7698,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "sp",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMTO2608.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMTO2608.dbc",
+  "datetime": "2026-09-15T08:44:00",
+  "extension": "dbc",
+  "size": 1296,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "to",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
  }
 ]
