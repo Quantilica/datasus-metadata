@@ -400,13 +400,13 @@
    "name": "Produção Ambulatorial",
    "source": "sia",
    "n_files": 10828,
-   "total_size": 218124235314,
+   "total_size": 218246208800,
    "partition_n_ufs": 27,
    "partition_period_start": "1994-07",
    "partition_period_end": "2026-07",
    "partition_n_periods": 385,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-09-14T15:07:00"
+   "latest_update": "2026-09-17T17:30:00"
   },
   "sia-ps": {
    "name": "Psicossocial",
