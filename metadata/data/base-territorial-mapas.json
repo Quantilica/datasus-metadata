@@ -1243,5 +1243,425 @@
    "subpartition": null
   },
   "preliminary": false
+ },
+ {
+  "filename": "ac_mapas_2025.zip",
+  "full_path": "/territorio/mapas/ac_mapas_2025.zip",
+  "datetime": "2026-09-18T17:25:00",
+  "extension": "zip",
+  "size": 58228,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "ac",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "al_mapas_2025.zip",
+  "full_path": "/territorio/mapas/al_mapas_2025.zip",
+  "datetime": "2026-09-18T17:26:00",
+  "extension": "zip",
+  "size": 62760,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "al",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "am_mapas_2025.zip",
+  "full_path": "/territorio/mapas/am_mapas_2025.zip",
+  "datetime": "2026-09-18T17:26:00",
+  "extension": "zip",
+  "size": 519980,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "am",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ap_mapas_2025.zip",
+  "full_path": "/territorio/mapas/ap_mapas_2025.zip",
+  "datetime": "2026-09-18T17:27:00",
+  "extension": "zip",
+  "size": 106246,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "ap",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ba_mapas_2025.zip",
+  "full_path": "/territorio/mapas/ba_mapas_2025.zip",
+  "datetime": "2026-09-18T17:27:00",
+  "extension": "zip",
+  "size": 602272,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "ba",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "br_mapas_2025.zip",
+  "full_path": "/territorio/mapas/br_mapas_2025.zip",
+  "datetime": "2026-09-18T17:27:00",
+  "extension": "zip",
+  "size": 9857505,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "br",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ce_mapas_2025.zip",
+  "full_path": "/territorio/mapas/ce_mapas_2025.zip",
+  "datetime": "2026-09-18T17:28:00",
+  "extension": "zip",
+  "size": 205326,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "ce",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "df_mapas_2025.zip",
+  "full_path": "/territorio/mapas/df_mapas_2025.zip",
+  "datetime": "2026-09-18T17:28:00",
+  "extension": "zip",
+  "size": 6362,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "df",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "es_mapas_2025.zip",
+  "full_path": "/territorio/mapas/es_mapas_2025.zip",
+  "datetime": "2026-09-18T17:28:00",
+  "extension": "zip",
+  "size": 89002,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "es",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "go_mapas_2025.zip",
+  "full_path": "/territorio/mapas/go_mapas_2025.zip",
+  "datetime": "2026-09-18T17:29:00",
+  "extension": "zip",
+  "size": 398797,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "go",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ma_mapas_2025.zip",
+  "full_path": "/territorio/mapas/ma_mapas_2025.zip",
+  "datetime": "2026-09-18T17:29:00",
+  "extension": "zip",
+  "size": 321667,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "ma",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "mg_mapas_2025.zip",
+  "full_path": "/territorio/mapas/mg_mapas_2025.zip",
+  "datetime": "2026-09-18T17:29:00",
+  "extension": "zip",
+  "size": 1162654,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ms_mapas_2025.zip",
+  "full_path": "/territorio/mapas/ms_mapas_2025.zip",
+  "datetime": "2026-09-18T17:30:00",
+  "extension": "zip",
+  "size": 264052,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "ms",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "mt_mapas_2025.zip",
+  "full_path": "/territorio/mapas/mt_mapas_2025.zip",
+  "datetime": "2026-09-18T17:30:00",
+  "extension": "zip",
+  "size": 525439,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "mt",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "pa_mapas_2025.zip",
+  "full_path": "/territorio/mapas/pa_mapas_2025.zip",
+  "datetime": "2026-09-18T17:30:00",
+  "extension": "zip",
+  "size": 487152,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "pa",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "pb_mapas_2025.zip",
+  "full_path": "/territorio/mapas/pb_mapas_2025.zip",
+  "datetime": "2026-09-18T17:31:00",
+  "extension": "zip",
+  "size": 145016,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "pb",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "pe_mapas_2025.zip",
+  "full_path": "/territorio/mapas/pe_mapas_2025.zip",
+  "datetime": "2026-09-18T17:31:00",
+  "extension": "zip",
+  "size": 166002,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "pe",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "pi_mapas_2025.zip",
+  "full_path": "/territorio/mapas/pi_mapas_2025.zip",
+  "datetime": "2026-09-18T17:31:00",
+  "extension": "zip",
+  "size": 194695,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "pi",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "pr_mapas_2025.zip",
+  "full_path": "/territorio/mapas/pr_mapas_2025.zip",
+  "datetime": "2026-09-18T17:32:00",
+  "extension": "zip",
+  "size": 388899,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "pr",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "rj_mapas_2025.zip",
+  "full_path": "/territorio/mapas/rj_mapas_2025.zip",
+  "datetime": "2026-09-18T17:32:00",
+  "extension": "zip",
+  "size": 155291,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "rj",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "rn_mapas_2025.zip",
+  "full_path": "/territorio/mapas/rn_mapas_2025.zip",
+  "datetime": "2026-09-18T17:32:00",
+  "extension": "zip",
+  "size": 76400,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "rn",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ro_mapas_2025.zip",
+  "full_path": "/territorio/mapas/ro_mapas_2025.zip",
+  "datetime": "2026-09-18T17:33:00",
+  "extension": "zip",
+  "size": 143075,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "ro",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "rr_mapas_2025.zip",
+  "full_path": "/territorio/mapas/rr_mapas_2025.zip",
+  "datetime": "2026-09-18T17:33:00",
+  "extension": "zip",
+  "size": 121760,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "rr",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "rs_mapas_2025.zip",
+  "full_path": "/territorio/mapas/rs_mapas_2025.zip",
+  "datetime": "2026-09-18T17:34:00",
+  "extension": "zip",
+  "size": 546214,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "rs",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "sc_mapas_2025.zip",
+  "full_path": "/territorio/mapas/sc_mapas_2025.zip",
+  "datetime": "2026-09-18T17:34:00",
+  "extension": "zip",
+  "size": 297467,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "sc",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "se_mapas_2025.zip",
+  "full_path": "/territorio/mapas/se_mapas_2025.zip",
+  "datetime": "2026-09-18T17:34:00",
+  "extension": "zip",
+  "size": 51128,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "se",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "sp_mapas_2025.zip",
+  "full_path": "/territorio/mapas/sp_mapas_2025.zip",
+  "datetime": "2026-09-18T17:35:00",
+  "extension": "zip",
+  "size": 621657,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "to_mapas_2025.zip",
+  "full_path": "/territorio/mapas/to_mapas_2025.zip",
+  "datetime": "2026-09-18T17:35:00",
+  "extension": "zip",
+  "size": 265947,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "to",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
  }
 ]
