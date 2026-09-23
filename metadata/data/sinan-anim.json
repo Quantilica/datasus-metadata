@@ -242,9 +242,9 @@
  {
   "filename": "ANIMBR23.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/ANIMBR23.dbc",
-  "datetime": "2026-07-13T10:48:00",
+  "datetime": "2026-09-21T09:50:00",
   "extension": "dbc",
-  "size": 13464503,
+  "size": 13473666,
   "dataset": "sinan-anim",
   "partition": {
    "uf": "br",
@@ -272,9 +272,9 @@
  {
   "filename": "ANIMBR25.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/ANIMBR25.dbc",
-  "datetime": "2026-08-26T11:16:00",
+  "datetime": "2026-09-21T09:50:00",
   "extension": "dbc",
-  "size": 15220486,
+  "size": 15224284,
   "dataset": "sinan-anim",
   "partition": {
    "uf": "br",
@@ -287,9 +287,9 @@
  {
   "filename": "ANIMBR26.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/ANIMBR26.dbc",
-  "datetime": "2026-08-26T11:16:00",
+  "datetime": "2026-09-21T09:50:00",
   "extension": "dbc",
-  "size": 9074926,
+  "size": 10349385,
   "dataset": "sinan-anim",
   "partition": {
    "uf": "br",
