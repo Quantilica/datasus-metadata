@@ -272,9 +272,9 @@
  {
   "filename": "DIFTBR25.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/DIFTBR25.dbc",
-  "datetime": "2026-09-04T12:27:00",
+  "datetime": "2026-09-21T09:22:00",
   "extension": "dbc",
-  "size": 6465,
+  "size": 6463,
   "dataset": "sinan-dift",
   "partition": {
    "uf": "br",
@@ -287,9 +287,9 @@
  {
   "filename": "DIFTBR26.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/DIFTBR26.dbc",
-  "datetime": "2026-09-04T12:27:00",
+  "datetime": "2026-09-21T09:22:00",
   "extension": "dbc",
-  "size": 4417,
+  "size": 4721,
   "dataset": "sinan-dift",
   "partition": {
    "uf": "br",
