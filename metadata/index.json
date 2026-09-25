@@ -1000,13 +1000,13 @@
    "name": "Meningite",
    "source": "sinan",
    "n_files": 20,
-   "total_size": 48819104,
+   "total_size": 49179538,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2026",
    "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-08-07T09:06:00"
+   "latest_update": "2026-09-21T09:33:00"
   },
   "sinan-ment": {
    "name": "Transtornos mentais relacionados ao trabalho",
