@@ -808,13 +808,13 @@
    "name": "Doenças exantemáticas",
    "source": "sinan",
    "n_files": 20,
-   "total_size": 15178330,
+   "total_size": 15336368,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2026",
    "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-05-13T09:41:00"
+   "latest_update": "2026-09-23T11:53:00"
   },
   "sinan-fmac": {
    "name": "Febre Maculosa",
