@@ -700,13 +700,13 @@
    "name": "Doença de Chagas Aguda",
    "source": "sinan",
    "n_files": 26,
-   "total_size": 5085189,
+   "total_size": 5072294,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
    "partition_period_end": "2025",
    "partition_n_periods": 26,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-05-12T14:21:00"
+   "latest_update": "2026-09-28T10:23:00"
   },
   "sinan-chik": {
    "name": "Febre de Chikungunya",
