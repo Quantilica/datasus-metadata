@@ -12602,9 +12602,9 @@
  {
   "filename": "DOAC2026.dbc",
   "full_path": "/dissemin/publicos/SIM/PRELIM/DORES/DOAC2026.dbc",
-  "datetime": "2026-07-28T13:55:00",
+  "datetime": "2026-09-28T11:52:00",
   "extension": "dbc",
-  "size": 116218,
+  "size": 195235,
   "dataset": "sim-do-cid10",
   "partition": {
    "uf": "ac",
@@ -12617,9 +12617,9 @@
  {
   "filename": "DOAL2026.dbc",
   "full_path": "/dissemin/publicos/SIM/PRELIM/DORES/DOAL2026.dbc",
-  "datetime": "2026-07-28T13:55:00",
+  "datetime": "2026-09-28T11:52:00",
   "extension": "dbc",
-  "size": 582418,
+  "size": 1085966,
   "dataset": "sim-do-cid10",
   "partition": {
    "uf": "al",
@@ -12632,9 +12632,9 @@
  {
   "filename": "DOAM2026.dbc",
   "full_path": "/dissemin/publicos/SIM/PRELIM/DORES/DOAM2026.dbc",
-  "datetime": "2026-07-28T13:55:00",
+  "datetime": "2026-09-28T11:52:00",
   "extension": "dbc",
-  "size": 523231,
+  "size": 994367,
   "dataset": "sim-do-cid10",
   "partition": {
    "uf": "am",
@@ -12647,9 +12647,9 @@
  {
   "filename": "DOAP2026.dbc",
   "full_path": "/dissemin/publicos/SIM/PRELIM/DORES/DOAP2026.dbc",
-  "datetime": "2026-07-28T13:55:00",
+  "datetime": "2026-09-28T11:52:00",
   "extension": "dbc",
-  "size": 107630,
+  "size": 195315,
   "dataset": "sim-do-cid10",
   "partition": {
    "uf": "ap",
@@ -12662,9 +12662,9 @@
  {
   "filename": "DOBA2026.dbc",
   "full_path": "/dissemin/publicos/SIM/PRELIM/DORES/DOBA2026.dbc",
-  "datetime": "2026-07-28T13:55:00",
+  "datetime": "2026-09-28T11:52:00",
   "extension": "dbc",
-  "size": 2596753,
+  "size": 4823879,
   "dataset": "sim-do-cid10",
   "partition": {
    "uf": "ba",
@@ -12677,9 +12677,9 @@
  {
   "filename": "DOBR2026.dbc",
   "full_path": "/dissemin/publicos/SIM/PRELIM/DORES/DOBR2026.dbc",
-  "datetime": "2026-07-28T13:57:00",
+  "datetime": "2026-09-28T11:53:00",
   "extension": "dbc",
-  "size": 38212175,
+  "size": 73395328,
   "dataset": "sim-do-cid10",
   "partition": {
    "uf": "br",
@@ -12692,9 +12692,9 @@
  {
   "filename": "DOCE2026.dbc",
   "full_path": "/dissemin/publicos/SIM/PRELIM/DORES/DOCE2026.dbc",
-  "datetime": "2026-07-28T13:57:00",
+  "datetime": "2026-09-28T11:53:00",
   "extension": "dbc",
-  "size": 1710034,
+  "size": 3123126,
   "dataset": "sim-do-cid10",
   "partition": {
    "uf": "ce",
@@ -12707,9 +12707,9 @@
  {
   "filename": "DODF2026.dbc",
   "full_path": "/dissemin/publicos/SIM/PRELIM/DORES/DODF2026.dbc",
-  "datetime": "2026-07-28T13:57:00",
+  "datetime": "2026-09-28T11:53:00",
   "extension": "dbc",
-  "size": 414041,
+  "size": 777826,
   "dataset": "sim-do-cid10",
   "partition": {
    "uf": "df",
@@ -12722,9 +12722,9 @@
  {
   "filename": "DOES2026.dbc",
   "full_path": "/dissemin/publicos/SIM/PRELIM/DORES/DOES2026.dbc",
-  "datetime": "2026-07-28T13:57:00",
+  "datetime": "2026-09-28T11:53:00",
   "extension": "dbc",
-  "size": 692925,
+  "size": 1313649,
   "dataset": "sim-do-cid10",
   "partition": {
    "uf": "es",
@@ -12737,9 +12737,9 @@
  {
   "filename": "DOGO2026.dbc",
   "full_path": "/dissemin/publicos/SIM/PRELIM/DORES/DOGO2026.dbc",
-  "datetime": "2026-07-28T13:57:00",
+  "datetime": "2026-09-28T11:53:00",
   "extension": "dbc",
-  "size": 1294755,
+  "size": 2545970,
   "dataset": "sim-do-cid10",
   "partition": {
    "uf": "go",
@@ -12752,9 +12752,9 @@
  {
   "filename": "DOMA2026.dbc",
   "full_path": "/dissemin/publicos/SIM/PRELIM/DORES/DOMA2026.dbc",
-  "datetime": "2026-07-28T13:57:00",
+  "datetime": "2026-09-28T11:53:00",
   "extension": "dbc",
-  "size": 1175698,
+  "size": 2075240,
   "dataset": "sim-do-cid10",
   "partition": {
    "uf": "ma",
@@ -12767,9 +12767,9 @@
  {
   "filename": "DOMG2026.dbc",
   "full_path": "/dissemin/publicos/SIM/PRELIM/DORES/DOMG2026.dbc",
-  "datetime": "2026-07-28T13:57:00",
+  "datetime": "2026-09-28T11:53:00",
   "extension": "dbc",
-  "size": 3726673,
+  "size": 7276056,
   "dataset": "sim-do-cid10",
   "partition": {
    "uf": "mg",
@@ -12782,9 +12782,9 @@
  {
   "filename": "DOMS2026.dbc",
   "full_path": "/dissemin/publicos/SIM/PRELIM/DORES/DOMS2026.dbc",
-  "datetime": "2026-07-28T13:57:00",
+  "datetime": "2026-09-28T11:53:00",
   "extension": "dbc",
-  "size": 536009,
+  "size": 995076,
   "dataset": "sim-do-cid10",
   "partition": {
    "uf": "ms",
@@ -12797,9 +12797,9 @@
  {
   "filename": "DOMT2026.dbc",
   "full_path": "/dissemin/publicos/SIM/PRELIM/DORES/DOMT2026.dbc",
-  "datetime": "2026-07-28T13:57:00",
+  "datetime": "2026-09-28T11:53:00",
   "extension": "dbc",
-  "size": 656171,
+  "size": 1163548,
   "dataset": "sim-do-cid10",
   "partition": {
    "uf": "mt",
@@ -12812,9 +12812,9 @@
  {
   "filename": "DOPA2026.dbc",
   "full_path": "/dissemin/publicos/SIM/PRELIM/DORES/DOPA2026.dbc",
-  "datetime": "2026-07-28T13:57:00",
+  "datetime": "2026-09-28T11:53:00",
   "extension": "dbc",
-  "size": 1315399,
+  "size": 2368865,
   "dataset": "sim-do-cid10",
   "partition": {
    "uf": "pa",
@@ -12827,9 +12827,9 @@
  {
   "filename": "DOPB2026.dbc",
   "full_path": "/dissemin/publicos/SIM/PRELIM/DORES/DOPB2026.dbc",
-  "datetime": "2026-07-28T13:57:00",
+  "datetime": "2026-09-28T11:53:00",
   "extension": "dbc",
-  "size": 818464,
+  "size": 1435524,
   "dataset": "sim-do-cid10",
   "partition": {
    "uf": "pb",
@@ -12842,9 +12842,9 @@
  {
   "filename": "DOPE2026.dbc",
   "full_path": "/dissemin/publicos/SIM/PRELIM/DORES/DOPE2026.dbc",
-  "datetime": "2026-07-28T13:58:00",
+  "datetime": "2026-09-28T11:53:00",
   "extension": "dbc",
-  "size": 1789119,
+  "size": 3474771,
   "dataset": "sim-do-cid10",
   "partition": {
    "uf": "pe",
@@ -12857,9 +12857,9 @@
  {
   "filename": "DOPI2026.dbc",
   "full_path": "/dissemin/publicos/SIM/PRELIM/DORES/DOPI2026.dbc",
-  "datetime": "2026-07-28T13:58:00",
+  "datetime": "2026-09-28T11:53:00",
   "extension": "dbc",
-  "size": 626804,
+  "size": 1155072,
   "dataset": "sim-do-cid10",
   "partition": {
    "uf": "pi",
@@ -12872,9 +12872,9 @@
  {
   "filename": "DOPR2026.dbc",
   "full_path": "/dissemin/publicos/SIM/PRELIM/DORES/DOPR2026.dbc",
-  "datetime": "2026-07-28T13:58:00",
+  "datetime": "2026-09-28T11:53:00",
   "extension": "dbc",
-  "size": 2332988,
+  "size": 4541007,
   "dataset": "sim-do-cid10",
   "partition": {
    "uf": "pr",
@@ -12887,9 +12887,9 @@
  {
   "filename": "DORJ2026.dbc",
   "full_path": "/dissemin/publicos/SIM/PRELIM/DORES/DORJ2026.dbc",
-  "datetime": "2026-07-28T13:58:00",
+  "datetime": "2026-09-28T11:53:00",
   "extension": "dbc",
-  "size": 3549815,
+  "size": 7034483,
   "dataset": "sim-do-cid10",
   "partition": {
    "uf": "rj",
@@ -12902,9 +12902,9 @@
  {
   "filename": "DORN2026.dbc",
   "full_path": "/dissemin/publicos/SIM/PRELIM/DORES/DORN2026.dbc",
-  "datetime": "2026-07-28T13:58:00",
+  "datetime": "2026-09-28T11:53:00",
   "extension": "dbc",
-  "size": 633889,
+  "size": 1152202,
   "dataset": "sim-do-cid10",
   "partition": {
    "uf": "rn",
@@ -12917,9 +12917,9 @@
  {
   "filename": "DORO2026.dbc",
   "full_path": "/dissemin/publicos/SIM/PRELIM/DORES/DORO2026.dbc",
-  "datetime": "2026-07-28T13:58:00",
+  "datetime": "2026-09-28T11:53:00",
   "extension": "dbc",
-  "size": 294077,
+  "size": 497718,
   "dataset": "sim-do-cid10",
   "partition": {
    "uf": "ro",
@@ -12932,9 +12932,9 @@
  {
   "filename": "DORR2026.dbc",
   "full_path": "/dissemin/publicos/SIM/PRELIM/DORES/DORR2026.dbc",
-  "datetime": "2026-07-28T13:58:00",
+  "datetime": "2026-09-28T11:53:00",
   "extension": "dbc",
-  "size": 85374,
+  "size": 168745,
   "dataset": "sim-do-cid10",
   "partition": {
    "uf": "rr",
@@ -12947,9 +12947,9 @@
  {
   "filename": "DORS2026.dbc",
   "full_path": "/dissemin/publicos/SIM/PRELIM/DORES/DORS2026.dbc",
-  "datetime": "2026-07-28T13:58:00",
+  "datetime": "2026-09-28T11:53:00",
   "extension": "dbc",
-  "size": 2196654,
+  "size": 4412752,
   "dataset": "sim-do-cid10",
   "partition": {
    "uf": "rs",
@@ -12962,9 +12962,9 @@
  {
   "filename": "DOSC2026.dbc",
   "full_path": "/dissemin/publicos/SIM/PRELIM/DORES/DOSC2026.dbc",
-  "datetime": "2026-07-28T13:58:00",
+  "datetime": "2026-09-28T11:53:00",
   "extension": "dbc",
-  "size": 1342245,
+  "size": 2611771,
   "dataset": "sim-do-cid10",
   "partition": {
    "uf": "sc",
@@ -12977,9 +12977,9 @@
  {
   "filename": "DOSE2026.dbc",
   "full_path": "/dissemin/publicos/SIM/PRELIM/DORES/DOSE2026.dbc",
-  "datetime": "2026-07-28T13:58:00",
+  "datetime": "2026-09-28T11:53:00",
   "extension": "dbc",
-  "size": 423130,
+  "size": 764786,
   "dataset": "sim-do-cid10",
   "partition": {
    "uf": "se",
@@ -12992,9 +12992,9 @@
  {
   "filename": "DOSP2026.dbc",
   "full_path": "/dissemin/publicos/SIM/PRELIM/DORES/DOSP2026.dbc",
-  "datetime": "2026-07-28T13:58:00",
+  "datetime": "2026-09-28T11:53:00",
   "extension": "dbc",
-  "size": 8572066,
+  "size": 16330857,
   "dataset": "sim-do-cid10",
   "partition": {
    "uf": "sp",
@@ -13007,9 +13007,9 @@
  {
   "filename": "DOTO2026.dbc",
   "full_path": "/dissemin/publicos/SIM/PRELIM/DORES/DOTO2026.dbc",
-  "datetime": "2026-07-28T13:58:00",
+  "datetime": "2026-09-28T11:53:00",
   "extension": "dbc",
-  "size": 276046,
+  "size": 493054,
   "dataset": "sim-do-cid10",
   "partition": {
    "uf": "to",

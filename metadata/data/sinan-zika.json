@@ -167,9 +167,9 @@
  {
   "filename": "ZIKABR26.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/ZIKABR26.dbc",
-  "datetime": "2026-09-22T09:27:00",
+  "datetime": "2026-09-29T08:08:00",
   "extension": "dbc",
-  "size": 342816,
+  "size": 350327,
   "dataset": "sinan-zika",
   "partition": {
    "uf": "br",

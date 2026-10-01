@@ -496,13 +496,13 @@
    "name": "Declarações de Óbito CID-10",
    "source": "sim",
    "n_files": 868,
-   "total_size": 5112282580,
+   "total_size": 5182083967,
    "partition_n_ufs": 28,
    "partition_period_start": "1996",
    "partition_period_end": "2026",
    "partition_n_periods": 31,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-08-30T11:30:00"
+   "latest_update": "2026-09-28T11:53:00"
   },
   "sim-doext-cid09": {
    "name": "Declarações de Óbito Externas CID-9",
@@ -712,13 +712,13 @@
    "name": "Febre de Chikungunya",
    "source": "sinan",
    "n_files": 13,
-   "total_size": 99553439,
+   "total_size": 99304942,
    "partition_n_ufs": 1,
    "partition_period_start": "2014",
    "partition_period_end": "2026",
    "partition_n_periods": 13,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-09-22T09:26:00"
+   "latest_update": "2026-09-29T08:06:00"
   },
   "sinan-cole": {
    "name": "Cólera",
@@ -748,13 +748,13 @@
    "name": "Dengue",
    "source": "sinan",
    "n_files": 27,
-   "total_size": 1074305623,
+   "total_size": 1075064579,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
    "partition_period_end": "2026",
    "partition_n_periods": 27,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-09-22T09:26:00"
+   "latest_update": "2026-09-29T08:04:00"
   },
   "sinan-derm": {
    "name": "Dermatoses ocupacionais",
@@ -1264,25 +1264,25 @@
    "name": "Zika Vírus",
    "source": "sinan",
    "n_files": 12,
-   "total_size": 14146695,
+   "total_size": 14154206,
    "partition_n_ufs": 1,
    "partition_period_start": "2015",
    "partition_period_end": "2026",
    "partition_n_periods": 12,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-09-22T09:27:00"
+   "latest_update": "2026-09-29T08:08:00"
   },
   "sinasc-dn": {
    "name": "Declarações de nascidos vivos",
    "source": "sinasc",
    "n_files": 922,
-   "total_size": 7095241435,
+   "total_size": 7156032519,
    "partition_n_ufs": 28,
    "partition_period_start": "1994",
    "partition_period_end": "2026",
    "partition_n_periods": 33,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-08-27T10:55:00"
+   "latest_update": "2026-09-28T11:39:00"
   },
   "sinasc-dnex": {
    "name": "Declarações de nascidos vivos no exterior",
