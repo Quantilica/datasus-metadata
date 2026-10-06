@@ -736,13 +736,13 @@
    "name": "Coqueluche",
    "source": "sinan",
    "n_files": 20,
-   "total_size": 10774826,
+   "total_size": 10778463,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2026",
    "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-09-21T09:20:00"
+   "latest_update": "2026-10-01T14:44:00"
   },
   "sinan-deng": {
    "name": "Dengue",
@@ -772,13 +772,13 @@
    "name": "Difteria",
    "source": "sinan",
    "n_files": 20,
-   "total_size": 149913,
+   "total_size": 150010,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2026",
    "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-09-21T09:22:00"
+   "latest_update": "2026-10-01T14:46:00"
   },
   "sinan-espo": {
    "name": "Esporotricose (Epizootia)",
@@ -928,13 +928,13 @@
    "name": "Intoxicação Exógena",
    "source": "sinan",
    "n_files": 21,
-   "total_size": 205217674,
+   "total_size": 209486659,
    "partition_n_ufs": 1,
    "partition_period_start": "2006",
    "partition_period_end": "2026",
    "partition_n_periods": 21,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-07-31T11:26:00"
+   "latest_update": "2026-09-28T10:37:00"
   },
   "sinan-leiv": {
    "name": "Leishmaniose Visceral",
@@ -1168,13 +1168,13 @@
    "name": "Tétano Acidental",
    "source": "sinan",
    "n_files": 20,
-   "total_size": 760952,
+   "total_size": 762884,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2026",
    "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-09-21T09:23:00"
+   "latest_update": "2026-10-01T14:47:00"
   },
   "sinan-tetn": {
    "name": "Tétano Neonatal",
@@ -1186,7 +1186,7 @@
    "partition_period_end": "2026",
    "partition_n_periods": 13,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-09-21T09:24:00"
+   "latest_update": "2026-10-01T14:47:00"
   },
   "sinan-toxc": {
    "name": "Toxoplasmose Congênita",
@@ -1239,14 +1239,14 @@
   "sinan-varc": {
    "name": "Varicela",
    "source": "sinan",
-   "n_files": 19,
-   "total_size": 35485448,
+   "n_files": 20,
+   "total_size": 35892025,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
-   "partition_period_end": "2025",
-   "partition_n_periods": 19,
+   "partition_period_end": "2026",
+   "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-10-03T12:15:00"
+   "latest_update": "2026-10-01T15:23:00"
   },
   "sinan-viol": {
    "name": "Violência doméstica, sexual e/ou outras violências",
@@ -1507,8 +1507,8 @@
   "sinan": {
    "source_name": "SINAN: Sistema de Informação de Agravos de Notificação",
    "n_files": 3,
-   "total_size": 44275669,
-   "latest_update": "2025-11-11T12:14:00"
+   "total_size": 44276151,
+   "latest_update": "2026-10-05T20:05:00"
   },
   "sinasc": {
    "source_name": "SINASC: Sistema de Informação de Nascidos Vivos",
