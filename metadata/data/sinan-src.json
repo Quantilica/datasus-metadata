@@ -242,9 +242,9 @@
  {
   "filename": "SRCBR23.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/SRCBR23.dbc",
-  "datetime": "2026-05-13T09:41:00",
+  "datetime": "2026-09-25T16:40:00",
   "extension": "dbc",
-  "size": 7744,
+  "size": 7751,
   "dataset": "sinan-src",
   "partition": {
    "uf": "br",
@@ -257,9 +257,9 @@
  {
   "filename": "SRCBR24.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/SRCBR24.dbc",
-  "datetime": "2026-05-13T09:41:00",
+  "datetime": "2026-09-25T16:40:00",
   "extension": "dbc",
-  "size": 7367,
+  "size": 7369,
   "dataset": "sinan-src",
   "partition": {
    "uf": "br",
@@ -272,9 +272,9 @@
  {
   "filename": "SRCBR25.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/SRCBR25.dbc",
-  "datetime": "2026-05-13T09:41:00",
+  "datetime": "2026-09-25T16:40:00",
   "extension": "dbc",
-  "size": 5435,
+  "size": 5502,
   "dataset": "sinan-src",
   "partition": {
    "uf": "br",
@@ -287,9 +287,9 @@
  {
   "filename": "SRCBR26.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/SRCBR26.dbc",
-  "datetime": "2026-05-13T09:41:00",
+  "datetime": "2026-09-25T16:40:00",
   "extension": "dbc",
-  "size": 3372,
+  "size": 5214,
   "dataset": "sinan-src",
   "partition": {
    "uf": "br",
