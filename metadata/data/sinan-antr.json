@@ -212,9 +212,9 @@
  {
   "filename": "ANTRBR20.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/ANTRBR20.dbc",
-  "datetime": "2024-10-23T18:05:00",
+  "datetime": "2026-10-13T16:46:00",
   "extension": "dbc",
-  "size": 22271998,
+  "size": 23176636,
   "dataset": "sinan-antr",
   "partition": {
    "uf": "br",
@@ -227,9 +227,9 @@
  {
   "filename": "ANTRBR21.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/ANTRBR21.dbc",
-  "datetime": "2024-10-23T18:08:00",
+  "datetime": "2026-10-13T16:46:00",
   "extension": "dbc",
-  "size": 25065051,
+  "size": 25886514,
   "dataset": "sinan-antr",
   "partition": {
    "uf": "br",
@@ -242,9 +242,9 @@
  {
   "filename": "ANTRBR22.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/ANTRBR22.dbc",
-  "datetime": "2024-10-23T18:13:00",
+  "datetime": "2026-10-13T16:46:00",
   "extension": "dbc",
-  "size": 26397768,
+  "size": 27781764,
   "dataset": "sinan-antr",
   "partition": {
    "uf": "br",
@@ -257,9 +257,9 @@
  {
   "filename": "ANTRBR23.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/ANTRBR23.dbc",
-  "datetime": "2024-10-23T17:27:00",
+  "datetime": "2026-10-13T16:45:00",
   "extension": "dbc",
-  "size": 28410569,
+  "size": 30905670,
   "dataset": "sinan-antr",
   "partition": {
    "uf": "br",
@@ -272,9 +272,9 @@
  {
   "filename": "ANTRBR24.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/ANTRBR24.dbc",
-  "datetime": "2026-06-11T08:17:00",
+  "datetime": "2026-10-13T16:45:00",
   "extension": "dbc",
-  "size": 30649243,
+  "size": 31848671,
   "dataset": "sinan-antr",
   "partition": {
    "uf": "br",
@@ -287,9 +287,9 @@
  {
   "filename": "ANTRBR25.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/ANTRBR25.dbc",
-  "datetime": "2026-06-11T08:17:00",
+  "datetime": "2026-10-13T16:45:00",
   "extension": "dbc",
-  "size": 34518430,
+  "size": 36507511,
   "dataset": "sinan-antr",
   "partition": {
    "uf": "br",
@@ -302,9 +302,9 @@
  {
   "filename": "ANTRBR26.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/ANTRBR26.dbc",
-  "datetime": "2026-06-11T08:17:00",
+  "datetime": "2026-10-13T16:45:00",
   "extension": "dbc",
-  "size": 10774035,
+  "size": 22899292,
   "dataset": "sinan-antr",
   "partition": {
    "uf": "br",

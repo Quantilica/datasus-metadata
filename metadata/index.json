@@ -664,13 +664,13 @@
    "name": "Atendimento Antirrábico",
    "source": "sinan",
    "n_files": 21,
-   "total_size": 512905125,
+   "total_size": 533824089,
    "partition_n_ufs": 1,
    "partition_period_start": "2006",
    "partition_period_end": "2026",
    "partition_n_periods": 21,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-06-11T08:17:00"
+   "latest_update": "2026-10-13T16:46:00"
   },
   "sinan-botu": {
    "name": "Botulismo",
