@@ -121,7 +121,7 @@
  },
  {
   "filename": "TETNBR22.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TETNBR22.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TETNBR22.dbc",
   "datetime": "2025-12-22T09:30:00",
   "extension": "dbc",
   "size": 3187,
@@ -132,7 +132,7 @@
    "month": null,
    "subpartition": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "TETNBR23.dbc",
