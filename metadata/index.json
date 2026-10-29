@@ -604,25 +604,25 @@
    "name": "Acidente de trabalho com material biológico",
    "source": "sinan",
    "n_files": 21,
-   "total_size": 56721740,
+   "total_size": 57515942,
    "partition_n_ufs": 1,
    "partition_period_start": "2006",
    "partition_period_end": "2026",
    "partition_n_periods": 21,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-09-02T16:30:00"
+   "latest_update": "2026-10-23T18:17:00"
   },
   "sinan-acgr": {
    "name": "Acidente de trabalho",
    "source": "sinan",
    "n_files": 21,
-   "total_size": 185441488,
+   "total_size": 190416585,
    "partition_n_ufs": 1,
    "partition_period_start": "2006",
    "partition_period_end": "2026",
    "partition_n_periods": 21,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-09-02T16:33:00"
+   "latest_update": "2026-10-23T18:19:00"
   },
   "sinan-aida": {
    "name": "AIDS em adultos",
