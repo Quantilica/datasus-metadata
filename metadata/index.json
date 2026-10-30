@@ -1252,25 +1252,25 @@
    "name": "Violência doméstica, sexual e/ou outras violências",
    "source": "sinan",
    "n_files": 17,
-   "total_size": 326207094,
+   "total_size": 330900931,
    "partition_n_ufs": 1,
    "partition_period_start": "2009",
    "partition_period_end": "2025",
    "partition_n_periods": 17,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-07-24T10:03:00"
+   "latest_update": "2026-10-19T12:23:00"
   },
   "sinan-zika": {
    "name": "Zika Vírus",
    "source": "sinan",
    "n_files": 12,
-   "total_size": 14178900,
+   "total_size": 14184637,
    "partition_n_ufs": 1,
    "partition_period_start": "2015",
    "partition_period_end": "2026",
    "partition_n_periods": 12,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-10-23T08:35:00"
+   "latest_update": "2026-10-27T15:51:00"
   },
   "sinasc-dn": {
    "name": "Declarações de nascidos vivos",
