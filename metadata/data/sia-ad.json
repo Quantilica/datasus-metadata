@@ -85832,9 +85832,9 @@
  {
   "filename": "ADAC2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAC2509.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 31068,
+  "size": 31424,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ac",
@@ -85847,9 +85847,9 @@
  {
   "filename": "ADAL2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAL2509.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 264856,
+  "size": 293032,
   "dataset": "sia-ad",
   "partition": {
    "uf": "al",
@@ -85862,9 +85862,9 @@
  {
   "filename": "ADAM2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAM2509.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 184842,
+  "size": 194827,
   "dataset": "sia-ad",
   "partition": {
    "uf": "am",
@@ -85877,9 +85877,9 @@
  {
   "filename": "ADAP2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAP2509.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 118459,
+  "size": 120153,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ap",
@@ -85892,9 +85892,9 @@
  {
   "filename": "ADBA2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADBA2509.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1553057,
+  "size": 2031868,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ba",
@@ -85907,9 +85907,9 @@
  {
   "filename": "ADCE2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADCE2509.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 694895,
+  "size": 876534,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ce",
@@ -85922,9 +85922,9 @@
  {
   "filename": "ADDF2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADDF2509.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 224512,
+  "size": 224651,
   "dataset": "sia-ad",
   "partition": {
    "uf": "df",
@@ -85937,9 +85937,9 @@
  {
   "filename": "ADES2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADES2509.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 500638,
+  "size": 501989,
   "dataset": "sia-ad",
   "partition": {
    "uf": "es",
@@ -85952,9 +85952,9 @@
  {
   "filename": "ADGO2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADGO2509.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 559642,
+  "size": 557675,
   "dataset": "sia-ad",
   "partition": {
    "uf": "go",
@@ -85967,9 +85967,9 @@
  {
   "filename": "ADMA2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMA2509.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 292349,
+  "size": 291527,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ma",
@@ -85982,9 +85982,9 @@
  {
   "filename": "ADMG2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMG2509.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 3033226,
+  "size": 3030308,
   "dataset": "sia-ad",
   "partition": {
    "uf": "mg",
@@ -85997,9 +85997,9 @@
  {
   "filename": "ADMS2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMS2509.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 205188,
+  "size": 204439,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ms",
@@ -86012,9 +86012,9 @@
  {
   "filename": "ADMT2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMT2509.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 98311,
+  "size": 98518,
   "dataset": "sia-ad",
   "partition": {
    "uf": "mt",
@@ -86027,9 +86027,9 @@
  {
   "filename": "ADPA2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPA2509.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 348416,
+  "size": 347807,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pa",
@@ -86042,9 +86042,9 @@
  {
   "filename": "ADPB2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPB2509.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 298220,
+  "size": 298756,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pb",
@@ -86057,9 +86057,9 @@
  {
   "filename": "ADPE2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPE2509.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1098714,
+  "size": 1098275,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pe",
@@ -86072,9 +86072,9 @@
  {
   "filename": "ADPI2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPI2509.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 186639,
+  "size": 186259,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pi",
@@ -86087,9 +86087,9 @@
  {
   "filename": "ADPR2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPR2509.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1850520,
+  "size": 1851909,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pr",
@@ -86102,9 +86102,9 @@
  {
   "filename": "ADRJ2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRJ2509.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1337138,
+  "size": 1338164,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rj",
@@ -86117,9 +86117,9 @@
  {
   "filename": "ADRN2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRN2509.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 363302,
+  "size": 362777,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rn",
@@ -86132,9 +86132,9 @@
  {
   "filename": "ADRO2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRO2509.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 157553,
+  "size": 157527,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ro",
@@ -86147,9 +86147,9 @@
  {
   "filename": "ADRR2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRR2509.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 35472,
+  "size": 35490,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rr",
@@ -86162,9 +86162,9 @@
  {
   "filename": "ADRS2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRS2509.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1405673,
+  "size": 1404151,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rs",
@@ -86177,9 +86177,9 @@
  {
   "filename": "ADSC2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADSC2509.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1369378,
+  "size": 1369432,
   "dataset": "sia-ad",
   "partition": {
    "uf": "sc",
@@ -86192,9 +86192,9 @@
  {
   "filename": "ADSE2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADSE2509.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 79391,
+  "size": 79641,
   "dataset": "sia-ad",
   "partition": {
    "uf": "se",
@@ -86207,9 +86207,9 @@
  {
   "filename": "ADSP2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADSP2509.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 5774908,
+  "size": 5775028,
   "dataset": "sia-ad",
   "partition": {
    "uf": "sp",
@@ -86222,9 +86222,9 @@
  {
   "filename": "ADTO2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADTO2509.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 70394,
+  "size": 70117,
   "dataset": "sia-ad",
   "partition": {
    "uf": "to",
@@ -86237,9 +86237,9 @@
  {
   "filename": "ADAC2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAC2510.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 24834,
+  "size": 24712,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ac",
@@ -86252,9 +86252,9 @@
  {
   "filename": "ADAL2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAL2510.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 244749,
+  "size": 266995,
   "dataset": "sia-ad",
   "partition": {
    "uf": "al",
@@ -86267,9 +86267,9 @@
  {
   "filename": "ADAM2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAM2510.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 256268,
+  "size": 267638,
   "dataset": "sia-ad",
   "partition": {
    "uf": "am",
@@ -86282,9 +86282,9 @@
  {
   "filename": "ADAP2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAP2510.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 12143,
+  "size": 12196,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ap",
@@ -86297,9 +86297,9 @@
  {
   "filename": "ADBA2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADBA2510.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1419374,
+  "size": 1912013,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ba",
@@ -86312,9 +86312,9 @@
  {
   "filename": "ADCE2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADCE2510.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 659985,
+  "size": 824140,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ce",
@@ -86327,9 +86327,9 @@
  {
   "filename": "ADDF2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADDF2510.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 240694,
+  "size": 251976,
   "dataset": "sia-ad",
   "partition": {
    "uf": "df",
@@ -86342,9 +86342,9 @@
  {
   "filename": "ADES2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADES2510.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 454082,
+  "size": 506518,
   "dataset": "sia-ad",
   "partition": {
    "uf": "es",
@@ -86357,9 +86357,9 @@
  {
   "filename": "ADGO2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADGO2510.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 617626,
+  "size": 740521,
   "dataset": "sia-ad",
   "partition": {
    "uf": "go",
@@ -86372,9 +86372,9 @@
  {
   "filename": "ADMA2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMA2510.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 269579,
+  "size": 308801,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ma",
@@ -86387,9 +86387,9 @@
  {
   "filename": "ADMG2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMG2510.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 2550505,
+  "size": 3750919,
   "dataset": "sia-ad",
   "partition": {
    "uf": "mg",
@@ -86402,9 +86402,9 @@
  {
   "filename": "ADMS2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMS2510.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 168807,
+  "size": 170113,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ms",
@@ -86417,9 +86417,9 @@
  {
   "filename": "ADMT2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMT2510.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 144965,
+  "size": 144012,
   "dataset": "sia-ad",
   "partition": {
    "uf": "mt",
@@ -86432,9 +86432,9 @@
  {
   "filename": "ADPA2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPA2510.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 333423,
+  "size": 377119,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pa",
@@ -86447,9 +86447,9 @@
  {
   "filename": "ADPB2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPB2510.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 291454,
+  "size": 337243,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pb",
@@ -86462,9 +86462,9 @@
  {
   "filename": "ADPE2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPE2510.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1030671,
+  "size": 1311210,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pe",
@@ -86477,9 +86477,9 @@
  {
   "filename": "ADPI2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPI2510.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 189716,
+  "size": 202042,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pi",
@@ -86492,9 +86492,9 @@
  {
   "filename": "ADPR2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPR2510.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1857695,
+  "size": 2678280,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pr",
@@ -86507,9 +86507,9 @@
  {
   "filename": "ADRJ2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRJ2510.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1306688,
+  "size": 1891412,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rj",
@@ -86522,9 +86522,9 @@
  {
   "filename": "ADRN2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRN2510.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 367999,
+  "size": 431173,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rn",
@@ -86537,9 +86537,9 @@
  {
   "filename": "ADRO2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRO2510.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 169819,
+  "size": 171518,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ro",
@@ -86552,9 +86552,9 @@
  {
   "filename": "ADRR2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRR2510.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 33811,
+  "size": 33666,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rr",
@@ -86567,9 +86567,9 @@
  {
   "filename": "ADRS2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRS2510.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1371790,
+  "size": 1840851,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rs",
@@ -86582,9 +86582,9 @@
  {
   "filename": "ADSC2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADSC2510.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1394695,
+  "size": 1925154,
   "dataset": "sia-ad",
   "partition": {
    "uf": "sc",
@@ -86597,9 +86597,9 @@
  {
   "filename": "ADSE2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADSE2510.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 134319,
+  "size": 135833,
   "dataset": "sia-ad",
   "partition": {
    "uf": "se",
@@ -86612,9 +86612,9 @@
  {
   "filename": "ADSP2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADSP2510.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 5177878,
+  "size": 7451626,
   "dataset": "sia-ad",
   "partition": {
    "uf": "sp",
@@ -86627,9 +86627,9 @@
  {
   "filename": "ADTO2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADTO2510.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 67535,
+  "size": 68144,
   "dataset": "sia-ad",
   "partition": {
    "uf": "to",
@@ -86642,9 +86642,9 @@
  {
   "filename": "ADAC2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAC2511.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 62438,
+  "size": 62463,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ac",
@@ -86657,9 +86657,9 @@
  {
   "filename": "ADAL2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAL2511.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 229936,
+  "size": 230969,
   "dataset": "sia-ad",
   "partition": {
    "uf": "al",
@@ -86672,9 +86672,9 @@
  {
   "filename": "ADAM2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAM2511.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 224852,
+  "size": 224821,
   "dataset": "sia-ad",
   "partition": {
    "uf": "am",
@@ -86687,9 +86687,9 @@
  {
   "filename": "ADAP2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAP2511.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 243118,
+  "size": 243867,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ap",
@@ -86702,9 +86702,9 @@
  {
   "filename": "ADBA2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADBA2511.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1509756,
+  "size": 1508971,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ba",
@@ -86717,9 +86717,9 @@
  {
   "filename": "ADCE2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADCE2511.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 664523,
+  "size": 666288,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ce",
@@ -86732,9 +86732,9 @@
  {
   "filename": "ADDF2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADDF2511.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 195502,
+  "size": 196021,
   "dataset": "sia-ad",
   "partition": {
    "uf": "df",
@@ -86747,9 +86747,9 @@
  {
   "filename": "ADES2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADES2511.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 404997,
+  "size": 404413,
   "dataset": "sia-ad",
   "partition": {
    "uf": "es",
@@ -86762,9 +86762,9 @@
  {
   "filename": "ADGO2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADGO2511.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 586724,
+  "size": 587559,
   "dataset": "sia-ad",
   "partition": {
    "uf": "go",
@@ -86777,9 +86777,9 @@
  {
   "filename": "ADMA2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMA2511.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 227814,
+  "size": 227587,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ma",
@@ -86792,9 +86792,9 @@
  {
   "filename": "ADMG2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMG2511.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 2634169,
+  "size": 2636303,
   "dataset": "sia-ad",
   "partition": {
    "uf": "mg",
@@ -86807,9 +86807,9 @@
  {
   "filename": "ADMS2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMS2511.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 153163,
+  "size": 153099,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ms",
@@ -86822,9 +86822,9 @@
  {
   "filename": "ADMT2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMT2511.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 121104,
+  "size": 121142,
   "dataset": "sia-ad",
   "partition": {
    "uf": "mt",
@@ -86837,9 +86837,9 @@
  {
   "filename": "ADPA2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPA2511.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 317271,
+  "size": 317993,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pa",
@@ -86852,9 +86852,9 @@
  {
   "filename": "ADPB2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPB2511.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 247917,
+  "size": 247590,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pb",
@@ -86867,9 +86867,9 @@
  {
   "filename": "ADPE2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPE2511.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1050421,
+  "size": 1050416,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pe",
@@ -86882,9 +86882,9 @@
  {
   "filename": "ADPI2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPI2511.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 150904,
+  "size": 150437,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pi",
@@ -86897,9 +86897,9 @@
  {
   "filename": "ADPR2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPR2511.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1729617,
+  "size": 1727228,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pr",
@@ -86912,9 +86912,9 @@
  {
   "filename": "ADRJ2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRJ2511.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1451129,
+  "size": 1449864,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rj",
@@ -86927,9 +86927,9 @@
  {
   "filename": "ADRN2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRN2511.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 410989,
+  "size": 413079,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rn",
@@ -86942,9 +86942,9 @@
  {
   "filename": "ADRO2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRO2511.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 159719,
+  "size": 159913,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ro",
@@ -86957,9 +86957,9 @@
  {
   "filename": "ADRR2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRR2511.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 24165,
+  "size": 23798,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rr",
@@ -86972,9 +86972,9 @@
  {
   "filename": "ADRS2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRS2511.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1390335,
+  "size": 1387357,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rs",
@@ -86987,9 +86987,9 @@
  {
   "filename": "ADSC2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADSC2511.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1199241,
+  "size": 1199996,
   "dataset": "sia-ad",
   "partition": {
    "uf": "sc",
@@ -87002,9 +87002,9 @@
  {
   "filename": "ADSE2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADSE2511.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 125792,
+  "size": 125601,
   "dataset": "sia-ad",
   "partition": {
    "uf": "se",
@@ -87017,9 +87017,9 @@
  {
   "filename": "ADSP2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADSP2511.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 5366465,
+  "size": 5368563,
   "dataset": "sia-ad",
   "partition": {
    "uf": "sp",
@@ -87032,9 +87032,9 @@
  {
   "filename": "ADTO2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADTO2511.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 42418,
+  "size": 42510,
   "dataset": "sia-ad",
   "partition": {
    "uf": "to",
@@ -87047,9 +87047,9 @@
  {
   "filename": "ADAC2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAC2512.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 41615,
+  "size": 41391,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ac",
@@ -87062,9 +87062,9 @@
  {
   "filename": "ADAL2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAL2512.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 201136,
+  "size": 200368,
   "dataset": "sia-ad",
   "partition": {
    "uf": "al",
@@ -87077,9 +87077,9 @@
  {
   "filename": "ADAM2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAM2512.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 226943,
+  "size": 227479,
   "dataset": "sia-ad",
   "partition": {
    "uf": "am",
@@ -87092,9 +87092,9 @@
  {
   "filename": "ADAP2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAP2512.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 52188,
+  "size": 51943,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ap",
@@ -87107,9 +87107,9 @@
  {
   "filename": "ADBA2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADBA2512.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1280089,
+  "size": 1278863,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ba",
@@ -87122,9 +87122,9 @@
  {
   "filename": "ADCE2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADCE2512.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 586278,
+  "size": 588273,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ce",
@@ -87137,9 +87137,9 @@
  {
   "filename": "ADDF2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADDF2512.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 211396,
+  "size": 212319,
   "dataset": "sia-ad",
   "partition": {
    "uf": "df",
@@ -87152,9 +87152,9 @@
  {
   "filename": "ADES2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADES2512.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 303530,
+  "size": 303989,
   "dataset": "sia-ad",
   "partition": {
    "uf": "es",
@@ -87167,9 +87167,9 @@
  {
   "filename": "ADGO2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADGO2512.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 517752,
+  "size": 519361,
   "dataset": "sia-ad",
   "partition": {
    "uf": "go",
@@ -87182,9 +87182,9 @@
  {
   "filename": "ADMA2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMA2512.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 237502,
+  "size": 238300,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ma",
@@ -87197,9 +87197,9 @@
  {
   "filename": "ADMG2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMG2512.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 2499340,
+  "size": 3375559,
   "dataset": "sia-ad",
   "partition": {
    "uf": "mg",
@@ -87212,9 +87212,9 @@
  {
   "filename": "ADMS2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMS2512.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 158567,
+  "size": 157638,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ms",
@@ -87227,9 +87227,9 @@
  {
   "filename": "ADMT2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMT2512.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 81130,
+  "size": 76301,
   "dataset": "sia-ad",
   "partition": {
    "uf": "mt",
@@ -87242,9 +87242,9 @@
  {
   "filename": "ADPA2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPA2512.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 344171,
+  "size": 394211,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pa",
@@ -87257,9 +87257,9 @@
  {
   "filename": "ADPB2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPB2512.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 220491,
+  "size": 239797,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pb",
@@ -87272,9 +87272,9 @@
  {
   "filename": "ADPE2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPE2512.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 999310,
+  "size": 1314315,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pe",
@@ -87287,9 +87287,9 @@
  {
   "filename": "ADPI2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPI2512.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 117428,
+  "size": 112433,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pi",
@@ -87302,9 +87302,9 @@
  {
   "filename": "ADPR2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPR2512.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1638990,
+  "size": 2178517,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pr",
@@ -87317,9 +87317,9 @@
  {
   "filename": "ADRJ2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRJ2512.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1298055,
+  "size": 1751829,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rj",
@@ -87332,9 +87332,9 @@
  {
   "filename": "ADRN2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRN2512.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 360282,
+  "size": 416118,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rn",
@@ -87347,9 +87347,9 @@
  {
   "filename": "ADRO2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRO2512.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 121702,
+  "size": 118027,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ro",
@@ -87362,9 +87362,9 @@
  {
   "filename": "ADRR2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRR2512.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 20646,
+  "size": 20834,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rr",
@@ -87377,9 +87377,9 @@
  {
   "filename": "ADRS2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRS2512.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1382429,
+  "size": 1732767,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rs",
@@ -87392,9 +87392,9 @@
  {
   "filename": "ADSC2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADSC2512.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1217719,
+  "size": 1580159,
   "dataset": "sia-ad",
   "partition": {
    "uf": "sc",
@@ -87407,9 +87407,9 @@
  {
   "filename": "ADSE2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADSE2512.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 123849,
+  "size": 122687,
   "dataset": "sia-ad",
   "partition": {
    "uf": "se",
@@ -87422,9 +87422,9 @@
  {
   "filename": "ADSP2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADSP2512.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 4956597,
+  "size": 6531648,
   "dataset": "sia-ad",
   "partition": {
    "uf": "sp",
@@ -87437,9 +87437,9 @@
  {
   "filename": "ADTO2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADTO2512.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 42629,
+  "size": 42855,
   "dataset": "sia-ad",
   "partition": {
    "uf": "to",
@@ -87452,9 +87452,9 @@
  {
   "filename": "ADAC2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAC2601.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 18160,
+  "size": 18252,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ac",
@@ -87467,9 +87467,9 @@
  {
   "filename": "ADAL2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAL2601.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 235325,
+  "size": 234990,
   "dataset": "sia-ad",
   "partition": {
    "uf": "al",
@@ -87482,9 +87482,9 @@
  {
   "filename": "ADAM2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAM2601.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 255124,
+  "size": 255824,
   "dataset": "sia-ad",
   "partition": {
    "uf": "am",
@@ -87497,9 +87497,9 @@
  {
   "filename": "ADAP2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAP2601.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 88729,
+  "size": 88716,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ap",
@@ -87512,9 +87512,9 @@
  {
   "filename": "ADBA2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADBA2601.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1233568,
+  "size": 1234105,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ba",
@@ -87527,9 +87527,9 @@
  {
   "filename": "ADCE2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADCE2601.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 538785,
+  "size": 537935,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ce",
@@ -87542,9 +87542,9 @@
  {
   "filename": "ADDF2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADDF2601.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 162129,
+  "size": 161554,
   "dataset": "sia-ad",
   "partition": {
    "uf": "df",
@@ -87557,9 +87557,9 @@
  {
   "filename": "ADES2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADES2601.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 438820,
+  "size": 438683,
   "dataset": "sia-ad",
   "partition": {
    "uf": "es",
@@ -87572,9 +87572,9 @@
  {
   "filename": "ADGO2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADGO2601.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 528591,
+  "size": 528029,
   "dataset": "sia-ad",
   "partition": {
    "uf": "go",
@@ -87587,9 +87587,9 @@
  {
   "filename": "ADMA2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMA2601.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 249066,
+  "size": 249248,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ma",
@@ -87602,9 +87602,9 @@
  {
   "filename": "ADMG2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMG2601.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 3069250,
+  "size": 2324315,
   "dataset": "sia-ad",
   "partition": {
    "uf": "mg",
@@ -87617,9 +87617,9 @@
  {
   "filename": "ADMS2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMS2601.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 140283,
+  "size": 141632,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ms",
@@ -87632,9 +87632,9 @@
  {
   "filename": "ADMT2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMT2601.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 114850,
+  "size": 120824,
   "dataset": "sia-ad",
   "partition": {
    "uf": "mt",
@@ -87647,9 +87647,9 @@
  {
   "filename": "ADPA2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPA2601.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 299887,
+  "size": 270920,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pa",
@@ -87662,9 +87662,9 @@
  {
   "filename": "ADPB2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPB2601.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 291618,
+  "size": 260910,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pb",
@@ -87677,9 +87677,9 @@
  {
   "filename": "ADPE2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPE2601.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1291287,
+  "size": 1001980,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pe",
@@ -87692,9 +87692,9 @@
  {
   "filename": "ADPI2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPI2601.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 123596,
+  "size": 127931,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pi",
@@ -87707,9 +87707,9 @@
  {
   "filename": "ADPR2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPR2601.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 2191561,
+  "size": 1654204,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pr",
@@ -87722,9 +87722,9 @@
  {
   "filename": "ADRJ2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRJ2601.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1590235,
+  "size": 1206513,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rj",
@@ -87737,9 +87737,9 @@
  {
   "filename": "ADRN2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRN2601.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 338454,
+  "size": 303112,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rn",
@@ -87752,9 +87752,9 @@
  {
   "filename": "ADRO2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRO2601.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 149935,
+  "size": 149048,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ro",
@@ -87767,7 +87767,7 @@
  {
   "filename": "ADRR2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRR2601.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
   "size": 19169,
   "dataset": "sia-ad",
@@ -87782,9 +87782,9 @@
  {
   "filename": "ADRS2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRS2601.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1561556,
+  "size": 1266943,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rs",
@@ -87797,9 +87797,9 @@
  {
   "filename": "ADSC2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADSC2601.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1459851,
+  "size": 1133496,
   "dataset": "sia-ad",
   "partition": {
    "uf": "sc",
@@ -87812,9 +87812,9 @@
  {
   "filename": "ADSE2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADSE2601.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 74106,
+  "size": 78008,
   "dataset": "sia-ad",
   "partition": {
    "uf": "se",
@@ -87827,9 +87827,9 @@
  {
   "filename": "ADSP2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADSP2601.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 6706902,
+  "size": 4962674,
   "dataset": "sia-ad",
   "partition": {
    "uf": "sp",
@@ -87842,9 +87842,9 @@
  {
   "filename": "ADTO2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADTO2601.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 53508,
+  "size": 54122,
   "dataset": "sia-ad",
   "partition": {
    "uf": "to",
@@ -87857,9 +87857,9 @@
  {
   "filename": "ADAC2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAC2602.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 13496,
+  "size": 13600,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ac",
@@ -87872,9 +87872,9 @@
  {
   "filename": "ADAL2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAL2602.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 205119,
+  "size": 205841,
   "dataset": "sia-ad",
   "partition": {
    "uf": "al",
@@ -87887,9 +87887,9 @@
  {
   "filename": "ADAM2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAM2602.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 211228,
+  "size": 210581,
   "dataset": "sia-ad",
   "partition": {
    "uf": "am",
@@ -87902,9 +87902,9 @@
  {
   "filename": "ADAP2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAP2602.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 146091,
+  "size": 146113,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ap",
@@ -87917,9 +87917,9 @@
  {
   "filename": "ADBA2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADBA2602.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1175574,
+  "size": 1177733,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ba",
@@ -87932,9 +87932,9 @@
  {
   "filename": "ADCE2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADCE2602.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 528109,
+  "size": 528256,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ce",
@@ -87947,9 +87947,9 @@
  {
   "filename": "ADDF2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADDF2602.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 204175,
+  "size": 203780,
   "dataset": "sia-ad",
   "partition": {
    "uf": "df",
@@ -87962,9 +87962,9 @@
  {
   "filename": "ADES2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADES2602.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 383626,
+  "size": 383799,
   "dataset": "sia-ad",
   "partition": {
    "uf": "es",
@@ -87977,9 +87977,9 @@
  {
   "filename": "ADGO2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADGO2602.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 516118,
+  "size": 517125,
   "dataset": "sia-ad",
   "partition": {
    "uf": "go",
@@ -87992,9 +87992,9 @@
  {
   "filename": "ADMA2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMA2602.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 186605,
+  "size": 187029,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ma",
@@ -88007,9 +88007,9 @@
  {
   "filename": "ADMG2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMG2602.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 2433686,
+  "size": 2436181,
   "dataset": "sia-ad",
   "partition": {
    "uf": "mg",
@@ -88022,9 +88022,9 @@
  {
   "filename": "ADMS2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMS2602.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 171804,
+  "size": 172141,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ms",
@@ -88037,9 +88037,9 @@
  {
   "filename": "ADMT2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMT2602.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 114971,
+  "size": 115218,
   "dataset": "sia-ad",
   "partition": {
    "uf": "mt",
@@ -88052,9 +88052,9 @@
  {
   "filename": "ADPA2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPA2602.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 336758,
+  "size": 336985,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pa",
@@ -88067,9 +88067,9 @@
  {
   "filename": "ADPB2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPB2602.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 253627,
+  "size": 254866,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pb",
@@ -88082,9 +88082,9 @@
  {
   "filename": "ADPE2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPE2602.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 892421,
+  "size": 895462,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pe",
@@ -88097,9 +88097,9 @@
  {
   "filename": "ADPI2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPI2602.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 132855,
+  "size": 132655,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pi",
@@ -88112,9 +88112,9 @@
  {
   "filename": "ADPR2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPR2602.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1642294,
+  "size": 1642177,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pr",
@@ -88127,9 +88127,9 @@
  {
   "filename": "ADRJ2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRJ2602.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1269821,
+  "size": 1270190,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rj",
@@ -88142,9 +88142,9 @@
  {
   "filename": "ADRN2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRN2602.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 307033,
+  "size": 308249,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rn",
@@ -88157,9 +88157,9 @@
  {
   "filename": "ADRO2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRO2602.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 158133,
+  "size": 158466,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ro",
@@ -88172,9 +88172,9 @@
  {
   "filename": "ADRR2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRR2602.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 18740,
+  "size": 18386,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rr",
@@ -88187,9 +88187,9 @@
  {
   "filename": "ADRS2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRS2602.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1308074,
+  "size": 1308538,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rs",
@@ -88202,9 +88202,9 @@
  {
   "filename": "ADSC2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADSC2602.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1261927,
+  "size": 1262891,
   "dataset": "sia-ad",
   "partition": {
    "uf": "sc",
@@ -88217,9 +88217,9 @@
  {
   "filename": "ADSE2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADSE2602.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 75326,
+  "size": 75668,
   "dataset": "sia-ad",
   "partition": {
    "uf": "se",
@@ -88232,9 +88232,9 @@
  {
   "filename": "ADSP2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADSP2602.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 5003304,
+  "size": 5000211,
   "dataset": "sia-ad",
   "partition": {
    "uf": "sp",
@@ -88247,9 +88247,9 @@
  {
   "filename": "ADTO2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADTO2602.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 56892,
+  "size": 56289,
   "dataset": "sia-ad",
   "partition": {
    "uf": "to",
@@ -88262,9 +88262,9 @@
  {
   "filename": "ADAC2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAC2603.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 22823,
+  "size": 22608,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ac",
@@ -88277,9 +88277,9 @@
  {
   "filename": "ADAL2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAL2603.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 202143,
+  "size": 201951,
   "dataset": "sia-ad",
   "partition": {
    "uf": "al",
@@ -88292,9 +88292,9 @@
  {
   "filename": "ADAM2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAM2603.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 227007,
+  "size": 226877,
   "dataset": "sia-ad",
   "partition": {
    "uf": "am",
@@ -88307,9 +88307,9 @@
  {
   "filename": "ADAP2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAP2603.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 69718,
+  "size": 69819,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ap",
@@ -88322,9 +88322,9 @@
  {
   "filename": "ADBA2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADBA2603.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1353670,
+  "size": 1355275,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ba",
@@ -88337,9 +88337,9 @@
  {
   "filename": "ADCE2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADCE2603.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 590844,
+  "size": 591449,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ce",
@@ -88352,9 +88352,9 @@
  {
   "filename": "ADDF2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADDF2603.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 204899,
+  "size": 204601,
   "dataset": "sia-ad",
   "partition": {
    "uf": "df",
@@ -88367,9 +88367,9 @@
  {
   "filename": "ADES2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADES2603.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 466672,
+  "size": 466618,
   "dataset": "sia-ad",
   "partition": {
    "uf": "es",
@@ -88382,9 +88382,9 @@
  {
   "filename": "ADGO2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADGO2603.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 626585,
+  "size": 625159,
   "dataset": "sia-ad",
   "partition": {
    "uf": "go",
@@ -88397,9 +88397,9 @@
  {
   "filename": "ADMA2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMA2603.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 276862,
+  "size": 276737,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ma",
@@ -88412,9 +88412,9 @@
  {
   "filename": "ADMG2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMG2603.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 2816060,
+  "size": 2820080,
   "dataset": "sia-ad",
   "partition": {
    "uf": "mg",
@@ -88427,9 +88427,9 @@
  {
   "filename": "ADMS2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMS2603.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 207893,
+  "size": 208444,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ms",
@@ -88442,9 +88442,9 @@
  {
   "filename": "ADMT2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMT2603.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 126962,
+  "size": 126691,
   "dataset": "sia-ad",
   "partition": {
    "uf": "mt",
@@ -88457,9 +88457,9 @@
  {
   "filename": "ADPA2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPA2603.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 332541,
+  "size": 332533,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pa",
@@ -88472,9 +88472,9 @@
  {
   "filename": "ADPB2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPB2603.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 331180,
+  "size": 331533,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pb",
@@ -88487,9 +88487,9 @@
  {
   "filename": "ADPE2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPE2603.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1015703,
+  "size": 1017579,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pe",
@@ -88502,9 +88502,9 @@
  {
   "filename": "ADPI2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPI2603.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 187196,
+  "size": 186362,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pi",
@@ -88517,9 +88517,9 @@
  {
   "filename": "ADPR2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPR2603.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1873828,
+  "size": 1875365,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pr",
@@ -88532,9 +88532,9 @@
  {
   "filename": "ADRJ2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRJ2603.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1434338,
+  "size": 1433448,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rj",
@@ -88547,9 +88547,9 @@
  {
   "filename": "ADRN2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRN2603.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 368558,
+  "size": 368134,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rn",
@@ -88562,9 +88562,9 @@
  {
   "filename": "ADRO2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRO2603.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 199714,
+  "size": 199806,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ro",
@@ -88577,9 +88577,9 @@
  {
   "filename": "ADRR2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRR2603.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 28530,
+  "size": 28700,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rr",
@@ -88592,9 +88592,9 @@
  {
   "filename": "ADRS2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRS2603.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1402538,
+  "size": 1403412,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rs",
@@ -88607,9 +88607,9 @@
  {
   "filename": "ADSC2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADSC2603.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1438124,
+  "size": 1439829,
   "dataset": "sia-ad",
   "partition": {
    "uf": "sc",
@@ -88622,9 +88622,9 @@
  {
   "filename": "ADSE2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADSE2603.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 88240,
+  "size": 88902,
   "dataset": "sia-ad",
   "partition": {
    "uf": "se",
@@ -88637,9 +88637,9 @@
  {
   "filename": "ADSP2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADSP2603.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 5498259,
+  "size": 5489502,
   "dataset": "sia-ad",
   "partition": {
    "uf": "sp",
@@ -88652,9 +88652,9 @@
  {
   "filename": "ADTO2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADTO2603.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 77550,
+  "size": 76323,
   "dataset": "sia-ad",
   "partition": {
    "uf": "to",
@@ -88667,9 +88667,9 @@
  {
   "filename": "ADAC2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAC2604.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 39823,
+  "size": 40113,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ac",
@@ -88682,9 +88682,9 @@
  {
   "filename": "ADAL2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAL2604.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 237254,
+  "size": 235311,
   "dataset": "sia-ad",
   "partition": {
    "uf": "al",
@@ -88697,9 +88697,9 @@
  {
   "filename": "ADAM2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAM2604.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 228796,
+  "size": 243392,
   "dataset": "sia-ad",
   "partition": {
    "uf": "am",
@@ -88712,9 +88712,9 @@
  {
   "filename": "ADAP2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAP2604.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 105534,
+  "size": 107753,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ap",
@@ -88727,9 +88727,9 @@
  {
   "filename": "ADBA2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADBA2604.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1260639,
+  "size": 1204223,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ba",
@@ -88742,9 +88742,9 @@
  {
   "filename": "ADCE2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADCE2604.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 562546,
+  "size": 557066,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ce",
@@ -88757,9 +88757,9 @@
  {
   "filename": "ADDF2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADDF2604.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 203933,
+  "size": 200523,
   "dataset": "sia-ad",
   "partition": {
    "uf": "df",
@@ -88772,9 +88772,9 @@
  {
   "filename": "ADES2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADES2604.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 390369,
+  "size": 392410,
   "dataset": "sia-ad",
   "partition": {
    "uf": "es",
@@ -88787,9 +88787,9 @@
  {
   "filename": "ADGO2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADGO2604.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 571041,
+  "size": 546945,
   "dataset": "sia-ad",
   "partition": {
    "uf": "go",
@@ -88802,9 +88802,9 @@
  {
   "filename": "ADMA2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMA2604.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 256120,
+  "size": 245854,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ma",
@@ -88817,9 +88817,9 @@
  {
   "filename": "ADMG2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMG2604.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 2799716,
+  "size": 2524525,
   "dataset": "sia-ad",
   "partition": {
    "uf": "mg",
@@ -88832,9 +88832,9 @@
  {
   "filename": "ADMS2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMS2604.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 189813,
+  "size": 190153,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ms",
@@ -88847,9 +88847,9 @@
  {
   "filename": "ADMT2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMT2604.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 124882,
+  "size": 124618,
   "dataset": "sia-ad",
   "partition": {
    "uf": "mt",
@@ -88862,9 +88862,9 @@
  {
   "filename": "ADPA2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPA2604.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 375995,
+  "size": 360519,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pa",
@@ -88877,9 +88877,9 @@
  {
   "filename": "ADPB2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPB2604.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 332912,
+  "size": 327724,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pb",
@@ -88892,9 +88892,9 @@
  {
   "filename": "ADPE2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPE2604.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1000540,
+  "size": 1000727,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pe",
@@ -88907,9 +88907,9 @@
  {
   "filename": "ADPI2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPI2604.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 175777,
+  "size": 177198,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pi",
@@ -88922,9 +88922,9 @@
  {
   "filename": "ADPR2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPR2604.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1829221,
+  "size": 1701041,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pr",
@@ -88937,9 +88937,9 @@
  {
   "filename": "ADRJ2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRJ2604.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1340846,
+  "size": 1240148,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rj",
@@ -88952,9 +88952,9 @@
  {
   "filename": "ADRN2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRN2604.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 358953,
+  "size": 364807,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rn",
@@ -88967,9 +88967,9 @@
  {
   "filename": "ADRO2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRO2604.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 151631,
+  "size": 153921,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ro",
@@ -88982,9 +88982,9 @@
  {
   "filename": "ADRR2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRR2604.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 27239,
+  "size": 27598,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rr",
@@ -88997,9 +88997,9 @@
  {
   "filename": "ADRS2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRS2604.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1417232,
+  "size": 1322774,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rs",
@@ -89012,9 +89012,9 @@
  {
   "filename": "ADSC2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADSC2604.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1491668,
+  "size": 1392129,
   "dataset": "sia-ad",
   "partition": {
    "uf": "sc",
@@ -89027,9 +89027,9 @@
  {
   "filename": "ADSE2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADSE2604.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 83160,
+  "size": 81217,
   "dataset": "sia-ad",
   "partition": {
    "uf": "se",
@@ -89042,9 +89042,9 @@
  {
   "filename": "ADSP2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADSP2604.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 5333083,
+  "size": 4872247,
   "dataset": "sia-ad",
   "partition": {
    "uf": "sp",
@@ -89057,9 +89057,9 @@
  {
   "filename": "ADTO2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADTO2604.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 55531,
+  "size": 56165,
   "dataset": "sia-ad",
   "partition": {
    "uf": "to",
@@ -89072,9 +89072,9 @@
  {
   "filename": "ADAC2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAC2605.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 35880,
+  "size": 39642,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ac",
@@ -89087,9 +89087,9 @@
  {
   "filename": "ADAL2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAL2605.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 200905,
+  "size": 279099,
   "dataset": "sia-ad",
   "partition": {
    "uf": "al",
@@ -89102,9 +89102,9 @@
  {
   "filename": "ADAM2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAM2605.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 144012,
+  "size": 213335,
   "dataset": "sia-ad",
   "partition": {
    "uf": "am",
@@ -89117,9 +89117,9 @@
  {
   "filename": "ADAP2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAP2605.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 81316,
+  "size": 102682,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ap",
@@ -89132,9 +89132,9 @@
  {
   "filename": "ADBA2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADBA2605.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 996268,
+  "size": 1300954,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ba",
@@ -89147,9 +89147,9 @@
  {
   "filename": "ADCE2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADCE2605.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 445235,
+  "size": 617893,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ce",
@@ -89162,9 +89162,9 @@
  {
   "filename": "ADDF2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADDF2605.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 140854,
+  "size": 180894,
   "dataset": "sia-ad",
   "partition": {
    "uf": "df",
@@ -89177,9 +89177,9 @@
  {
   "filename": "ADES2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADES2605.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 472046,
+  "size": 615655,
   "dataset": "sia-ad",
   "partition": {
    "uf": "es",
@@ -89192,9 +89192,9 @@
  {
   "filename": "ADGO2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADGO2605.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 447678,
+  "size": 589127,
   "dataset": "sia-ad",
   "partition": {
    "uf": "go",
@@ -89207,9 +89207,9 @@
  {
   "filename": "ADMA2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMA2605.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 139895,
+  "size": 262866,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ma",
@@ -89222,9 +89222,9 @@
  {
   "filename": "ADMG2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMG2605.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 2047090,
+  "size": 2599714,
   "dataset": "sia-ad",
   "partition": {
    "uf": "mg",
@@ -89237,9 +89237,9 @@
  {
   "filename": "ADMS2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMS2605.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 133730,
+  "size": 175349,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ms",
@@ -89252,9 +89252,9 @@
  {
   "filename": "ADMT2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMT2605.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 120251,
+  "size": 168116,
   "dataset": "sia-ad",
   "partition": {
    "uf": "mt",
@@ -89267,9 +89267,9 @@
  {
   "filename": "ADPA2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPA2605.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 246544,
+  "size": 342028,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pa",
@@ -89282,9 +89282,9 @@
  {
   "filename": "ADPB2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPB2605.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 206407,
+  "size": 285517,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pb",
@@ -89297,9 +89297,9 @@
  {
   "filename": "ADPE2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPE2605.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 854649,
+  "size": 1082656,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pe",
@@ -89312,9 +89312,9 @@
  {
   "filename": "ADPI2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPI2605.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 196241,
+  "size": 256068,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pi",
@@ -89327,9 +89327,9 @@
  {
   "filename": "ADPR2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPR2605.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1348654,
+  "size": 1750099,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pr",
@@ -89342,9 +89342,9 @@
  {
   "filename": "ADRJ2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRJ2605.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 968612,
+  "size": 1312156,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rj",
@@ -89357,9 +89357,9 @@
  {
   "filename": "ADRN2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRN2605.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 253472,
+  "size": 352704,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rn",
@@ -89372,9 +89372,9 @@
  {
   "filename": "ADRO2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRO2605.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 100576,
+  "size": 134895,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ro",
@@ -89387,9 +89387,9 @@
  {
   "filename": "ADRR2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRR2605.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 21626,
+  "size": 21750,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rr",
@@ -89402,9 +89402,9 @@
  {
   "filename": "ADRS2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRS2605.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1107361,
+  "size": 1419539,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rs",
@@ -89417,9 +89417,9 @@
  {
   "filename": "ADSC2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADSC2605.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1018460,
+  "size": 1365592,
   "dataset": "sia-ad",
   "partition": {
    "uf": "sc",
@@ -89432,9 +89432,9 @@
  {
   "filename": "ADSE2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADSE2605.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 53061,
+  "size": 74586,
   "dataset": "sia-ad",
   "partition": {
    "uf": "se",
@@ -89447,9 +89447,9 @@
  {
   "filename": "ADSP2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADSP2605.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 4017218,
+  "size": 5079631,
   "dataset": "sia-ad",
   "partition": {
    "uf": "sp",
@@ -89462,9 +89462,9 @@
  {
   "filename": "ADTO2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADTO2605.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 72169,
+  "size": 66124,
   "dataset": "sia-ad",
   "partition": {
    "uf": "to",
@@ -89477,9 +89477,9 @@
  {
   "filename": "ADAC2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAC2606.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 20845,
+  "size": 21081,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ac",
@@ -89492,9 +89492,9 @@
  {
   "filename": "ADAL2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAL2606.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 235126,
+  "size": 236877,
   "dataset": "sia-ad",
   "partition": {
    "uf": "al",
@@ -89507,9 +89507,9 @@
  {
   "filename": "ADAM2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAM2606.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 217625,
+  "size": 225175,
   "dataset": "sia-ad",
   "partition": {
    "uf": "am",
@@ -89522,9 +89522,9 @@
  {
   "filename": "ADAP2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAP2606.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 112855,
+  "size": 114551,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ap",
@@ -89537,9 +89537,9 @@
  {
   "filename": "ADBA2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADBA2606.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1087176,
+  "size": 1130557,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ba",
@@ -89552,9 +89552,9 @@
  {
   "filename": "ADCE2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADCE2606.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 583160,
+  "size": 580624,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ce",
@@ -89567,9 +89567,9 @@
  {
   "filename": "ADDF2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADDF2606.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 207202,
+  "size": 210164,
   "dataset": "sia-ad",
   "partition": {
    "uf": "df",
@@ -89582,9 +89582,9 @@
  {
   "filename": "ADES2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADES2606.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 446126,
+  "size": 465893,
   "dataset": "sia-ad",
   "partition": {
    "uf": "es",
@@ -89597,9 +89597,9 @@
  {
   "filename": "ADGO2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADGO2606.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 571298,
+  "size": 569919,
   "dataset": "sia-ad",
   "partition": {
    "uf": "go",
@@ -89612,9 +89612,9 @@
  {
   "filename": "ADMA2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMA2606.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 165548,
+  "size": 247603,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ma",
@@ -89627,9 +89627,9 @@
  {
   "filename": "ADMG2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMG2606.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 2527174,
+  "size": 2398585,
   "dataset": "sia-ad",
   "partition": {
    "uf": "mg",
@@ -89642,9 +89642,9 @@
  {
   "filename": "ADMS2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMS2606.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 181960,
+  "size": 184198,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ms",
@@ -89657,9 +89657,9 @@
  {
   "filename": "ADMT2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMT2606.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 172867,
+  "size": 174150,
   "dataset": "sia-ad",
   "partition": {
    "uf": "mt",
@@ -89672,9 +89672,9 @@
  {
   "filename": "ADPA2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPA2606.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 301569,
+  "size": 304294,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pa",
@@ -89687,9 +89687,9 @@
  {
   "filename": "ADPB2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPB2606.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 299163,
+  "size": 299324,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pb",
@@ -89702,9 +89702,9 @@
  {
   "filename": "ADPE2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPE2606.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 969616,
+  "size": 1003527,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pe",
@@ -89717,9 +89717,9 @@
  {
   "filename": "ADPI2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPI2606.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 185460,
+  "size": 31989,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pi",
@@ -89732,9 +89732,9 @@
  {
   "filename": "ADPR2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPR2606.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1610721,
+  "size": 1635269,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pr",
@@ -89747,9 +89747,9 @@
  {
   "filename": "ADRJ2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRJ2606.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1166040,
+  "size": 1191040,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rj",
@@ -89762,9 +89762,9 @@
  {
   "filename": "ADRN2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRN2606.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 323150,
+  "size": 345435,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rn",
@@ -89777,9 +89777,9 @@
  {
   "filename": "ADRO2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRO2606.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 171065,
+  "size": 172269,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ro",
@@ -89792,9 +89792,9 @@
  {
   "filename": "ADRR2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRR2606.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 30269,
+  "size": 30065,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rr",
@@ -89807,9 +89807,9 @@
  {
   "filename": "ADRS2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRS2606.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1377925,
+  "size": 1409155,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rs",
@@ -89822,9 +89822,9 @@
  {
   "filename": "ADSC2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADSC2606.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1344086,
+  "size": 1385201,
   "dataset": "sia-ad",
   "partition": {
    "uf": "sc",
@@ -89837,9 +89837,9 @@
  {
   "filename": "ADSE2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADSE2606.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 126208,
+  "size": 128615,
   "dataset": "sia-ad",
   "partition": {
    "uf": "se",
@@ -89852,9 +89852,9 @@
  {
   "filename": "ADSP2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADSP2606.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 4961194,
+  "size": 5007860,
   "dataset": "sia-ad",
   "partition": {
    "uf": "sp",
@@ -89867,9 +89867,9 @@
  {
   "filename": "ADTO2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADTO2606.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 60161,
+  "size": 60946,
   "dataset": "sia-ad",
   "partition": {
    "uf": "to",
@@ -89882,9 +89882,9 @@
  {
   "filename": "ADAC2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAC2607.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 10236,
+  "size": 10294,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ac",
@@ -89897,9 +89897,9 @@
  {
   "filename": "ADAL2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAL2607.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 239835,
+  "size": 239918,
   "dataset": "sia-ad",
   "partition": {
    "uf": "al",
@@ -89912,9 +89912,9 @@
  {
   "filename": "ADAM2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAM2607.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 217246,
+  "size": 216558,
   "dataset": "sia-ad",
   "partition": {
    "uf": "am",
@@ -89927,9 +89927,9 @@
  {
   "filename": "ADAP2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAP2607.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 118457,
+  "size": 118704,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ap",
@@ -89942,9 +89942,9 @@
  {
   "filename": "ADBA2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADBA2607.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1261985,
+  "size": 1264740,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ba",
@@ -89957,9 +89957,9 @@
  {
   "filename": "ADCE2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADCE2607.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 589474,
+  "size": 603826,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ce",
@@ -89972,9 +89972,9 @@
  {
   "filename": "ADDF2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADDF2607.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 181336,
+  "size": 181644,
   "dataset": "sia-ad",
   "partition": {
    "uf": "df",
@@ -89987,9 +89987,9 @@
  {
   "filename": "ADES2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADES2607.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 481344,
+  "size": 492014,
   "dataset": "sia-ad",
   "partition": {
    "uf": "es",
@@ -90002,9 +90002,9 @@
  {
   "filename": "ADGO2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADGO2607.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 572113,
+  "size": 578805,
   "dataset": "sia-ad",
   "partition": {
    "uf": "go",
@@ -90017,9 +90017,9 @@
  {
   "filename": "ADMA2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMA2607.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 138732,
+  "size": 199165,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ma",
@@ -90032,9 +90032,9 @@
  {
   "filename": "ADMG2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMG2607.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 2598691,
+  "size": 2550754,
   "dataset": "sia-ad",
   "partition": {
    "uf": "mg",
@@ -90047,9 +90047,9 @@
  {
   "filename": "ADMS2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMS2607.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 171130,
+  "size": 182462,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ms",
@@ -90062,9 +90062,9 @@
  {
   "filename": "ADMT2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMT2607.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 106426,
+  "size": 126347,
   "dataset": "sia-ad",
   "partition": {
    "uf": "mt",
@@ -90077,9 +90077,9 @@
  {
   "filename": "ADPA2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPA2607.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 242378,
+  "size": 259762,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pa",
@@ -90092,9 +90092,9 @@
  {
   "filename": "ADPB2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPB2607.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 164000,
+  "size": 323469,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pb",
@@ -90107,9 +90107,9 @@
  {
   "filename": "ADPE2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPE2607.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 894980,
+  "size": 1143175,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pe",
@@ -90122,9 +90122,9 @@
  {
   "filename": "ADPI2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPI2607.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 175009,
+  "size": 30705,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pi",
@@ -90137,9 +90137,9 @@
  {
   "filename": "ADPR2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPR2607.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1799191,
+  "size": 1799690,
   "dataset": "sia-ad",
   "partition": {
    "uf": "pr",
@@ -90152,9 +90152,9 @@
  {
   "filename": "ADRJ2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRJ2607.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1167143,
+  "size": 1841061,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rj",
@@ -90167,9 +90167,9 @@
  {
   "filename": "ADRN2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRN2607.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 368991,
+  "size": 461182,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rn",
@@ -90182,9 +90182,9 @@
  {
   "filename": "ADRO2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRO2607.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1661,
+  "size": 145602,
   "dataset": "sia-ad",
   "partition": {
    "uf": "ro",
@@ -90197,9 +90197,9 @@
  {
   "filename": "ADRR2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRR2607.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 23588,
+  "size": 23539,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rr",
@@ -90212,9 +90212,9 @@
  {
   "filename": "ADRS2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRS2607.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1351823,
+  "size": 1863844,
   "dataset": "sia-ad",
   "partition": {
    "uf": "rs",
@@ -90227,9 +90227,9 @@
  {
   "filename": "ADSC2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADSC2607.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 1547303,
+  "size": 2186506,
   "dataset": "sia-ad",
   "partition": {
    "uf": "sc",
@@ -90242,9 +90242,9 @@
  {
   "filename": "ADSE2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADSE2607.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 102350,
+  "size": 105446,
   "dataset": "sia-ad",
   "partition": {
    "uf": "se",
@@ -90257,9 +90257,9 @@
  {
   "filename": "ADSP2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADSP2607.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 4875733,
+  "size": 7591105,
   "dataset": "sia-ad",
   "partition": {
    "uf": "sp",
@@ -90272,14 +90272,419 @@
  {
   "filename": "ADTO2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADTO2607.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:39:00",
   "extension": "dbc",
-  "size": 64505,
+  "size": 64688,
   "dataset": "sia-ad",
   "partition": {
    "uf": "to",
    "year": 2026,
    "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ADAC2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAC2608.dbc",
+  "datetime": "2026-10-30T21:39:00",
+  "extension": "dbc",
+  "size": 19162,
+  "dataset": "sia-ad",
+  "partition": {
+   "uf": "ac",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ADAL2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAL2608.dbc",
+  "datetime": "2026-10-30T21:39:00",
+  "extension": "dbc",
+  "size": 239653,
+  "dataset": "sia-ad",
+  "partition": {
+   "uf": "al",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ADAM2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAM2608.dbc",
+  "datetime": "2026-10-30T21:39:00",
+  "extension": "dbc",
+  "size": 227308,
+  "dataset": "sia-ad",
+  "partition": {
+   "uf": "am",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ADAP2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADAP2608.dbc",
+  "datetime": "2026-10-30T21:39:00",
+  "extension": "dbc",
+  "size": 114757,
+  "dataset": "sia-ad",
+  "partition": {
+   "uf": "ap",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ADBA2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADBA2608.dbc",
+  "datetime": "2026-10-30T21:39:00",
+  "extension": "dbc",
+  "size": 1361761,
+  "dataset": "sia-ad",
+  "partition": {
+   "uf": "ba",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ADCE2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADCE2608.dbc",
+  "datetime": "2026-10-30T21:39:00",
+  "extension": "dbc",
+  "size": 670243,
+  "dataset": "sia-ad",
+  "partition": {
+   "uf": "ce",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ADDF2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADDF2608.dbc",
+  "datetime": "2026-10-30T21:39:00",
+  "extension": "dbc",
+  "size": 221811,
+  "dataset": "sia-ad",
+  "partition": {
+   "uf": "df",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ADES2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADES2608.dbc",
+  "datetime": "2026-10-30T21:39:00",
+  "extension": "dbc",
+  "size": 532761,
+  "dataset": "sia-ad",
+  "partition": {
+   "uf": "es",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ADGO2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADGO2608.dbc",
+  "datetime": "2026-10-30T21:39:00",
+  "extension": "dbc",
+  "size": 484414,
+  "dataset": "sia-ad",
+  "partition": {
+   "uf": "go",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ADMA2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMA2608.dbc",
+  "datetime": "2026-10-30T21:39:00",
+  "extension": "dbc",
+  "size": 258025,
+  "dataset": "sia-ad",
+  "partition": {
+   "uf": "ma",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ADMG2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMG2608.dbc",
+  "datetime": "2026-10-30T21:39:00",
+  "extension": "dbc",
+  "size": 2062796,
+  "dataset": "sia-ad",
+  "partition": {
+   "uf": "mg",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ADMS2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMS2608.dbc",
+  "datetime": "2026-10-30T21:39:00",
+  "extension": "dbc",
+  "size": 176866,
+  "dataset": "sia-ad",
+  "partition": {
+   "uf": "ms",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ADMT2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADMT2608.dbc",
+  "datetime": "2026-10-30T21:39:00",
+  "extension": "dbc",
+  "size": 116259,
+  "dataset": "sia-ad",
+  "partition": {
+   "uf": "mt",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ADPA2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPA2608.dbc",
+  "datetime": "2026-10-30T21:39:00",
+  "extension": "dbc",
+  "size": 282387,
+  "dataset": "sia-ad",
+  "partition": {
+   "uf": "pa",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ADPB2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPB2608.dbc",
+  "datetime": "2026-10-30T21:39:00",
+  "extension": "dbc",
+  "size": 356530,
+  "dataset": "sia-ad",
+  "partition": {
+   "uf": "pb",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ADPE2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPE2608.dbc",
+  "datetime": "2026-10-30T21:39:00",
+  "extension": "dbc",
+  "size": 1066725,
+  "dataset": "sia-ad",
+  "partition": {
+   "uf": "pe",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ADPI2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPI2608.dbc",
+  "datetime": "2026-10-30T21:39:00",
+  "extension": "dbc",
+  "size": 19450,
+  "dataset": "sia-ad",
+  "partition": {
+   "uf": "pi",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ADPR2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADPR2608.dbc",
+  "datetime": "2026-10-30T21:39:00",
+  "extension": "dbc",
+  "size": 1125605,
+  "dataset": "sia-ad",
+  "partition": {
+   "uf": "pr",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ADRJ2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRJ2608.dbc",
+  "datetime": "2026-10-30T21:39:00",
+  "extension": "dbc",
+  "size": 1281984,
+  "dataset": "sia-ad",
+  "partition": {
+   "uf": "rj",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ADRN2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRN2608.dbc",
+  "datetime": "2026-10-30T21:39:00",
+  "extension": "dbc",
+  "size": 370877,
+  "dataset": "sia-ad",
+  "partition": {
+   "uf": "rn",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ADRO2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRO2608.dbc",
+  "datetime": "2026-10-30T21:39:00",
+  "extension": "dbc",
+  "size": 131599,
+  "dataset": "sia-ad",
+  "partition": {
+   "uf": "ro",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ADRR2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRR2608.dbc",
+  "datetime": "2026-10-30T21:39:00",
+  "extension": "dbc",
+  "size": 25932,
+  "dataset": "sia-ad",
+  "partition": {
+   "uf": "rr",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ADRS2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADRS2608.dbc",
+  "datetime": "2026-10-30T21:39:00",
+  "extension": "dbc",
+  "size": 1238388,
+  "dataset": "sia-ad",
+  "partition": {
+   "uf": "rs",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ADSC2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADSC2608.dbc",
+  "datetime": "2026-10-30T21:39:00",
+  "extension": "dbc",
+  "size": 1407892,
+  "dataset": "sia-ad",
+  "partition": {
+   "uf": "sc",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ADSE2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADSE2608.dbc",
+  "datetime": "2026-10-30T21:39:00",
+  "extension": "dbc",
+  "size": 111883,
+  "dataset": "sia-ad",
+  "partition": {
+   "uf": "se",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ADSP2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADSP2608.dbc",
+  "datetime": "2026-10-30T21:39:00",
+  "extension": "dbc",
+  "size": 4626411,
+  "dataset": "sia-ad",
+  "partition": {
+   "uf": "sp",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ADTO2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ADTO2608.dbc",
+  "datetime": "2026-10-30T21:39:00",
+  "extension": "dbc",
+  "size": 56983,
+  "dataset": "sia-ad",
+  "partition": {
+   "uf": "to",
+   "year": 2026,
+   "month": 8,
    "subpartition": null
   },
   "preliminary": false

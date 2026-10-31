@@ -21857,7 +21857,7 @@
  {
   "filename": "ABOAC2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOAC2509.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
   "size": 3623,
   "dataset": "sia-abo",
@@ -21872,9 +21872,9 @@
  {
   "filename": "ABOBA2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOBA2509.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 3272,
+  "size": 3275,
   "dataset": "sia-abo",
   "partition": {
    "uf": "ba",
@@ -21887,9 +21887,9 @@
  {
   "filename": "ABOCE2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOCE2509.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 4826,
+  "size": 4840,
   "dataset": "sia-abo",
   "partition": {
    "uf": "ce",
@@ -21902,9 +21902,9 @@
  {
   "filename": "ABOES2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOES2509.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 8507,
+  "size": 8544,
   "dataset": "sia-abo",
   "partition": {
    "uf": "es",
@@ -21917,9 +21917,9 @@
  {
   "filename": "ABOMA2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOMA2509.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 4968,
+  "size": 4964,
   "dataset": "sia-abo",
   "partition": {
    "uf": "ma",
@@ -21932,9 +21932,9 @@
  {
   "filename": "ABOMG2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOMG2509.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 18736,
+  "size": 18590,
   "dataset": "sia-abo",
   "partition": {
    "uf": "mg",
@@ -21947,9 +21947,9 @@
  {
   "filename": "ABOPA2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOPA2509.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 13291,
+  "size": 13313,
   "dataset": "sia-abo",
   "partition": {
    "uf": "pa",
@@ -21962,9 +21962,9 @@
  {
   "filename": "ABOPE2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOPE2509.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 4033,
+  "size": 4038,
   "dataset": "sia-abo",
   "partition": {
    "uf": "pe",
@@ -21977,9 +21977,9 @@
  {
   "filename": "ABOPR2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOPR2509.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 65456,
+  "size": 66237,
   "dataset": "sia-abo",
   "partition": {
    "uf": "pr",
@@ -21992,9 +21992,9 @@
  {
   "filename": "ABORN2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABORN2509.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 4362,
+  "size": 4354,
   "dataset": "sia-abo",
   "partition": {
    "uf": "rn",
@@ -22007,9 +22007,9 @@
  {
   "filename": "ABORS2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABORS2509.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 21448,
+  "size": 21400,
   "dataset": "sia-abo",
   "partition": {
    "uf": "rs",
@@ -22022,9 +22022,9 @@
  {
   "filename": "ABOSC2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOSC2509.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 20626,
+  "size": 20643,
   "dataset": "sia-abo",
   "partition": {
    "uf": "sc",
@@ -22037,9 +22037,9 @@
  {
   "filename": "ABOSE2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOSE2509.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 4145,
+  "size": 4139,
   "dataset": "sia-abo",
   "partition": {
    "uf": "se",
@@ -22052,9 +22052,9 @@
  {
   "filename": "ABOSP2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOSP2509.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 75617,
+  "size": 75548,
   "dataset": "sia-abo",
   "partition": {
    "uf": "sp",
@@ -22067,9 +22067,9 @@
  {
   "filename": "ABOAC2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOAC2510.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 3585,
+  "size": 3593,
   "dataset": "sia-abo",
   "partition": {
    "uf": "ac",
@@ -22082,7 +22082,7 @@
  {
   "filename": "ABOBA2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOBA2510.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
   "size": 3030,
   "dataset": "sia-abo",
@@ -22097,9 +22097,9 @@
  {
   "filename": "ABOCE2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOCE2510.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 4682,
+  "size": 4664,
   "dataset": "sia-abo",
   "partition": {
    "uf": "ce",
@@ -22112,9 +22112,9 @@
  {
   "filename": "ABOES2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOES2510.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 8888,
+  "size": 9125,
   "dataset": "sia-abo",
   "partition": {
    "uf": "es",
@@ -22127,9 +22127,9 @@
  {
   "filename": "ABOMA2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOMA2510.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 5115,
+  "size": 5116,
   "dataset": "sia-abo",
   "partition": {
    "uf": "ma",
@@ -22142,9 +22142,9 @@
  {
   "filename": "ABOMG2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOMG2510.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 17964,
+  "size": 18019,
   "dataset": "sia-abo",
   "partition": {
    "uf": "mg",
@@ -22157,9 +22157,9 @@
  {
   "filename": "ABOPA2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOPA2510.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 6219,
+  "size": 6183,
   "dataset": "sia-abo",
   "partition": {
    "uf": "pa",
@@ -22172,9 +22172,9 @@
  {
   "filename": "ABOPB2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOPB2510.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 3371,
+  "size": 3376,
   "dataset": "sia-abo",
   "partition": {
    "uf": "pb",
@@ -22187,9 +22187,9 @@
  {
   "filename": "ABOPE2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOPE2510.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 3955,
+  "size": 3951,
   "dataset": "sia-abo",
   "partition": {
    "uf": "pe",
@@ -22202,9 +22202,9 @@
  {
   "filename": "ABOPR2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOPR2510.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 53598,
+  "size": 53792,
   "dataset": "sia-abo",
   "partition": {
    "uf": "pr",
@@ -22217,9 +22217,9 @@
  {
   "filename": "ABORN2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABORN2510.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 5087,
+  "size": 5058,
   "dataset": "sia-abo",
   "partition": {
    "uf": "rn",
@@ -22232,9 +22232,9 @@
  {
   "filename": "ABORS2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABORS2510.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 35026,
+  "size": 34626,
   "dataset": "sia-abo",
   "partition": {
    "uf": "rs",
@@ -22247,9 +22247,9 @@
  {
   "filename": "ABOSC2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOSC2510.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 15242,
+  "size": 15182,
   "dataset": "sia-abo",
   "partition": {
    "uf": "sc",
@@ -22262,9 +22262,9 @@
  {
   "filename": "ABOSE2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOSE2510.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 4392,
+  "size": 4416,
   "dataset": "sia-abo",
   "partition": {
    "uf": "se",
@@ -22277,9 +22277,9 @@
  {
   "filename": "ABOSP2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOSP2510.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 81814,
+  "size": 81055,
   "dataset": "sia-abo",
   "partition": {
    "uf": "sp",
@@ -22292,9 +22292,9 @@
  {
   "filename": "ABOAC2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOAC2511.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 3353,
+  "size": 3352,
   "dataset": "sia-abo",
   "partition": {
    "uf": "ac",
@@ -22307,9 +22307,9 @@
  {
   "filename": "ABOBA2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOBA2511.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 3171,
+  "size": 3172,
   "dataset": "sia-abo",
   "partition": {
    "uf": "ba",
@@ -22322,9 +22322,9 @@
  {
   "filename": "ABOCE2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOCE2511.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 4784,
+  "size": 4751,
   "dataset": "sia-abo",
   "partition": {
    "uf": "ce",
@@ -22337,9 +22337,9 @@
  {
   "filename": "ABOES2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOES2511.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 10519,
+  "size": 10485,
   "dataset": "sia-abo",
   "partition": {
    "uf": "es",
@@ -22352,9 +22352,9 @@
  {
   "filename": "ABOMA2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOMA2511.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 4422,
+  "size": 4423,
   "dataset": "sia-abo",
   "partition": {
    "uf": "ma",
@@ -22367,9 +22367,9 @@
  {
   "filename": "ABOMG2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOMG2511.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 29511,
+  "size": 29598,
   "dataset": "sia-abo",
   "partition": {
    "uf": "mg",
@@ -22382,9 +22382,9 @@
  {
   "filename": "ABOPA2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOPA2511.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 4256,
+  "size": 4239,
   "dataset": "sia-abo",
   "partition": {
    "uf": "pa",
@@ -22397,9 +22397,9 @@
  {
   "filename": "ABOPB2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOPB2511.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 4074,
+  "size": 4066,
   "dataset": "sia-abo",
   "partition": {
    "uf": "pb",
@@ -22412,9 +22412,9 @@
  {
   "filename": "ABOPE2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOPE2511.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 3539,
+  "size": 3541,
   "dataset": "sia-abo",
   "partition": {
    "uf": "pe",
@@ -22427,9 +22427,9 @@
  {
   "filename": "ABOPR2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOPR2511.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 65343,
+  "size": 65317,
   "dataset": "sia-abo",
   "partition": {
    "uf": "pr",
@@ -22442,9 +22442,9 @@
  {
   "filename": "ABORS2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABORS2511.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 31280,
+  "size": 30643,
   "dataset": "sia-abo",
   "partition": {
    "uf": "rs",
@@ -22457,9 +22457,9 @@
  {
   "filename": "ABOSC2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOSC2511.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 21661,
+  "size": 21448,
   "dataset": "sia-abo",
   "partition": {
    "uf": "sc",
@@ -22472,9 +22472,9 @@
  {
   "filename": "ABOSE2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOSE2511.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 4093,
+  "size": 4088,
   "dataset": "sia-abo",
   "partition": {
    "uf": "se",
@@ -22487,9 +22487,9 @@
  {
   "filename": "ABOSP2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOSP2511.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 96625,
+  "size": 96479,
   "dataset": "sia-abo",
   "partition": {
    "uf": "sp",
@@ -22502,9 +22502,9 @@
  {
   "filename": "ABOAC2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOAC2512.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 3314,
+  "size": 3313,
   "dataset": "sia-abo",
   "partition": {
    "uf": "ac",
@@ -22517,7 +22517,7 @@
  {
   "filename": "ABOBA2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOBA2512.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
   "size": 3117,
   "dataset": "sia-abo",
@@ -22532,9 +22532,9 @@
  {
   "filename": "ABOCE2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOCE2512.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 4337,
+  "size": 4343,
   "dataset": "sia-abo",
   "partition": {
    "uf": "ce",
@@ -22547,9 +22547,9 @@
  {
   "filename": "ABOES2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOES2512.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 6675,
+  "size": 6634,
   "dataset": "sia-abo",
   "partition": {
    "uf": "es",
@@ -22562,9 +22562,9 @@
  {
   "filename": "ABOMA2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOMA2512.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 4549,
+  "size": 4558,
   "dataset": "sia-abo",
   "partition": {
    "uf": "ma",
@@ -22577,9 +22577,9 @@
  {
   "filename": "ABOMG2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOMG2512.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 12982,
+  "size": 12849,
   "dataset": "sia-abo",
   "partition": {
    "uf": "mg",
@@ -22592,9 +22592,9 @@
  {
   "filename": "ABOPA2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOPA2512.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 4957,
+  "size": 4958,
   "dataset": "sia-abo",
   "partition": {
    "uf": "pa",
@@ -22607,9 +22607,9 @@
  {
   "filename": "ABOPE2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOPE2512.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 3585,
+  "size": 3584,
   "dataset": "sia-abo",
   "partition": {
    "uf": "pe",
@@ -22622,9 +22622,9 @@
  {
   "filename": "ABOPR2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOPR2512.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 55035,
+  "size": 55101,
   "dataset": "sia-abo",
   "partition": {
    "uf": "pr",
@@ -22637,9 +22637,9 @@
  {
   "filename": "ABORN2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABORN2512.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 5982,
+  "size": 6015,
   "dataset": "sia-abo",
   "partition": {
    "uf": "rn",
@@ -22652,9 +22652,9 @@
  {
   "filename": "ABORS2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABORS2512.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 28820,
+  "size": 28521,
   "dataset": "sia-abo",
   "partition": {
    "uf": "rs",
@@ -22667,9 +22667,9 @@
  {
   "filename": "ABOSC2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOSC2512.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 17793,
+  "size": 17713,
   "dataset": "sia-abo",
   "partition": {
    "uf": "sc",
@@ -22682,9 +22682,9 @@
  {
   "filename": "ABOSE2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOSE2512.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 4188,
+  "size": 4190,
   "dataset": "sia-abo",
   "partition": {
    "uf": "se",
@@ -22697,9 +22697,9 @@
  {
   "filename": "ABOSP2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOSP2512.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 88953,
+  "size": 89276,
   "dataset": "sia-abo",
   "partition": {
    "uf": "sp",
@@ -22712,9 +22712,9 @@
  {
   "filename": "ABOAC2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOAC2601.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 3616,
+  "size": 3611,
   "dataset": "sia-abo",
   "partition": {
    "uf": "ac",
@@ -22727,9 +22727,9 @@
  {
   "filename": "ABOBA2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOBA2601.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 3448,
+  "size": 3449,
   "dataset": "sia-abo",
   "partition": {
    "uf": "ba",
@@ -22742,9 +22742,9 @@
  {
   "filename": "ABOCE2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOCE2601.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 4280,
+  "size": 4258,
   "dataset": "sia-abo",
   "partition": {
    "uf": "ce",
@@ -22757,9 +22757,9 @@
  {
   "filename": "ABOES2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOES2601.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 8877,
+  "size": 8915,
   "dataset": "sia-abo",
   "partition": {
    "uf": "es",
@@ -22772,9 +22772,9 @@
  {
   "filename": "ABOMA2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOMA2601.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 4274,
+  "size": 4255,
   "dataset": "sia-abo",
   "partition": {
    "uf": "ma",
@@ -22787,9 +22787,9 @@
  {
   "filename": "ABOMG2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOMG2601.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 12769,
+  "size": 12770,
   "dataset": "sia-abo",
   "partition": {
    "uf": "mg",
@@ -22802,9 +22802,9 @@
  {
   "filename": "ABOPA2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOPA2601.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 4966,
+  "size": 4972,
   "dataset": "sia-abo",
   "partition": {
    "uf": "pa",
@@ -22832,9 +22832,9 @@
  {
   "filename": "ABOPR2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOPR2601.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 53790,
+  "size": 54573,
   "dataset": "sia-abo",
   "partition": {
    "uf": "pr",
@@ -22847,9 +22847,9 @@
  {
   "filename": "ABORN2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABORN2601.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 6420,
+  "size": 6379,
   "dataset": "sia-abo",
   "partition": {
    "uf": "rn",
@@ -22862,9 +22862,9 @@
  {
   "filename": "ABORS2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABORS2601.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 28501,
+  "size": 28309,
   "dataset": "sia-abo",
   "partition": {
    "uf": "rs",
@@ -22877,9 +22877,9 @@
  {
   "filename": "ABOSC2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOSC2601.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 18499,
+  "size": 18495,
   "dataset": "sia-abo",
   "partition": {
    "uf": "sc",
@@ -22892,9 +22892,9 @@
  {
   "filename": "ABOSE2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOSE2601.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 4009,
+  "size": 4003,
   "dataset": "sia-abo",
   "partition": {
    "uf": "se",
@@ -22907,9 +22907,9 @@
  {
   "filename": "ABOSP2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOSP2601.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 99137,
+  "size": 98383,
   "dataset": "sia-abo",
   "partition": {
    "uf": "sp",
@@ -22922,9 +22922,9 @@
  {
   "filename": "ABOAC2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOAC2602.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 3609,
+  "size": 3612,
   "dataset": "sia-abo",
   "partition": {
    "uf": "ac",
@@ -22937,7 +22937,7 @@
  {
   "filename": "ABOBA2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOBA2602.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
   "size": 3160,
   "dataset": "sia-abo",
@@ -22952,9 +22952,9 @@
  {
   "filename": "ABOCE2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOCE2602.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 4505,
+  "size": 4500,
   "dataset": "sia-abo",
   "partition": {
    "uf": "ce",
@@ -22967,9 +22967,9 @@
  {
   "filename": "ABOES2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOES2602.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 10152,
+  "size": 10257,
   "dataset": "sia-abo",
   "partition": {
    "uf": "es",
@@ -22982,9 +22982,9 @@
  {
   "filename": "ABOMA2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOMA2602.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 4821,
+  "size": 4820,
   "dataset": "sia-abo",
   "partition": {
    "uf": "ma",
@@ -22997,9 +22997,9 @@
  {
   "filename": "ABOMG2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOMG2602.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 22276,
+  "size": 22513,
   "dataset": "sia-abo",
   "partition": {
    "uf": "mg",
@@ -23012,9 +23012,9 @@
  {
   "filename": "ABOPA2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOPA2602.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 4196,
+  "size": 4195,
   "dataset": "sia-abo",
   "partition": {
    "uf": "pa",
@@ -23027,9 +23027,9 @@
  {
   "filename": "ABOPR2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOPR2602.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 52231,
+  "size": 52457,
   "dataset": "sia-abo",
   "partition": {
    "uf": "pr",
@@ -23042,9 +23042,9 @@
  {
   "filename": "ABORN2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABORN2602.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 5783,
+  "size": 5812,
   "dataset": "sia-abo",
   "partition": {
    "uf": "rn",
@@ -23057,9 +23057,9 @@
  {
   "filename": "ABORS2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABORS2602.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 24605,
+  "size": 24283,
   "dataset": "sia-abo",
   "partition": {
    "uf": "rs",
@@ -23072,9 +23072,9 @@
  {
   "filename": "ABOSC2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOSC2602.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 26107,
+  "size": 26469,
   "dataset": "sia-abo",
   "partition": {
    "uf": "sc",
@@ -23087,9 +23087,9 @@
  {
   "filename": "ABOSE2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOSE2602.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 4398,
+  "size": 4396,
   "dataset": "sia-abo",
   "partition": {
    "uf": "se",
@@ -23102,9 +23102,9 @@
  {
   "filename": "ABOSP2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOSP2602.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 98535,
+  "size": 98364,
   "dataset": "sia-abo",
   "partition": {
    "uf": "sp",
@@ -23117,9 +23117,9 @@
  {
   "filename": "ABOAC2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOAC2603.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 3433,
+  "size": 3440,
   "dataset": "sia-abo",
   "partition": {
    "uf": "ac",
@@ -23132,9 +23132,9 @@
  {
   "filename": "ABOBA2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOBA2603.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 3440,
+  "size": 3446,
   "dataset": "sia-abo",
   "partition": {
    "uf": "ba",
@@ -23147,9 +23147,9 @@
  {
   "filename": "ABOCE2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOCE2603.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 4537,
+  "size": 4543,
   "dataset": "sia-abo",
   "partition": {
    "uf": "ce",
@@ -23162,9 +23162,9 @@
  {
   "filename": "ABOES2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOES2603.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 7049,
+  "size": 7070,
   "dataset": "sia-abo",
   "partition": {
    "uf": "es",
@@ -23177,9 +23177,9 @@
  {
   "filename": "ABOMA2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOMA2603.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 4474,
+  "size": 4479,
   "dataset": "sia-abo",
   "partition": {
    "uf": "ma",
@@ -23192,9 +23192,9 @@
  {
   "filename": "ABOMG2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOMG2603.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 19763,
+  "size": 20232,
   "dataset": "sia-abo",
   "partition": {
    "uf": "mg",
@@ -23207,9 +23207,9 @@
  {
   "filename": "ABOPA2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOPA2603.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 4034,
+  "size": 4044,
   "dataset": "sia-abo",
   "partition": {
    "uf": "pa",
@@ -23222,9 +23222,9 @@
  {
   "filename": "ABOPR2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOPR2603.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 60781,
+  "size": 61035,
   "dataset": "sia-abo",
   "partition": {
    "uf": "pr",
@@ -23237,9 +23237,9 @@
  {
   "filename": "ABORS2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABORS2603.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 28262,
+  "size": 27779,
   "dataset": "sia-abo",
   "partition": {
    "uf": "rs",
@@ -23252,9 +23252,9 @@
  {
   "filename": "ABOSC2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOSC2603.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 33990,
+  "size": 33744,
   "dataset": "sia-abo",
   "partition": {
    "uf": "sc",
@@ -23267,9 +23267,9 @@
  {
   "filename": "ABOSE2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOSE2603.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 4281,
+  "size": 4288,
   "dataset": "sia-abo",
   "partition": {
    "uf": "se",
@@ -23282,9 +23282,9 @@
  {
   "filename": "ABOSP2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOSP2603.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 104505,
+  "size": 104414,
   "dataset": "sia-abo",
   "partition": {
    "uf": "sp",
@@ -23297,9 +23297,9 @@
  {
   "filename": "ABOAC2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOAC2604.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 3273,
+  "size": 3278,
   "dataset": "sia-abo",
   "partition": {
    "uf": "ac",
@@ -23312,7 +23312,7 @@
  {
   "filename": "ABOBA2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOBA2604.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
   "size": 3485,
   "dataset": "sia-abo",
@@ -23327,9 +23327,9 @@
  {
   "filename": "ABOCE2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOCE2604.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 4388,
+  "size": 4405,
   "dataset": "sia-abo",
   "partition": {
    "uf": "ce",
@@ -23342,9 +23342,9 @@
  {
   "filename": "ABOES2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOES2604.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 7369,
+  "size": 7384,
   "dataset": "sia-abo",
   "partition": {
    "uf": "es",
@@ -23357,9 +23357,9 @@
  {
   "filename": "ABOMA2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOMA2604.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 4398,
+  "size": 4387,
   "dataset": "sia-abo",
   "partition": {
    "uf": "ma",
@@ -23372,9 +23372,9 @@
  {
   "filename": "ABOMG2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOMG2604.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 17151,
+  "size": 17141,
   "dataset": "sia-abo",
   "partition": {
    "uf": "mg",
@@ -23387,9 +23387,9 @@
  {
   "filename": "ABOPA2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOPA2604.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 3487,
+  "size": 3482,
   "dataset": "sia-abo",
   "partition": {
    "uf": "pa",
@@ -23402,7 +23402,7 @@
  {
   "filename": "ABOPB2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOPB2604.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
   "size": 3938,
   "dataset": "sia-abo",
@@ -23417,9 +23417,9 @@
  {
   "filename": "ABOPE2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOPE2604.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 3472,
+  "size": 3478,
   "dataset": "sia-abo",
   "partition": {
    "uf": "pe",
@@ -23432,9 +23432,9 @@
  {
   "filename": "ABOPR2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOPR2604.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 71401,
+  "size": 71453,
   "dataset": "sia-abo",
   "partition": {
    "uf": "pr",
@@ -23447,9 +23447,9 @@
  {
   "filename": "ABORN2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABORN2604.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 4474,
+  "size": 4481,
   "dataset": "sia-abo",
   "partition": {
    "uf": "rn",
@@ -23462,9 +23462,9 @@
  {
   "filename": "ABORS2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABORS2604.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 30391,
+  "size": 30392,
   "dataset": "sia-abo",
   "partition": {
    "uf": "rs",
@@ -23477,9 +23477,9 @@
  {
   "filename": "ABOSC2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOSC2604.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 33689,
+  "size": 33208,
   "dataset": "sia-abo",
   "partition": {
    "uf": "sc",
@@ -23492,9 +23492,9 @@
  {
   "filename": "ABOSE2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOSE2604.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 4016,
+  "size": 4012,
   "dataset": "sia-abo",
   "partition": {
    "uf": "se",
@@ -23507,9 +23507,9 @@
  {
   "filename": "ABOSP2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOSP2604.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 111969,
+  "size": 111855,
   "dataset": "sia-abo",
   "partition": {
    "uf": "sp",
@@ -23522,9 +23522,9 @@
  {
   "filename": "ABOAC2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOAC2605.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 3326,
+  "size": 3328,
   "dataset": "sia-abo",
   "partition": {
    "uf": "ac",
@@ -23537,9 +23537,9 @@
  {
   "filename": "ABOCE2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOCE2605.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 4529,
+  "size": 4532,
   "dataset": "sia-abo",
   "partition": {
    "uf": "ce",
@@ -23552,9 +23552,9 @@
  {
   "filename": "ABOES2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOES2605.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 13279,
+  "size": 13360,
   "dataset": "sia-abo",
   "partition": {
    "uf": "es",
@@ -23567,9 +23567,9 @@
  {
   "filename": "ABOMA2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOMA2605.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 4574,
+  "size": 4568,
   "dataset": "sia-abo",
   "partition": {
    "uf": "ma",
@@ -23582,9 +23582,9 @@
  {
   "filename": "ABOMG2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOMG2605.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 20253,
+  "size": 14338,
   "dataset": "sia-abo",
   "partition": {
    "uf": "mg",
@@ -23597,9 +23597,9 @@
  {
   "filename": "ABOPA2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOPA2605.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 3577,
+  "size": 3575,
   "dataset": "sia-abo",
   "partition": {
    "uf": "pa",
@@ -23612,9 +23612,9 @@
  {
   "filename": "ABOPR2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOPR2605.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 65842,
+  "size": 66421,
   "dataset": "sia-abo",
   "partition": {
    "uf": "pr",
@@ -23627,9 +23627,9 @@
  {
   "filename": "ABORN2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABORN2605.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 4461,
+  "size": 4453,
   "dataset": "sia-abo",
   "partition": {
    "uf": "rn",
@@ -23642,9 +23642,9 @@
  {
   "filename": "ABORS2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABORS2605.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 27273,
+  "size": 27232,
   "dataset": "sia-abo",
   "partition": {
    "uf": "rs",
@@ -23657,9 +23657,9 @@
  {
   "filename": "ABOSC2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOSC2605.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 26625,
+  "size": 27038,
   "dataset": "sia-abo",
   "partition": {
    "uf": "sc",
@@ -23672,9 +23672,9 @@
  {
   "filename": "ABOSE2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOSE2605.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 3778,
+  "size": 3776,
   "dataset": "sia-abo",
   "partition": {
    "uf": "se",
@@ -23687,9 +23687,9 @@
  {
   "filename": "ABOSP2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOSP2605.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 120491,
+  "size": 119495,
   "dataset": "sia-abo",
   "partition": {
    "uf": "sp",
@@ -23702,9 +23702,9 @@
  {
   "filename": "ABOAC2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOAC2606.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 3329,
+  "size": 3328,
   "dataset": "sia-abo",
   "partition": {
    "uf": "ac",
@@ -23717,9 +23717,9 @@
  {
   "filename": "ABOCE2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOCE2606.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 4685,
+  "size": 4706,
   "dataset": "sia-abo",
   "partition": {
    "uf": "ce",
@@ -23732,9 +23732,9 @@
  {
   "filename": "ABOES2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOES2606.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 7994,
+  "size": 7983,
   "dataset": "sia-abo",
   "partition": {
    "uf": "es",
@@ -23747,9 +23747,9 @@
  {
   "filename": "ABOMA2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOMA2606.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 4517,
+  "size": 4519,
   "dataset": "sia-abo",
   "partition": {
    "uf": "ma",
@@ -23762,9 +23762,9 @@
  {
   "filename": "ABOMG2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOMG2606.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 27686,
+  "size": 20802,
   "dataset": "sia-abo",
   "partition": {
    "uf": "mg",
@@ -23777,9 +23777,9 @@
  {
   "filename": "ABOPA2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOPA2606.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 3317,
+  "size": 3318,
   "dataset": "sia-abo",
   "partition": {
    "uf": "pa",
@@ -23792,9 +23792,9 @@
  {
   "filename": "ABOPE2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOPE2606.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 5454,
+  "size": 5478,
   "dataset": "sia-abo",
   "partition": {
    "uf": "pe",
@@ -23807,9 +23807,9 @@
  {
   "filename": "ABOPR2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOPR2606.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 54979,
+  "size": 54870,
   "dataset": "sia-abo",
   "partition": {
    "uf": "pr",
@@ -23822,9 +23822,9 @@
  {
   "filename": "ABORN2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABORN2606.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 4803,
+  "size": 4813,
   "dataset": "sia-abo",
   "partition": {
    "uf": "rn",
@@ -23837,9 +23837,9 @@
  {
   "filename": "ABORS2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABORS2606.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 35769,
+  "size": 36960,
   "dataset": "sia-abo",
   "partition": {
    "uf": "rs",
@@ -23852,9 +23852,9 @@
  {
   "filename": "ABOSC2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOSC2606.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 30312,
+  "size": 30686,
   "dataset": "sia-abo",
   "partition": {
    "uf": "sc",
@@ -23867,9 +23867,9 @@
  {
   "filename": "ABOSE2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOSE2606.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 3650,
+  "size": 3642,
   "dataset": "sia-abo",
   "partition": {
    "uf": "se",
@@ -23882,9 +23882,9 @@
  {
   "filename": "ABOSP2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOSP2606.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 133591,
+  "size": 133662,
   "dataset": "sia-abo",
   "partition": {
    "uf": "sp",
@@ -23897,9 +23897,9 @@
  {
   "filename": "ABOAC2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOAC2607.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 3350,
+  "size": 3344,
   "dataset": "sia-abo",
   "partition": {
    "uf": "ac",
@@ -23912,9 +23912,9 @@
  {
   "filename": "ABOBA2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOBA2607.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 5503,
+  "size": 5548,
   "dataset": "sia-abo",
   "partition": {
    "uf": "ba",
@@ -23927,9 +23927,9 @@
  {
   "filename": "ABOCE2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOCE2607.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 4808,
+  "size": 4830,
   "dataset": "sia-abo",
   "partition": {
    "uf": "ce",
@@ -23942,9 +23942,9 @@
  {
   "filename": "ABOES2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOES2607.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 8607,
+  "size": 8611,
   "dataset": "sia-abo",
   "partition": {
    "uf": "es",
@@ -23957,9 +23957,9 @@
  {
   "filename": "ABOMA2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOMA2607.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 4535,
+  "size": 4533,
   "dataset": "sia-abo",
   "partition": {
    "uf": "ma",
@@ -23972,9 +23972,9 @@
  {
   "filename": "ABOMG2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOMG2607.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 18765,
+  "size": 18791,
   "dataset": "sia-abo",
   "partition": {
    "uf": "mg",
@@ -23987,9 +23987,9 @@
  {
   "filename": "ABOPA2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOPA2607.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 3425,
+  "size": 3420,
   "dataset": "sia-abo",
   "partition": {
    "uf": "pa",
@@ -24002,9 +24002,9 @@
  {
   "filename": "ABOPE2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOPE2607.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 11207,
+  "size": 10887,
   "dataset": "sia-abo",
   "partition": {
    "uf": "pe",
@@ -24017,9 +24017,9 @@
  {
   "filename": "ABOPR2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOPR2607.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 61059,
+  "size": 60748,
   "dataset": "sia-abo",
   "partition": {
    "uf": "pr",
@@ -24032,9 +24032,9 @@
  {
   "filename": "ABORN2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABORN2607.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 4305,
+  "size": 4319,
   "dataset": "sia-abo",
   "partition": {
    "uf": "rn",
@@ -24047,9 +24047,9 @@
  {
   "filename": "ABORS2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABORS2607.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 33094,
+  "size": 33199,
   "dataset": "sia-abo",
   "partition": {
    "uf": "rs",
@@ -24062,9 +24062,9 @@
  {
   "filename": "ABOSC2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOSC2607.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 26696,
+  "size": 26385,
   "dataset": "sia-abo",
   "partition": {
    "uf": "sc",
@@ -24077,9 +24077,9 @@
  {
   "filename": "ABOSE2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOSE2607.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 3843,
+  "size": 3848,
   "dataset": "sia-abo",
   "partition": {
    "uf": "se",
@@ -24092,14 +24092,224 @@
  {
   "filename": "ABOSP2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOSP2607.dbc",
-  "datetime": "2026-09-14T15:00:00",
+  "datetime": "2026-10-30T21:38:00",
   "extension": "dbc",
-  "size": 123115,
+  "size": 123084,
   "dataset": "sia-abo",
   "partition": {
    "uf": "sp",
    "year": 2026,
    "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABOAC2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOAC2608.dbc",
+  "datetime": "2026-10-30T21:38:00",
+  "extension": "dbc",
+  "size": 3464,
+  "dataset": "sia-abo",
+  "partition": {
+   "uf": "ac",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABOBA2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOBA2608.dbc",
+  "datetime": "2026-10-30T21:38:00",
+  "extension": "dbc",
+  "size": 3983,
+  "dataset": "sia-abo",
+  "partition": {
+   "uf": "ba",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABOCE2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOCE2608.dbc",
+  "datetime": "2026-10-30T21:38:00",
+  "extension": "dbc",
+  "size": 4861,
+  "dataset": "sia-abo",
+  "partition": {
+   "uf": "ce",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABOES2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOES2608.dbc",
+  "datetime": "2026-10-30T21:38:00",
+  "extension": "dbc",
+  "size": 6673,
+  "dataset": "sia-abo",
+  "partition": {
+   "uf": "es",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABOMA2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOMA2608.dbc",
+  "datetime": "2026-10-30T21:38:00",
+  "extension": "dbc",
+  "size": 4556,
+  "dataset": "sia-abo",
+  "partition": {
+   "uf": "ma",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABOMG2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOMG2608.dbc",
+  "datetime": "2026-10-30T21:38:00",
+  "extension": "dbc",
+  "size": 15123,
+  "dataset": "sia-abo",
+  "partition": {
+   "uf": "mg",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABOPA2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOPA2608.dbc",
+  "datetime": "2026-10-30T21:38:00",
+  "extension": "dbc",
+  "size": 3341,
+  "dataset": "sia-abo",
+  "partition": {
+   "uf": "pa",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABOPE2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOPE2608.dbc",
+  "datetime": "2026-10-30T21:38:00",
+  "extension": "dbc",
+  "size": 5790,
+  "dataset": "sia-abo",
+  "partition": {
+   "uf": "pe",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABOPR2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOPR2608.dbc",
+  "datetime": "2026-10-30T21:38:00",
+  "extension": "dbc",
+  "size": 24705,
+  "dataset": "sia-abo",
+  "partition": {
+   "uf": "pr",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABORN2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABORN2608.dbc",
+  "datetime": "2026-10-30T21:38:00",
+  "extension": "dbc",
+  "size": 3963,
+  "dataset": "sia-abo",
+  "partition": {
+   "uf": "rn",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABORS2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABORS2608.dbc",
+  "datetime": "2026-10-30T21:38:00",
+  "extension": "dbc",
+  "size": 28661,
+  "dataset": "sia-abo",
+  "partition": {
+   "uf": "rs",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABOSC2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOSC2608.dbc",
+  "datetime": "2026-10-30T21:38:00",
+  "extension": "dbc",
+  "size": 27257,
+  "dataset": "sia-abo",
+  "partition": {
+   "uf": "sc",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABOSE2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOSE2608.dbc",
+  "datetime": "2026-10-30T21:38:00",
+  "extension": "dbc",
+  "size": 4136,
+  "dataset": "sia-abo",
+  "partition": {
+   "uf": "se",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABOSP2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABOSP2608.dbc",
+  "datetime": "2026-10-30T21:38:00",
+  "extension": "dbc",
+  "size": 120442,
+  "dataset": "sia-abo",
+  "partition": {
+   "uf": "sp",
+   "year": 2026,
+   "month": 8,
    "subpartition": null
   },
   "preliminary": false

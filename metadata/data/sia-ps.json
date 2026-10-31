@@ -61457,9 +61457,9 @@
  {
   "filename": "PSAC2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAC2509.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 66175,
+  "size": 66823,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ac",
@@ -61472,9 +61472,9 @@
  {
   "filename": "PSAL2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAL2509.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 774821,
+  "size": 730855,
   "dataset": "sia-ps",
   "partition": {
    "uf": "al",
@@ -61487,9 +61487,9 @@
  {
   "filename": "PSAM2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAM2509.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 370179,
+  "size": 192572,
   "dataset": "sia-ps",
   "partition": {
    "uf": "am",
@@ -61502,9 +61502,9 @@
  {
   "filename": "PSAP2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAP2509.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 40983,
+  "size": 40113,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ap",
@@ -61517,9 +61517,9 @@
  {
   "filename": "PSBA2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSBA2509.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 2830673,
+  "size": 2489887,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ba",
@@ -61532,9 +61532,9 @@
  {
   "filename": "PSCE2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSCE2509.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1893042,
+  "size": 1694770,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ce",
@@ -61547,9 +61547,9 @@
  {
   "filename": "PSDF2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSDF2509.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 562307,
+  "size": 276564,
   "dataset": "sia-ps",
   "partition": {
    "uf": "df",
@@ -61562,9 +61562,9 @@
  {
   "filename": "PSES2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSES2509.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 367270,
+  "size": 184922,
   "dataset": "sia-ps",
   "partition": {
    "uf": "es",
@@ -61577,9 +61577,9 @@
  {
   "filename": "PSGO2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSGO2509.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 867520,
+  "size": 490585,
   "dataset": "sia-ps",
   "partition": {
    "uf": "go",
@@ -61592,9 +61592,9 @@
  {
   "filename": "PSMA2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMA2509.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 950963,
+  "size": 486921,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ma",
@@ -61607,9 +61607,9 @@
  {
   "filename": "PSMG2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMG2509.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 5034116,
+  "size": 4238579,
   "dataset": "sia-ps",
   "partition": {
    "uf": "mg",
@@ -61622,9 +61622,9 @@
  {
   "filename": "PSMS2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMS2509.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 952868,
+  "size": 553300,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ms",
@@ -61637,9 +61637,9 @@
  {
   "filename": "PSMT2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMT2509.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 531491,
+  "size": 509447,
   "dataset": "sia-ps",
   "partition": {
    "uf": "mt",
@@ -61652,9 +61652,9 @@
  {
   "filename": "PSPA2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPA2509.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1078958,
+  "size": 966987,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pa",
@@ -61667,9 +61667,9 @@
  {
   "filename": "PSPB2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPB2509.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1238748,
+  "size": 1068082,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pb",
@@ -61682,9 +61682,9 @@
  {
   "filename": "PSPE2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPE2509.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 2475647,
+  "size": 2205124,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pe",
@@ -61697,9 +61697,9 @@
  {
   "filename": "PSPI2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPI2509.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 612519,
+  "size": 329353,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pi",
@@ -61712,9 +61712,9 @@
  {
   "filename": "PSPR2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPR2509.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 2344353,
+  "size": 2083389,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pr",
@@ -61727,9 +61727,9 @@
  {
   "filename": "PSRJ2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRJ2509.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 3044838,
+  "size": 2676661,
   "dataset": "sia-ps",
   "partition": {
    "uf": "rj",
@@ -61742,9 +61742,9 @@
  {
   "filename": "PSRN2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRN2509.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 339138,
+  "size": 343935,
   "dataset": "sia-ps",
   "partition": {
    "uf": "rn",
@@ -61757,9 +61757,9 @@
  {
   "filename": "PSRO2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRO2509.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 199087,
+  "size": 154131,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ro",
@@ -61772,9 +61772,9 @@
  {
   "filename": "PSRR2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRR2509.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 25061,
+  "size": 22782,
   "dataset": "sia-ps",
   "partition": {
    "uf": "rr",
@@ -61787,9 +61787,9 @@
  {
   "filename": "PSRS2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRS2509.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 2910116,
+  "size": 2548037,
   "dataset": "sia-ps",
   "partition": {
    "uf": "rs",
@@ -61802,9 +61802,9 @@
  {
   "filename": "PSSC2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSSC2509.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1827512,
+  "size": 1629603,
   "dataset": "sia-ps",
   "partition": {
    "uf": "sc",
@@ -61817,9 +61817,9 @@
  {
   "filename": "PSSE2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSSE2509.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 701352,
+  "size": 697657,
   "dataset": "sia-ps",
   "partition": {
    "uf": "se",
@@ -61832,9 +61832,9 @@
  {
   "filename": "PSSP2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSSP2509.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 10903540,
+  "size": 9583894,
   "dataset": "sia-ps",
   "partition": {
    "uf": "sp",
@@ -61847,9 +61847,9 @@
  {
   "filename": "PSTO2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSTO2509.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 589602,
+  "size": 517841,
   "dataset": "sia-ps",
   "partition": {
    "uf": "to",
@@ -61862,7 +61862,7 @@
  {
   "filename": "PSAC2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAC2510.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 67783,
   "dataset": "sia-ps",
@@ -61877,7 +61877,7 @@
  {
   "filename": "PSAL2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAL2510.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 678510,
   "dataset": "sia-ps",
@@ -61892,7 +61892,7 @@
  {
   "filename": "PSAM2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAM2510.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 330299,
   "dataset": "sia-ps",
@@ -61907,7 +61907,7 @@
  {
   "filename": "PSAP2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAP2510.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 28071,
   "dataset": "sia-ps",
@@ -61922,7 +61922,7 @@
  {
   "filename": "PSBA2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSBA2510.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 2453311,
   "dataset": "sia-ps",
@@ -61937,7 +61937,7 @@
  {
   "filename": "PSCE2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSCE2510.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 1689900,
   "dataset": "sia-ps",
@@ -61952,7 +61952,7 @@
  {
   "filename": "PSDF2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSDF2510.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 486427,
   "dataset": "sia-ps",
@@ -61967,7 +61967,7 @@
  {
   "filename": "PSES2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSES2510.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 406224,
   "dataset": "sia-ps",
@@ -61982,7 +61982,7 @@
  {
   "filename": "PSGO2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSGO2510.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 773369,
   "dataset": "sia-ps",
@@ -61997,7 +61997,7 @@
  {
   "filename": "PSMA2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMA2510.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 852136,
   "dataset": "sia-ps",
@@ -62012,7 +62012,7 @@
  {
   "filename": "PSMG2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMG2510.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 4334752,
   "dataset": "sia-ps",
@@ -62027,7 +62027,7 @@
  {
   "filename": "PSMS2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMS2510.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 735860,
   "dataset": "sia-ps",
@@ -62042,9 +62042,9 @@
  {
   "filename": "PSMT2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMT2510.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 442502,
+  "size": 262554,
   "dataset": "sia-ps",
   "partition": {
    "uf": "mt",
@@ -62057,9 +62057,9 @@
  {
   "filename": "PSPA2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPA2510.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1016028,
+  "size": 1005579,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pa",
@@ -62072,9 +62072,9 @@
  {
   "filename": "PSPB2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPB2510.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1100108,
+  "size": 619527,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pb",
@@ -62087,9 +62087,9 @@
  {
   "filename": "PSPE2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPE2510.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 2326643,
+  "size": 2296294,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pe",
@@ -62102,9 +62102,9 @@
  {
   "filename": "PSPI2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPI2510.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 545969,
+  "size": 343765,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pi",
@@ -62117,9 +62117,9 @@
  {
   "filename": "PSPR2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPR2510.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 2253907,
+  "size": 1229280,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pr",
@@ -62132,9 +62132,9 @@
  {
   "filename": "PSRJ2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRJ2510.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 2542929,
+  "size": 2504569,
   "dataset": "sia-ps",
   "partition": {
    "uf": "rj",
@@ -62147,9 +62147,9 @@
  {
   "filename": "PSRN2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRN2510.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 333234,
+  "size": 387802,
   "dataset": "sia-ps",
   "partition": {
    "uf": "rn",
@@ -62162,9 +62162,9 @@
  {
   "filename": "PSRO2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRO2510.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 176242,
+  "size": 144423,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ro",
@@ -62177,7 +62177,7 @@
  {
   "filename": "PSRR2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRR2510.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 26806,
   "dataset": "sia-ps",
@@ -62192,9 +62192,9 @@
  {
   "filename": "PSRS2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRS2510.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 2560815,
+  "size": 2503760,
   "dataset": "sia-ps",
   "partition": {
    "uf": "rs",
@@ -62207,9 +62207,9 @@
  {
   "filename": "PSSC2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSSC2510.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1696480,
+  "size": 1681843,
   "dataset": "sia-ps",
   "partition": {
    "uf": "sc",
@@ -62222,9 +62222,9 @@
  {
   "filename": "PSSE2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSSE2510.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 686699,
+  "size": 366573,
   "dataset": "sia-ps",
   "partition": {
    "uf": "se",
@@ -62237,9 +62237,9 @@
  {
   "filename": "PSSP2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSSP2510.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 9818136,
+  "size": 9671422,
   "dataset": "sia-ps",
   "partition": {
    "uf": "sp",
@@ -62252,9 +62252,9 @@
  {
   "filename": "PSTO2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSTO2510.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 351331,
+  "size": 191144,
   "dataset": "sia-ps",
   "partition": {
    "uf": "to",
@@ -62267,9 +62267,9 @@
  {
   "filename": "PSAC2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAC2511.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 51354,
+  "size": 39260,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ac",
@@ -62282,9 +62282,9 @@
  {
   "filename": "PSAL2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAL2511.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 600949,
+  "size": 314214,
   "dataset": "sia-ps",
   "partition": {
    "uf": "al",
@@ -62297,9 +62297,9 @@
  {
   "filename": "PSAM2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAM2511.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 237970,
+  "size": 146077,
   "dataset": "sia-ps",
   "partition": {
    "uf": "am",
@@ -62312,9 +62312,9 @@
  {
   "filename": "PSAP2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAP2511.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 27329,
+  "size": 16350,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ap",
@@ -62327,9 +62327,9 @@
  {
   "filename": "PSBA2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSBA2511.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 2377838,
+  "size": 1550475,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ba",
@@ -62342,9 +62342,9 @@
  {
   "filename": "PSCE2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSCE2511.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1535750,
+  "size": 1086352,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ce",
@@ -62357,9 +62357,9 @@
  {
   "filename": "PSDF2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSDF2511.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 361893,
+  "size": 178168,
   "dataset": "sia-ps",
   "partition": {
    "uf": "df",
@@ -62372,9 +62372,9 @@
  {
   "filename": "PSES2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSES2511.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 340753,
+  "size": 195935,
   "dataset": "sia-ps",
   "partition": {
    "uf": "es",
@@ -62387,9 +62387,9 @@
  {
   "filename": "PSGO2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSGO2511.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 666071,
+  "size": 416184,
   "dataset": "sia-ps",
   "partition": {
    "uf": "go",
@@ -62402,9 +62402,9 @@
  {
   "filename": "PSMA2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMA2511.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 849708,
+  "size": 495495,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ma",
@@ -62417,9 +62417,9 @@
  {
   "filename": "PSMG2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMG2511.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 4030928,
+  "size": 2317060,
   "dataset": "sia-ps",
   "partition": {
    "uf": "mg",
@@ -62432,9 +62432,9 @@
  {
   "filename": "PSMS2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMS2511.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 670502,
+  "size": 432612,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ms",
@@ -62447,9 +62447,9 @@
  {
   "filename": "PSMT2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMT2511.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 381593,
+  "size": 235889,
   "dataset": "sia-ps",
   "partition": {
    "uf": "mt",
@@ -62462,9 +62462,9 @@
  {
   "filename": "PSPA2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPA2511.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1031184,
+  "size": 647790,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pa",
@@ -62477,9 +62477,9 @@
  {
   "filename": "PSPB2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPB2511.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1020878,
+  "size": 606783,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pb",
@@ -62492,9 +62492,9 @@
  {
   "filename": "PSPE2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPE2511.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1986283,
+  "size": 910581,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pe",
@@ -62507,9 +62507,9 @@
  {
   "filename": "PSPI2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPI2511.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 539143,
+  "size": 327481,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pi",
@@ -62522,9 +62522,9 @@
  {
   "filename": "PSPR2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPR2511.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1862559,
+  "size": 1046457,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pr",
@@ -62537,9 +62537,9 @@
  {
   "filename": "PSRJ2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRJ2511.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 2270157,
+  "size": 1376956,
   "dataset": "sia-ps",
   "partition": {
    "uf": "rj",
@@ -62552,9 +62552,9 @@
  {
   "filename": "PSRN2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRN2511.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 282377,
+  "size": 188464,
   "dataset": "sia-ps",
   "partition": {
    "uf": "rn",
@@ -62567,9 +62567,9 @@
  {
   "filename": "PSRO2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRO2511.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 175760,
+  "size": 148460,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ro",
@@ -62582,9 +62582,9 @@
  {
   "filename": "PSRR2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRR2511.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 27327,
+  "size": 20111,
   "dataset": "sia-ps",
   "partition": {
    "uf": "rr",
@@ -62597,9 +62597,9 @@
  {
   "filename": "PSRS2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRS2511.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 2149898,
+  "size": 1380348,
   "dataset": "sia-ps",
   "partition": {
    "uf": "rs",
@@ -62612,9 +62612,9 @@
  {
   "filename": "PSSC2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSSC2511.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1485842,
+  "size": 824791,
   "dataset": "sia-ps",
   "partition": {
    "uf": "sc",
@@ -62627,9 +62627,9 @@
  {
   "filename": "PSSE2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSSE2511.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 688737,
+  "size": 357974,
   "dataset": "sia-ps",
   "partition": {
    "uf": "se",
@@ -62642,9 +62642,9 @@
  {
   "filename": "PSSP2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSSP2511.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 8718671,
+  "size": 5098962,
   "dataset": "sia-ps",
   "partition": {
    "uf": "sp",
@@ -62657,9 +62657,9 @@
  {
   "filename": "PSTO2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSTO2511.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 574679,
+  "size": 285258,
   "dataset": "sia-ps",
   "partition": {
    "uf": "to",
@@ -62672,7 +62672,7 @@
  {
   "filename": "PSAC2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAC2512.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 47480,
   "dataset": "sia-ps",
@@ -62687,7 +62687,7 @@
  {
   "filename": "PSAL2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAL2512.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 549444,
   "dataset": "sia-ps",
@@ -62702,7 +62702,7 @@
  {
   "filename": "PSAM2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAM2512.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 224577,
   "dataset": "sia-ps",
@@ -62717,7 +62717,7 @@
  {
   "filename": "PSAP2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAP2512.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 26036,
   "dataset": "sia-ps",
@@ -62732,7 +62732,7 @@
  {
   "filename": "PSBA2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSBA2512.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 1944279,
   "dataset": "sia-ps",
@@ -62747,7 +62747,7 @@
  {
   "filename": "PSCE2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSCE2512.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 1309005,
   "dataset": "sia-ps",
@@ -62762,7 +62762,7 @@
  {
   "filename": "PSDF2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSDF2512.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 310717,
   "dataset": "sia-ps",
@@ -62777,7 +62777,7 @@
  {
   "filename": "PSES2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSES2512.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 373215,
   "dataset": "sia-ps",
@@ -62792,7 +62792,7 @@
  {
   "filename": "PSGO2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSGO2512.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 500301,
   "dataset": "sia-ps",
@@ -62807,9 +62807,9 @@
  {
   "filename": "PSMA2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMA2512.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 747647,
+  "size": 749288,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ma",
@@ -62822,7 +62822,7 @@
  {
   "filename": "PSMG2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMG2512.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 3424606,
   "dataset": "sia-ps",
@@ -62837,7 +62837,7 @@
  {
   "filename": "PSMS2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMS2512.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 615595,
   "dataset": "sia-ps",
@@ -62852,7 +62852,7 @@
  {
   "filename": "PSMT2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMT2512.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 370342,
   "dataset": "sia-ps",
@@ -62867,7 +62867,7 @@
  {
   "filename": "PSPA2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPA2512.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 900408,
   "dataset": "sia-ps",
@@ -62882,7 +62882,7 @@
  {
   "filename": "PSPB2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPB2512.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 855463,
   "dataset": "sia-ps",
@@ -62897,9 +62897,9 @@
  {
   "filename": "PSPE2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPE2512.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1723658,
+  "size": 1724542,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pe",
@@ -62912,7 +62912,7 @@
  {
   "filename": "PSPI2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPI2512.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 342730,
   "dataset": "sia-ps",
@@ -62927,7 +62927,7 @@
  {
   "filename": "PSPR2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPR2512.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 1610600,
   "dataset": "sia-ps",
@@ -62942,7 +62942,7 @@
  {
   "filename": "PSRJ2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRJ2512.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 2203644,
   "dataset": "sia-ps",
@@ -62957,7 +62957,7 @@
  {
   "filename": "PSRN2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRN2512.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 261254,
   "dataset": "sia-ps",
@@ -62972,7 +62972,7 @@
  {
   "filename": "PSRO2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRO2512.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 152136,
   "dataset": "sia-ps",
@@ -62987,7 +62987,7 @@
  {
   "filename": "PSRR2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRR2512.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 20771,
   "dataset": "sia-ps",
@@ -63002,7 +63002,7 @@
  {
   "filename": "PSRS2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRS2512.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 2171220,
   "dataset": "sia-ps",
@@ -63017,7 +63017,7 @@
  {
   "filename": "PSSC2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSSC2512.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 1170230,
   "dataset": "sia-ps",
@@ -63032,7 +63032,7 @@
  {
   "filename": "PSSE2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSSE2512.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 490813,
   "dataset": "sia-ps",
@@ -63047,7 +63047,7 @@
  {
   "filename": "PSSP2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSSP2512.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 7455507,
   "dataset": "sia-ps",
@@ -63062,7 +63062,7 @@
  {
   "filename": "PSTO2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSTO2512.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 396456,
   "dataset": "sia-ps",
@@ -63077,7 +63077,7 @@
  {
   "filename": "PSAC2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAC2601.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 44713,
   "dataset": "sia-ps",
@@ -63092,7 +63092,7 @@
  {
   "filename": "PSAL2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAL2601.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 564894,
   "dataset": "sia-ps",
@@ -63107,7 +63107,7 @@
  {
   "filename": "PSAM2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAM2601.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 199182,
   "dataset": "sia-ps",
@@ -63122,7 +63122,7 @@
  {
   "filename": "PSAP2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAP2601.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 22066,
   "dataset": "sia-ps",
@@ -63137,7 +63137,7 @@
  {
   "filename": "PSBA2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSBA2601.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 1932649,
   "dataset": "sia-ps",
@@ -63152,7 +63152,7 @@
  {
   "filename": "PSCE2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSCE2601.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 1456329,
   "dataset": "sia-ps",
@@ -63167,7 +63167,7 @@
  {
   "filename": "PSDF2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSDF2601.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 397853,
   "dataset": "sia-ps",
@@ -63182,7 +63182,7 @@
  {
   "filename": "PSES2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSES2601.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 396526,
   "dataset": "sia-ps",
@@ -63197,7 +63197,7 @@
  {
   "filename": "PSGO2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSGO2601.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 733421,
   "dataset": "sia-ps",
@@ -63212,7 +63212,7 @@
  {
   "filename": "PSMA2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMA2601.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 843614,
   "dataset": "sia-ps",
@@ -63227,7 +63227,7 @@
  {
   "filename": "PSMG2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMG2601.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 3491924,
   "dataset": "sia-ps",
@@ -63242,7 +63242,7 @@
  {
   "filename": "PSMS2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMS2601.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 518901,
   "dataset": "sia-ps",
@@ -63257,9 +63257,9 @@
  {
   "filename": "PSMT2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMT2601.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 335206,
+  "size": 337179,
   "dataset": "sia-ps",
   "partition": {
    "uf": "mt",
@@ -63272,9 +63272,9 @@
  {
   "filename": "PSPA2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPA2601.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 915557,
+  "size": 930380,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pa",
@@ -63287,7 +63287,7 @@
  {
   "filename": "PSPB2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPB2601.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 863636,
   "dataset": "sia-ps",
@@ -63302,9 +63302,9 @@
  {
   "filename": "PSPE2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPE2601.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1756401,
+  "size": 1757714,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pe",
@@ -63317,7 +63317,7 @@
  {
   "filename": "PSPI2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPI2601.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 552340,
   "dataset": "sia-ps",
@@ -63332,9 +63332,9 @@
  {
   "filename": "PSPR2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPR2601.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1646564,
+  "size": 1650682,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pr",
@@ -63347,7 +63347,7 @@
  {
   "filename": "PSRJ2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRJ2601.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 2318770,
   "dataset": "sia-ps",
@@ -63362,7 +63362,7 @@
  {
   "filename": "PSRN2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRN2601.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 248812,
   "dataset": "sia-ps",
@@ -63377,7 +63377,7 @@
  {
   "filename": "PSRO2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRO2601.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 135566,
   "dataset": "sia-ps",
@@ -63392,7 +63392,7 @@
  {
   "filename": "PSRR2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRR2601.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 27728,
   "dataset": "sia-ps",
@@ -63407,7 +63407,7 @@
  {
   "filename": "PSRS2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRS2601.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 1865597,
   "dataset": "sia-ps",
@@ -63422,7 +63422,7 @@
  {
   "filename": "PSSC2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSSC2601.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 1151414,
   "dataset": "sia-ps",
@@ -63437,7 +63437,7 @@
  {
   "filename": "PSSE2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSSE2601.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 526623,
   "dataset": "sia-ps",
@@ -63452,7 +63452,7 @@
  {
   "filename": "PSSP2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSSP2601.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 8128720,
   "dataset": "sia-ps",
@@ -63467,7 +63467,7 @@
  {
   "filename": "PSTO2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSTO2601.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 345231,
   "dataset": "sia-ps",
@@ -63482,9 +63482,9 @@
  {
   "filename": "PSAC2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAC2602.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 51732,
+  "size": 40035,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ac",
@@ -63497,9 +63497,9 @@
  {
   "filename": "PSAL2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAL2602.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 609029,
+  "size": 327238,
   "dataset": "sia-ps",
   "partition": {
    "uf": "al",
@@ -63512,9 +63512,9 @@
  {
   "filename": "PSAM2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAM2602.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 143916,
+  "size": 108767,
   "dataset": "sia-ps",
   "partition": {
    "uf": "am",
@@ -63527,9 +63527,9 @@
  {
   "filename": "PSAP2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAP2602.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 8614,
+  "size": 7960,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ap",
@@ -63542,9 +63542,9 @@
  {
   "filename": "PSBA2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSBA2602.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1969649,
+  "size": 1363506,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ba",
@@ -63557,9 +63557,9 @@
  {
   "filename": "PSCE2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSCE2602.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1395172,
+  "size": 1010262,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ce",
@@ -63572,9 +63572,9 @@
  {
   "filename": "PSDF2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSDF2602.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 454266,
+  "size": 223583,
   "dataset": "sia-ps",
   "partition": {
    "uf": "df",
@@ -63587,9 +63587,9 @@
  {
   "filename": "PSES2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSES2602.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 313406,
+  "size": 172525,
   "dataset": "sia-ps",
   "partition": {
    "uf": "es",
@@ -63602,9 +63602,9 @@
  {
   "filename": "PSGO2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSGO2602.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 677259,
+  "size": 410549,
   "dataset": "sia-ps",
   "partition": {
    "uf": "go",
@@ -63617,9 +63617,9 @@
  {
   "filename": "PSMA2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMA2602.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 820447,
+  "size": 463980,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ma",
@@ -63632,9 +63632,9 @@
  {
   "filename": "PSMG2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMG2602.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 3635655,
+  "size": 2149281,
   "dataset": "sia-ps",
   "partition": {
    "uf": "mg",
@@ -63647,9 +63647,9 @@
  {
   "filename": "PSMS2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMS2602.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 429518,
+  "size": 310414,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ms",
@@ -63662,9 +63662,9 @@
  {
   "filename": "PSMT2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMT2602.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 336010,
+  "size": 214469,
   "dataset": "sia-ps",
   "partition": {
    "uf": "mt",
@@ -63677,9 +63677,9 @@
  {
   "filename": "PSPA2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPA2602.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 924157,
+  "size": 617182,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pa",
@@ -63692,9 +63692,9 @@
  {
   "filename": "PSPB2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPB2602.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 922955,
+  "size": 558293,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pb",
@@ -63707,9 +63707,9 @@
  {
   "filename": "PSPE2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPE2602.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1631774,
+  "size": 777741,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pe",
@@ -63722,9 +63722,9 @@
  {
   "filename": "PSPI2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPI2602.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 447278,
+  "size": 275796,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pi",
@@ -63737,9 +63737,9 @@
  {
   "filename": "PSPR2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPR2602.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1644211,
+  "size": 990782,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pr",
@@ -63752,9 +63752,9 @@
  {
   "filename": "PSRJ2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRJ2602.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 2064152,
+  "size": 1267008,
   "dataset": "sia-ps",
   "partition": {
    "uf": "rj",
@@ -63767,9 +63767,9 @@
  {
   "filename": "PSRN2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRN2602.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 199063,
+  "size": 141203,
   "dataset": "sia-ps",
   "partition": {
    "uf": "rn",
@@ -63782,9 +63782,9 @@
  {
   "filename": "PSRO2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRO2602.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 146234,
+  "size": 122151,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ro",
@@ -63797,9 +63797,9 @@
  {
   "filename": "PSRR2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRR2602.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 36533,
+  "size": 25788,
   "dataset": "sia-ps",
   "partition": {
    "uf": "rr",
@@ -63812,9 +63812,9 @@
  {
   "filename": "PSRS2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRS2602.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1774083,
+  "size": 1231657,
   "dataset": "sia-ps",
   "partition": {
    "uf": "rs",
@@ -63827,9 +63827,9 @@
  {
   "filename": "PSSC2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSSC2602.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1239418,
+  "size": 728297,
   "dataset": "sia-ps",
   "partition": {
    "uf": "sc",
@@ -63842,9 +63842,9 @@
  {
   "filename": "PSSE2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSSE2602.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 554885,
+  "size": 311976,
   "dataset": "sia-ps",
   "partition": {
    "uf": "se",
@@ -63857,9 +63857,9 @@
  {
   "filename": "PSSP2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSSP2602.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 7817393,
+  "size": 4696829,
   "dataset": "sia-ps",
   "partition": {
    "uf": "sp",
@@ -63872,9 +63872,9 @@
  {
   "filename": "PSTO2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSTO2602.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 438452,
+  "size": 205605,
   "dataset": "sia-ps",
   "partition": {
    "uf": "to",
@@ -63887,9 +63887,9 @@
  {
   "filename": "PSAC2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAC2603.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 60346,
+  "size": 45338,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ac",
@@ -63902,9 +63902,9 @@
  {
   "filename": "PSAL2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAL2603.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 727319,
+  "size": 351905,
   "dataset": "sia-ps",
   "partition": {
    "uf": "al",
@@ -63917,9 +63917,9 @@
  {
   "filename": "PSAM2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAM2603.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 223270,
+  "size": 153694,
   "dataset": "sia-ps",
   "partition": {
    "uf": "am",
@@ -63932,9 +63932,9 @@
  {
   "filename": "PSAP2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAP2603.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 44480,
+  "size": 19203,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ap",
@@ -63947,9 +63947,9 @@
  {
   "filename": "PSBA2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSBA2603.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 2177026,
+  "size": 1471293,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ba",
@@ -63962,9 +63962,9 @@
  {
   "filename": "PSCE2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSCE2603.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1573615,
+  "size": 1145756,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ce",
@@ -63977,9 +63977,9 @@
  {
   "filename": "PSDF2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSDF2603.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 581698,
+  "size": 265049,
   "dataset": "sia-ps",
   "partition": {
    "uf": "df",
@@ -63992,9 +63992,9 @@
  {
   "filename": "PSES2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSES2603.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 281682,
+  "size": 173359,
   "dataset": "sia-ps",
   "partition": {
    "uf": "es",
@@ -64007,9 +64007,9 @@
  {
   "filename": "PSGO2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSGO2603.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 771384,
+  "size": 467904,
   "dataset": "sia-ps",
   "partition": {
    "uf": "go",
@@ -64022,9 +64022,9 @@
  {
   "filename": "PSMA2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMA2603.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 874637,
+  "size": 508881,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ma",
@@ -64037,9 +64037,9 @@
  {
   "filename": "PSMG2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMG2603.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 4252739,
+  "size": 2473085,
   "dataset": "sia-ps",
   "partition": {
    "uf": "mg",
@@ -64052,9 +64052,9 @@
  {
   "filename": "PSMS2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMS2603.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 558272,
+  "size": 384381,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ms",
@@ -64067,9 +64067,9 @@
  {
   "filename": "PSMT2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMT2603.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 382562,
+  "size": 250356,
   "dataset": "sia-ps",
   "partition": {
    "uf": "mt",
@@ -64082,9 +64082,9 @@
  {
   "filename": "PSPA2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPA2603.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1106114,
+  "size": 718479,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pa",
@@ -64097,9 +64097,9 @@
  {
   "filename": "PSPB2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPB2603.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1048012,
+  "size": 623874,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pb",
@@ -64112,9 +64112,9 @@
  {
   "filename": "PSPE2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPE2603.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1891442,
+  "size": 863655,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pe",
@@ -64127,9 +64127,9 @@
  {
   "filename": "PSPI2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPI2603.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 522831,
+  "size": 317612,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pi",
@@ -64142,9 +64142,9 @@
  {
   "filename": "PSPR2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPR2603.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1725187,
+  "size": 1036328,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pr",
@@ -64157,9 +64157,9 @@
  {
   "filename": "PSRJ2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRJ2603.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 2600210,
+  "size": 1536432,
   "dataset": "sia-ps",
   "partition": {
    "uf": "rj",
@@ -64172,9 +64172,9 @@
  {
   "filename": "PSRN2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRN2603.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 292402,
+  "size": 187716,
   "dataset": "sia-ps",
   "partition": {
    "uf": "rn",
@@ -64187,9 +64187,9 @@
  {
   "filename": "PSRO2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRO2603.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 157518,
+  "size": 129286,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ro",
@@ -64202,9 +64202,9 @@
  {
   "filename": "PSRR2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRR2603.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 30970,
+  "size": 23467,
   "dataset": "sia-ps",
   "partition": {
    "uf": "rr",
@@ -64217,9 +64217,9 @@
  {
   "filename": "PSRS2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRS2603.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 2200812,
+  "size": 1433177,
   "dataset": "sia-ps",
   "partition": {
    "uf": "rs",
@@ -64232,9 +64232,9 @@
  {
   "filename": "PSSC2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSSC2603.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1394454,
+  "size": 759337,
   "dataset": "sia-ps",
   "partition": {
    "uf": "sc",
@@ -64247,9 +64247,9 @@
  {
   "filename": "PSSE2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSSE2603.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 564973,
+  "size": 314226,
   "dataset": "sia-ps",
   "partition": {
    "uf": "se",
@@ -64262,9 +64262,9 @@
  {
   "filename": "PSSP2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSSP2603.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 8914648,
+  "size": 5195300,
   "dataset": "sia-ps",
   "partition": {
    "uf": "sp",
@@ -64277,9 +64277,9 @@
  {
   "filename": "PSTO2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSTO2603.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 506029,
+  "size": 247059,
   "dataset": "sia-ps",
   "partition": {
    "uf": "to",
@@ -64292,7 +64292,7 @@
  {
   "filename": "PSAC2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAC2604.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 54696,
   "dataset": "sia-ps",
@@ -64307,7 +64307,7 @@
  {
   "filename": "PSAL2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAL2604.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 581538,
   "dataset": "sia-ps",
@@ -64322,7 +64322,7 @@
  {
   "filename": "PSAM2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAM2604.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 389177,
   "dataset": "sia-ps",
@@ -64337,7 +64337,7 @@
  {
   "filename": "PSAP2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAP2604.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 31911,
   "dataset": "sia-ps",
@@ -64352,9 +64352,9 @@
  {
   "filename": "PSBA2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSBA2604.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 2116232,
+  "size": 2109127,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ba",
@@ -64367,9 +64367,9 @@
  {
   "filename": "PSCE2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSCE2604.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1620174,
+  "size": 1628351,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ce",
@@ -64382,7 +64382,7 @@
  {
   "filename": "PSDF2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSDF2604.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 492742,
   "dataset": "sia-ps",
@@ -64397,7 +64397,7 @@
  {
   "filename": "PSES2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSES2604.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 397181,
   "dataset": "sia-ps",
@@ -64412,9 +64412,9 @@
  {
   "filename": "PSGO2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSGO2604.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 705096,
+  "size": 713048,
   "dataset": "sia-ps",
   "partition": {
    "uf": "go",
@@ -64427,9 +64427,9 @@
  {
   "filename": "PSMA2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMA2604.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 835961,
+  "size": 855953,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ma",
@@ -64442,9 +64442,9 @@
  {
   "filename": "PSMG2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMG2604.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 3646705,
+  "size": 3660641,
   "dataset": "sia-ps",
   "partition": {
    "uf": "mg",
@@ -64457,7 +64457,7 @@
  {
   "filename": "PSMS2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMS2604.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 544645,
   "dataset": "sia-ps",
@@ -64472,7 +64472,7 @@
  {
   "filename": "PSMT2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMT2604.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 372283,
   "dataset": "sia-ps",
@@ -64487,7 +64487,7 @@
  {
   "filename": "PSPA2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPA2604.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 1070182,
   "dataset": "sia-ps",
@@ -64502,9 +64502,9 @@
  {
   "filename": "PSPB2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPB2604.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 952653,
+  "size": 955337,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pb",
@@ -64517,9 +64517,9 @@
  {
   "filename": "PSPE2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPE2604.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 2050807,
+  "size": 2049516,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pe",
@@ -64532,9 +64532,9 @@
  {
   "filename": "PSPI2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPI2604.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 525208,
+  "size": 516352,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pi",
@@ -64547,7 +64547,7 @@
  {
   "filename": "PSPR2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPR2604.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 1541663,
   "dataset": "sia-ps",
@@ -64562,9 +64562,9 @@
  {
   "filename": "PSRJ2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRJ2604.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1751992,
+  "size": 1756253,
   "dataset": "sia-ps",
   "partition": {
    "uf": "rj",
@@ -64577,7 +64577,7 @@
  {
   "filename": "PSRN2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRN2604.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 303074,
   "dataset": "sia-ps",
@@ -64592,7 +64592,7 @@
  {
   "filename": "PSRO2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRO2604.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 150208,
   "dataset": "sia-ps",
@@ -64607,7 +64607,7 @@
  {
   "filename": "PSRR2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRR2604.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 29347,
   "dataset": "sia-ps",
@@ -64622,7 +64622,7 @@
  {
   "filename": "PSRS2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRS2604.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 2069600,
   "dataset": "sia-ps",
@@ -64637,7 +64637,7 @@
  {
   "filename": "PSSC2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSSC2604.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 1433226,
   "dataset": "sia-ps",
@@ -64652,9 +64652,9 @@
  {
   "filename": "PSSE2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSSE2604.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 616436,
+  "size": 617289,
   "dataset": "sia-ps",
   "partition": {
    "uf": "se",
@@ -64667,9 +64667,9 @@
  {
   "filename": "PSSP2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSSP2604.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 8305749,
+  "size": 8061633,
   "dataset": "sia-ps",
   "partition": {
    "uf": "sp",
@@ -64682,7 +64682,7 @@
  {
   "filename": "PSTO2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSTO2604.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 459074,
   "dataset": "sia-ps",
@@ -64697,9 +64697,9 @@
  {
   "filename": "PSAC2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAC2605.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 35308,
+  "size": 35177,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ac",
@@ -64712,9 +64712,9 @@
  {
   "filename": "PSAL2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAL2605.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 712974,
+  "size": 711303,
   "dataset": "sia-ps",
   "partition": {
    "uf": "al",
@@ -64727,9 +64727,9 @@
  {
   "filename": "PSAM2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAM2605.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 330413,
+  "size": 332007,
   "dataset": "sia-ps",
   "partition": {
    "uf": "am",
@@ -64742,7 +64742,7 @@
  {
   "filename": "PSAP2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAP2605.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 29816,
   "dataset": "sia-ps",
@@ -64757,9 +64757,9 @@
  {
   "filename": "PSBA2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSBA2605.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 2008146,
+  "size": 2089845,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ba",
@@ -64772,9 +64772,9 @@
  {
   "filename": "PSCE2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSCE2605.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1262754,
+  "size": 1596907,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ce",
@@ -64787,9 +64787,9 @@
  {
   "filename": "PSDF2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSDF2605.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 606898,
+  "size": 556032,
   "dataset": "sia-ps",
   "partition": {
    "uf": "df",
@@ -64802,9 +64802,9 @@
  {
   "filename": "PSES2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSES2605.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 198926,
+  "size": 354921,
   "dataset": "sia-ps",
   "partition": {
    "uf": "es",
@@ -64817,9 +64817,9 @@
  {
   "filename": "PSGO2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSGO2605.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 455681,
+  "size": 739205,
   "dataset": "sia-ps",
   "partition": {
    "uf": "go",
@@ -64832,9 +64832,9 @@
  {
   "filename": "PSMA2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMA2605.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 888382,
+  "size": 921062,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ma",
@@ -64847,9 +64847,9 @@
  {
   "filename": "PSMG2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMG2605.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 2786304,
+  "size": 3899336,
   "dataset": "sia-ps",
   "partition": {
    "uf": "mg",
@@ -64862,9 +64862,9 @@
  {
   "filename": "PSMS2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMS2605.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 592864,
+  "size": 598933,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ms",
@@ -64877,9 +64877,9 @@
  {
   "filename": "PSMT2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMT2605.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 211461,
+  "size": 329317,
   "dataset": "sia-ps",
   "partition": {
    "uf": "mt",
@@ -64892,9 +64892,9 @@
  {
   "filename": "PSPA2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPA2605.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 653392,
+  "size": 1066766,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pa",
@@ -64907,9 +64907,9 @@
  {
   "filename": "PSPB2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPB2605.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 993352,
+  "size": 997000,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pb",
@@ -64922,9 +64922,9 @@
  {
   "filename": "PSPE2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPE2605.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1913432,
+  "size": 1944155,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pe",
@@ -64937,9 +64937,9 @@
  {
   "filename": "PSPI2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPI2605.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 724933,
+  "size": 620089,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pi",
@@ -64952,9 +64952,9 @@
  {
   "filename": "PSPR2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPR2605.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1845204,
+  "size": 1689095,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pr",
@@ -64967,9 +64967,9 @@
  {
   "filename": "PSRJ2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRJ2605.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 2585143,
+  "size": 2611213,
   "dataset": "sia-ps",
   "partition": {
    "uf": "rj",
@@ -64982,9 +64982,9 @@
  {
   "filename": "PSRN2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRN2605.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 176819,
+  "size": 291095,
   "dataset": "sia-ps",
   "partition": {
    "uf": "rn",
@@ -64997,9 +64997,9 @@
  {
   "filename": "PSRO2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRO2605.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 185998,
+  "size": 226155,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ro",
@@ -65012,7 +65012,7 @@
  {
   "filename": "PSRR2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRR2605.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 29605,
   "dataset": "sia-ps",
@@ -65027,9 +65027,9 @@
  {
   "filename": "PSRS2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRS2605.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1429348,
+  "size": 2258439,
   "dataset": "sia-ps",
   "partition": {
    "uf": "rs",
@@ -65042,9 +65042,9 @@
  {
   "filename": "PSSC2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSSC2605.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1466225,
+  "size": 1465968,
   "dataset": "sia-ps",
   "partition": {
    "uf": "sc",
@@ -65057,9 +65057,9 @@
  {
   "filename": "PSSE2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSSE2605.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 284208,
+  "size": 548251,
   "dataset": "sia-ps",
   "partition": {
    "uf": "se",
@@ -65072,9 +65072,9 @@
  {
   "filename": "PSSP2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSSP2605.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 8621708,
+  "size": 8340360,
   "dataset": "sia-ps",
   "partition": {
    "uf": "sp",
@@ -65087,7 +65087,7 @@
  {
   "filename": "PSTO2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSTO2605.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 561587,
   "dataset": "sia-ps",
@@ -65102,7 +65102,7 @@
  {
   "filename": "PSAC2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAC2606.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 51535,
   "dataset": "sia-ps",
@@ -65117,9 +65117,9 @@
  {
   "filename": "PSAL2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAL2606.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 563619,
+  "size": 588510,
   "dataset": "sia-ps",
   "partition": {
    "uf": "al",
@@ -65132,9 +65132,9 @@
  {
   "filename": "PSAM2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAM2606.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 248270,
+  "size": 247030,
   "dataset": "sia-ps",
   "partition": {
    "uf": "am",
@@ -65147,7 +65147,7 @@
  {
   "filename": "PSAP2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAP2606.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 35479,
   "dataset": "sia-ps",
@@ -65162,9 +65162,9 @@
  {
   "filename": "PSBA2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSBA2606.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1853742,
+  "size": 1949417,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ba",
@@ -65177,9 +65177,9 @@
  {
   "filename": "PSCE2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSCE2606.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1548109,
+  "size": 1577760,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ce",
@@ -65192,7 +65192,7 @@
  {
   "filename": "PSDF2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSDF2606.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 517114,
   "dataset": "sia-ps",
@@ -65207,7 +65207,7 @@
  {
   "filename": "PSES2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSES2606.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 335981,
   "dataset": "sia-ps",
@@ -65222,9 +65222,9 @@
  {
   "filename": "PSGO2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSGO2606.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 747225,
+  "size": 713384,
   "dataset": "sia-ps",
   "partition": {
    "uf": "go",
@@ -65237,9 +65237,9 @@
  {
   "filename": "PSMA2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMA2606.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 822145,
+  "size": 859324,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ma",
@@ -65252,9 +65252,9 @@
  {
   "filename": "PSMG2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMG2606.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 3963234,
+  "size": 3866505,
   "dataset": "sia-ps",
   "partition": {
    "uf": "mg",
@@ -65267,9 +65267,9 @@
  {
   "filename": "PSMS2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMS2606.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 606647,
+  "size": 606204,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ms",
@@ -65282,9 +65282,9 @@
  {
   "filename": "PSMT2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMT2606.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 386074,
+  "size": 410687,
   "dataset": "sia-ps",
   "partition": {
    "uf": "mt",
@@ -65297,9 +65297,9 @@
  {
   "filename": "PSPA2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPA2606.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 980805,
+  "size": 1015076,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pa",
@@ -65312,9 +65312,9 @@
  {
   "filename": "PSPB2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPB2606.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 761937,
+  "size": 795750,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pb",
@@ -65327,9 +65327,9 @@
  {
   "filename": "PSPE2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPE2606.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 2004868,
+  "size": 2041907,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pe",
@@ -65342,9 +65342,9 @@
  {
   "filename": "PSPI2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPI2606.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 576553,
+  "size": 456597,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pi",
@@ -65357,9 +65357,9 @@
  {
   "filename": "PSPR2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPR2606.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1562503,
+  "size": 1658596,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pr",
@@ -65372,9 +65372,9 @@
  {
   "filename": "PSRJ2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRJ2606.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 2495473,
+  "size": 2531272,
   "dataset": "sia-ps",
   "partition": {
    "uf": "rj",
@@ -65387,9 +65387,9 @@
  {
   "filename": "PSRN2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRN2606.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 225426,
+  "size": 269788,
   "dataset": "sia-ps",
   "partition": {
    "uf": "rn",
@@ -65402,9 +65402,9 @@
  {
   "filename": "PSRO2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRO2606.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 118225,
+  "size": 122267,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ro",
@@ -65417,9 +65417,9 @@
  {
   "filename": "PSRR2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRR2606.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 31681,
+  "size": 32700,
   "dataset": "sia-ps",
   "partition": {
    "uf": "rr",
@@ -65432,7 +65432,7 @@
  {
   "filename": "PSRS2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRS2606.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 2463176,
   "dataset": "sia-ps",
@@ -65447,9 +65447,9 @@
  {
   "filename": "PSSC2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSSC2606.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1376876,
+  "size": 1439574,
   "dataset": "sia-ps",
   "partition": {
    "uf": "sc",
@@ -65462,9 +65462,9 @@
  {
   "filename": "PSSE2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSSE2606.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 623418,
+  "size": 623015,
   "dataset": "sia-ps",
   "partition": {
    "uf": "se",
@@ -65477,9 +65477,9 @@
  {
   "filename": "PSSP2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSSP2606.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 8778699,
+  "size": 8068327,
   "dataset": "sia-ps",
   "partition": {
    "uf": "sp",
@@ -65492,9 +65492,9 @@
  {
   "filename": "PSTO2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSTO2606.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 434605,
+  "size": 454647,
   "dataset": "sia-ps",
   "partition": {
    "uf": "to",
@@ -65507,9 +65507,9 @@
  {
   "filename": "PSAC2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAC2607.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 24955,
+  "size": 29183,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ac",
@@ -65522,9 +65522,9 @@
  {
   "filename": "PSAL2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAL2607.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 612376,
+  "size": 702488,
   "dataset": "sia-ps",
   "partition": {
    "uf": "al",
@@ -65537,9 +65537,9 @@
  {
   "filename": "PSAM2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAM2607.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 80520,
+  "size": 247245,
   "dataset": "sia-ps",
   "partition": {
    "uf": "am",
@@ -65552,9 +65552,9 @@
  {
   "filename": "PSAP2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAP2607.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 24606,
+  "size": 30838,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ap",
@@ -65567,9 +65567,9 @@
  {
   "filename": "PSBA2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSBA2607.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1799206,
+  "size": 2143079,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ba",
@@ -65582,9 +65582,9 @@
  {
   "filename": "PSCE2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSCE2607.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1347163,
+  "size": 1639971,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ce",
@@ -65597,7 +65597,7 @@
  {
   "filename": "PSDF2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSDF2607.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
   "size": 514616,
   "dataset": "sia-ps",
@@ -65612,9 +65612,9 @@
  {
   "filename": "PSES2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSES2607.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 302326,
+  "size": 356564,
   "dataset": "sia-ps",
   "partition": {
    "uf": "es",
@@ -65627,9 +65627,9 @@
  {
   "filename": "PSGO2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSGO2607.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 582163,
+  "size": 668782,
   "dataset": "sia-ps",
   "partition": {
    "uf": "go",
@@ -65642,9 +65642,9 @@
  {
   "filename": "PSMA2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMA2607.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 559079,
+  "size": 784317,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ma",
@@ -65657,9 +65657,9 @@
  {
   "filename": "PSMG2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMG2607.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 3355366,
+  "size": 3759008,
   "dataset": "sia-ps",
   "partition": {
    "uf": "mg",
@@ -65672,9 +65672,9 @@
  {
   "filename": "PSMS2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMS2607.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 582770,
+  "size": 673040,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ms",
@@ -65687,9 +65687,9 @@
  {
   "filename": "PSMT2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMT2607.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 200193,
+  "size": 294915,
   "dataset": "sia-ps",
   "partition": {
    "uf": "mt",
@@ -65702,9 +65702,9 @@
  {
   "filename": "PSPA2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPA2607.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 533101,
+  "size": 849945,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pa",
@@ -65717,9 +65717,9 @@
  {
   "filename": "PSPB2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPB2607.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 737985,
+  "size": 986738,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pb",
@@ -65732,9 +65732,9 @@
  {
   "filename": "PSPE2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPE2607.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1710289,
+  "size": 2130793,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pe",
@@ -65747,9 +65747,9 @@
  {
   "filename": "PSPI2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPI2607.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 394969,
+  "size": 474195,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pi",
@@ -65762,9 +65762,9 @@
  {
   "filename": "PSPR2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPR2607.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1354710,
+  "size": 1602824,
   "dataset": "sia-ps",
   "partition": {
    "uf": "pr",
@@ -65777,9 +65777,9 @@
  {
   "filename": "PSRJ2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRJ2607.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 2478936,
+  "size": 2680894,
   "dataset": "sia-ps",
   "partition": {
    "uf": "rj",
@@ -65792,9 +65792,9 @@
  {
   "filename": "PSRN2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRN2607.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 177062,
+  "size": 248785,
   "dataset": "sia-ps",
   "partition": {
    "uf": "rn",
@@ -65807,9 +65807,9 @@
  {
   "filename": "PSRO2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRO2607.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 78426,
+  "size": 104712,
   "dataset": "sia-ps",
   "partition": {
    "uf": "ro",
@@ -65822,9 +65822,9 @@
  {
   "filename": "PSRR2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRR2607.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 14675,
+  "size": 21981,
   "dataset": "sia-ps",
   "partition": {
    "uf": "rr",
@@ -65837,9 +65837,9 @@
  {
   "filename": "PSRS2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRS2607.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 2107342,
+  "size": 2506664,
   "dataset": "sia-ps",
   "partition": {
    "uf": "rs",
@@ -65852,9 +65852,9 @@
  {
   "filename": "PSSC2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSSC2607.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 1245492,
+  "size": 1371141,
   "dataset": "sia-ps",
   "partition": {
    "uf": "sc",
@@ -65867,9 +65867,9 @@
  {
   "filename": "PSSE2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSSE2607.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 619538,
+  "size": 644998,
   "dataset": "sia-ps",
   "partition": {
    "uf": "se",
@@ -65882,9 +65882,9 @@
  {
   "filename": "PSSP2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSSP2607.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 7860960,
+  "size": 8217360,
   "dataset": "sia-ps",
   "partition": {
    "uf": "sp",
@@ -65897,14 +65897,419 @@
  {
   "filename": "PSTO2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSTO2607.dbc",
-  "datetime": "2026-09-14T15:07:00",
+  "datetime": "2026-10-30T21:51:00",
   "extension": "dbc",
-  "size": 343588,
+  "size": 410342,
   "dataset": "sia-ps",
   "partition": {
    "uf": "to",
    "year": 2026,
    "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PSAC2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAC2608.dbc",
+  "datetime": "2026-10-30T21:51:00",
+  "extension": "dbc",
+  "size": 43567,
+  "dataset": "sia-ps",
+  "partition": {
+   "uf": "ac",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PSAL2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAL2608.dbc",
+  "datetime": "2026-10-30T21:51:00",
+  "extension": "dbc",
+  "size": 537647,
+  "dataset": "sia-ps",
+  "partition": {
+   "uf": "al",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PSAM2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAM2608.dbc",
+  "datetime": "2026-10-30T21:51:00",
+  "extension": "dbc",
+  "size": 189338,
+  "dataset": "sia-ps",
+  "partition": {
+   "uf": "am",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PSAP2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSAP2608.dbc",
+  "datetime": "2026-10-30T21:51:00",
+  "extension": "dbc",
+  "size": 19024,
+  "dataset": "sia-ps",
+  "partition": {
+   "uf": "ap",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PSBA2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSBA2608.dbc",
+  "datetime": "2026-10-30T21:51:00",
+  "extension": "dbc",
+  "size": 1649759,
+  "dataset": "sia-ps",
+  "partition": {
+   "uf": "ba",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PSCE2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSCE2608.dbc",
+  "datetime": "2026-10-30T21:51:00",
+  "extension": "dbc",
+  "size": 1386888,
+  "dataset": "sia-ps",
+  "partition": {
+   "uf": "ce",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PSDF2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSDF2608.dbc",
+  "datetime": "2026-10-30T21:51:00",
+  "extension": "dbc",
+  "size": 522313,
+  "dataset": "sia-ps",
+  "partition": {
+   "uf": "df",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PSES2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSES2608.dbc",
+  "datetime": "2026-10-30T21:51:00",
+  "extension": "dbc",
+  "size": 301714,
+  "dataset": "sia-ps",
+  "partition": {
+   "uf": "es",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PSGO2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSGO2608.dbc",
+  "datetime": "2026-10-30T21:51:00",
+  "extension": "dbc",
+  "size": 611477,
+  "dataset": "sia-ps",
+  "partition": {
+   "uf": "go",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PSMA2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMA2608.dbc",
+  "datetime": "2026-10-30T21:51:00",
+  "extension": "dbc",
+  "size": 482414,
+  "dataset": "sia-ps",
+  "partition": {
+   "uf": "ma",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PSMG2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMG2608.dbc",
+  "datetime": "2026-10-30T21:51:00",
+  "extension": "dbc",
+  "size": 2522129,
+  "dataset": "sia-ps",
+  "partition": {
+   "uf": "mg",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PSMS2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMS2608.dbc",
+  "datetime": "2026-10-30T21:51:00",
+  "extension": "dbc",
+  "size": 402301,
+  "dataset": "sia-ps",
+  "partition": {
+   "uf": "ms",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PSMT2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSMT2608.dbc",
+  "datetime": "2026-10-30T21:51:00",
+  "extension": "dbc",
+  "size": 106044,
+  "dataset": "sia-ps",
+  "partition": {
+   "uf": "mt",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PSPA2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPA2608.dbc",
+  "datetime": "2026-10-30T21:51:00",
+  "extension": "dbc",
+  "size": 399465,
+  "dataset": "sia-ps",
+  "partition": {
+   "uf": "pa",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PSPB2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPB2608.dbc",
+  "datetime": "2026-10-30T21:51:00",
+  "extension": "dbc",
+  "size": 708425,
+  "dataset": "sia-ps",
+  "partition": {
+   "uf": "pb",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PSPE2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPE2608.dbc",
+  "datetime": "2026-10-30T21:51:00",
+  "extension": "dbc",
+  "size": 1665516,
+  "dataset": "sia-ps",
+  "partition": {
+   "uf": "pe",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PSPI2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPI2608.dbc",
+  "datetime": "2026-10-30T21:51:00",
+  "extension": "dbc",
+  "size": 251343,
+  "dataset": "sia-ps",
+  "partition": {
+   "uf": "pi",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PSPR2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSPR2608.dbc",
+  "datetime": "2026-10-30T21:51:00",
+  "extension": "dbc",
+  "size": 395261,
+  "dataset": "sia-ps",
+  "partition": {
+   "uf": "pr",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PSRJ2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRJ2608.dbc",
+  "datetime": "2026-10-30T21:51:00",
+  "extension": "dbc",
+  "size": 1906019,
+  "dataset": "sia-ps",
+  "partition": {
+   "uf": "rj",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PSRN2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRN2608.dbc",
+  "datetime": "2026-10-30T21:51:00",
+  "extension": "dbc",
+  "size": 214973,
+  "dataset": "sia-ps",
+  "partition": {
+   "uf": "rn",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PSRO2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRO2608.dbc",
+  "datetime": "2026-10-30T21:51:00",
+  "extension": "dbc",
+  "size": 58461,
+  "dataset": "sia-ps",
+  "partition": {
+   "uf": "ro",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PSRR2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRR2608.dbc",
+  "datetime": "2026-10-30T21:51:00",
+  "extension": "dbc",
+  "size": 25731,
+  "dataset": "sia-ps",
+  "partition": {
+   "uf": "rr",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PSRS2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSRS2608.dbc",
+  "datetime": "2026-10-30T21:51:00",
+  "extension": "dbc",
+  "size": 1290048,
+  "dataset": "sia-ps",
+  "partition": {
+   "uf": "rs",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PSSC2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSSC2608.dbc",
+  "datetime": "2026-10-30T21:51:00",
+  "extension": "dbc",
+  "size": 973259,
+  "dataset": "sia-ps",
+  "partition": {
+   "uf": "sc",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PSSE2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSSE2608.dbc",
+  "datetime": "2026-10-30T21:51:00",
+  "extension": "dbc",
+  "size": 532936,
+  "dataset": "sia-ps",
+  "partition": {
+   "uf": "se",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PSSP2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSSP2608.dbc",
+  "datetime": "2026-10-30T21:51:00",
+  "extension": "dbc",
+  "size": 6992495,
+  "dataset": "sia-ps",
+  "partition": {
+   "uf": "sp",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PSTO2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PSTO2608.dbc",
+  "datetime": "2026-10-30T21:51:00",
+  "extension": "dbc",
+  "size": 161339,
+  "dataset": "sia-ps",
+  "partition": {
+   "uf": "to",
+   "year": 2026,
+   "month": 8,
    "subpartition": null
   },
   "preliminary": false
