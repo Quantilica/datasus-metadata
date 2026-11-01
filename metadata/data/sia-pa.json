@@ -162300,21 +162300,6 @@
   "preliminary": false
  },
  {
-  "filename": "PARS2607.dbc",
-  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARS2607.dbc",
-  "datetime": "2026-09-17T17:29:00",
-  "extension": "dbc",
-  "size": 158252722,
-  "dataset": "sia-pa",
-  "partition": {
-   "uf": "rs",
-   "year": 2026,
-   "month": 7,
-   "subpartition": ""
-  },
-  "preliminary": false
- },
- {
   "filename": "PARS2607a.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARS2607a.dbc",
   "datetime": "2026-10-30T21:49:00",

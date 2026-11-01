@@ -399,8 +399,8 @@
   "sia-pa": {
    "name": "Produção Ambulatorial",
    "source": "sia",
-   "n_files": 10863,
-   "total_size": 220408826107,
+   "n_files": 10862,
+   "total_size": 220250573385,
    "partition_n_ufs": 27,
    "partition_period_start": "1994-07",
    "partition_period_end": "2026-08",
