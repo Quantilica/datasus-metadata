@@ -152,7 +152,7 @@
  {
   "filename": "TETNBR24.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TETNBR24.dbc",
-  "datetime": "2026-10-01T14:47:00",
+  "datetime": "2026-10-29T10:50:00",
   "extension": "dbc",
   "size": 2865,
   "dataset": "sinan-tetn",
@@ -182,9 +182,9 @@
  {
   "filename": "TETNBR26.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TETNBR26.dbc",
-  "datetime": "2026-10-23T12:37:00",
+  "datetime": "2026-10-29T10:50:00",
   "extension": "dbc",
-  "size": 2829,
+  "size": 2897,
   "dataset": "sinan-tetn",
   "partition": {
    "uf": "br",

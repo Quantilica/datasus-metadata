@@ -257,9 +257,9 @@
  {
   "filename": "COQUBR24.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/COQUBR24.dbc",
-  "datetime": "2026-10-01T14:44:00",
+  "datetime": "2026-10-29T10:47:00",
   "extension": "dbc",
-  "size": 1492560,
+  "size": 1494430,
   "dataset": "sinan-coqu",
   "partition": {
    "uf": "br",
@@ -287,9 +287,9 @@
  {
   "filename": "COQUBR26.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/COQUBR26.dbc",
-  "datetime": "2026-10-23T12:35:00",
+  "datetime": "2026-10-29T10:47:00",
   "extension": "dbc",
-  "size": 200419,
+  "size": 207810,
   "dataset": "sinan-coqu",
   "partition": {
    "uf": "br",
