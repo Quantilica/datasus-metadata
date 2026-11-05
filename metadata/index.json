@@ -676,13 +676,13 @@
    "name": "Botulismo",
    "source": "sinan",
    "n_files": 20,
-   "total_size": 175960,
+   "total_size": 178730,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2026",
    "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-05-25T11:23:00"
+   "latest_update": "2026-10-29T12:02:00"
   },
   "sinan-canc": {
    "name": "Câncer relacionado ao trabalho",
@@ -952,13 +952,13 @@
    "name": "Leptospirose",
    "source": "sinan",
    "n_files": 27,
-   "total_size": 31763171,
+   "total_size": 32190383,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
    "partition_period_end": "2026",
    "partition_n_periods": 27,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-07-15T14:11:00"
+   "latest_update": "2026-11-03T11:16:00"
   },
   "sinan-lerd": {
    "name": "LER/Dort",

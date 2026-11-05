@@ -377,9 +377,9 @@
  {
   "filename": "LEPTBR25.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/LEPTBR25.dbc",
-  "datetime": "2026-07-15T10:39:00",
+  "datetime": "2026-11-03T11:16:00",
   "extension": "dbc",
-  "size": 1455581,
+  "size": 1453703,
   "dataset": "sinan-lept",
   "partition": {
    "uf": "br",
@@ -392,9 +392,9 @@
  {
   "filename": "LEPTBR26.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/LEPTBR26.dbc",
-  "datetime": "2026-07-15T10:20:00",
+  "datetime": "2026-11-03T11:16:00",
   "extension": "dbc",
-  "size": 723497,
+  "size": 1152587,
   "dataset": "sinan-lept",
   "partition": {
    "uf": "br",
