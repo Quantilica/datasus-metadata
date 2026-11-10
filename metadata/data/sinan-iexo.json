@@ -272,9 +272,9 @@
  {
   "filename": "IEXOBR24.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/IEXOBR24.dbc",
-  "datetime": "2026-09-28T10:37:00",
+  "datetime": "2026-10-29T10:45:00",
   "extension": "dbc",
-  "size": 20244034,
+  "size": 20157378,
   "dataset": "sinan-iexo",
   "partition": {
    "uf": "br",
@@ -287,9 +287,9 @@
  {
   "filename": "IEXOBR25.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/IEXOBR25.dbc",
-  "datetime": "2026-09-21T10:57:00",
+  "datetime": "2026-10-29T10:46:00",
   "extension": "dbc",
-  "size": 23903990,
+  "size": 23969114,
   "dataset": "sinan-iexo",
   "partition": {
    "uf": "br",
@@ -302,9 +302,9 @@
  {
   "filename": "IEXOBR26.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/IEXOBR26.dbc",
-  "datetime": "2026-09-28T10:37:00",
+  "datetime": "2026-10-29T10:45:00",
   "extension": "dbc",
-  "size": 16780144,
+  "size": 19640080,
   "dataset": "sinan-iexo",
   "partition": {
    "uf": "br",

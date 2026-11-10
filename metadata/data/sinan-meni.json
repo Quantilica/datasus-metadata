@@ -257,9 +257,9 @@
  {
   "filename": "MENIBR24.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/MENIBR24.dbc",
-  "datetime": "2026-09-21T09:33:00",
+  "datetime": "2026-10-29T09:38:00",
   "extension": "dbc",
-  "size": 2528173,
+  "size": 2531018,
   "dataset": "sinan-meni",
   "partition": {
    "uf": "br",
@@ -272,9 +272,9 @@
  {
   "filename": "MENIBR25.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/MENIBR25.dbc",
-  "datetime": "2026-09-21T09:33:00",
+  "datetime": "2026-10-29T09:38:00",
   "extension": "dbc",
-  "size": 2678599,
+  "size": 2673048,
   "dataset": "sinan-meni",
   "partition": {
    "uf": "br",
@@ -287,9 +287,9 @@
  {
   "filename": "MENIBR26.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/MENIBR26.dbc",
-  "datetime": "2026-09-21T09:33:00",
+  "datetime": "2026-10-29T09:38:00",
   "extension": "dbc",
-  "size": 1860038,
+  "size": 2211517,
   "dataset": "sinan-meni",
   "partition": {
    "uf": "br",
