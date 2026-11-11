@@ -69947,9 +69947,9 @@
  {
   "filename": "ERAC2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAC2510.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 13498,
+  "size": 13434,
   "dataset": "sih-er",
   "partition": {
    "uf": "ac",
@@ -69962,9 +69962,9 @@
  {
   "filename": "ERAL2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAL2510.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 68764,
+  "size": 69964,
   "dataset": "sih-er",
   "partition": {
    "uf": "al",
@@ -69977,9 +69977,9 @@
  {
   "filename": "ERAM2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAM2510.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 36935,
+  "size": 36934,
   "dataset": "sih-er",
   "partition": {
    "uf": "am",
@@ -69992,9 +69992,9 @@
  {
   "filename": "ERAP2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAP2510.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 8562,
+  "size": 8556,
   "dataset": "sih-er",
   "partition": {
    "uf": "ap",
@@ -70007,9 +70007,9 @@
  {
   "filename": "ERBA2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERBA2510.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 425914,
+  "size": 425786,
   "dataset": "sih-er",
   "partition": {
    "uf": "ba",
@@ -70022,9 +70022,9 @@
  {
   "filename": "ERCE2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERCE2510.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 76063,
+  "size": 75702,
   "dataset": "sih-er",
   "partition": {
    "uf": "ce",
@@ -70037,9 +70037,9 @@
  {
   "filename": "ERDF2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERDF2510.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 11321,
+  "size": 11295,
   "dataset": "sih-er",
   "partition": {
    "uf": "df",
@@ -70052,9 +70052,9 @@
  {
   "filename": "ERES2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERES2510.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 43423,
+  "size": 43634,
   "dataset": "sih-er",
   "partition": {
    "uf": "es",
@@ -70067,9 +70067,9 @@
  {
   "filename": "ERGO2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERGO2510.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 49772,
+  "size": 50189,
   "dataset": "sih-er",
   "partition": {
    "uf": "go",
@@ -70082,9 +70082,9 @@
  {
   "filename": "ERMA2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMA2510.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 20858,
+  "size": 20946,
   "dataset": "sih-er",
   "partition": {
    "uf": "ma",
@@ -70097,9 +70097,9 @@
  {
   "filename": "ERMG2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMG2510.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 114961,
+  "size": 114752,
   "dataset": "sih-er",
   "partition": {
    "uf": "mg",
@@ -70112,9 +70112,9 @@
  {
   "filename": "ERMS2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMS2510.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 21295,
+  "size": 21245,
   "dataset": "sih-er",
   "partition": {
    "uf": "ms",
@@ -70127,9 +70127,9 @@
  {
   "filename": "ERMT2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMT2510.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 96202,
+  "size": 96746,
   "dataset": "sih-er",
   "partition": {
    "uf": "mt",
@@ -70142,9 +70142,9 @@
  {
   "filename": "ERPA2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPA2510.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 22511,
+  "size": 22770,
   "dataset": "sih-er",
   "partition": {
    "uf": "pa",
@@ -70157,9 +70157,9 @@
  {
   "filename": "ERPB2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPB2510.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 39867,
+  "size": 39802,
   "dataset": "sih-er",
   "partition": {
    "uf": "pb",
@@ -70172,9 +70172,9 @@
  {
   "filename": "ERPE2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPE2510.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 100028,
+  "size": 99669,
   "dataset": "sih-er",
   "partition": {
    "uf": "pe",
@@ -70187,9 +70187,9 @@
  {
   "filename": "ERPI2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPI2510.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 9336,
+  "size": 9354,
   "dataset": "sih-er",
   "partition": {
    "uf": "pi",
@@ -70202,9 +70202,9 @@
  {
   "filename": "ERPR2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPR2510.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 92254,
+  "size": 92158,
   "dataset": "sih-er",
   "partition": {
    "uf": "pr",
@@ -70217,9 +70217,9 @@
  {
   "filename": "ERRJ2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRJ2510.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 95604,
+  "size": 95453,
   "dataset": "sih-er",
   "partition": {
    "uf": "rj",
@@ -70232,9 +70232,9 @@
  {
   "filename": "ERRN2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRN2510.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 30430,
+  "size": 30643,
   "dataset": "sih-er",
   "partition": {
    "uf": "rn",
@@ -70247,9 +70247,9 @@
  {
   "filename": "ERRO2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRO2510.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 19656,
+  "size": 19697,
   "dataset": "sih-er",
   "partition": {
    "uf": "ro",
@@ -70262,9 +70262,9 @@
  {
   "filename": "ERRR2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRR2510.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 2078,
+  "size": 2086,
   "dataset": "sih-er",
   "partition": {
    "uf": "rr",
@@ -70277,9 +70277,9 @@
  {
   "filename": "ERRS2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRS2510.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 107208,
+  "size": 107538,
   "dataset": "sih-er",
   "partition": {
    "uf": "rs",
@@ -70292,9 +70292,9 @@
  {
   "filename": "ERSC2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERSC2510.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 98025,
+  "size": 97763,
   "dataset": "sih-er",
   "partition": {
    "uf": "sc",
@@ -70307,9 +70307,9 @@
  {
   "filename": "ERSE2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERSE2510.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 5782,
+  "size": 5813,
   "dataset": "sih-er",
   "partition": {
    "uf": "se",
@@ -70322,9 +70322,9 @@
  {
   "filename": "ERSP2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERSP2510.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 311760,
+  "size": 311895,
   "dataset": "sih-er",
   "partition": {
    "uf": "sp",
@@ -70337,9 +70337,9 @@
  {
   "filename": "ERTO2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERTO2510.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 20362,
+  "size": 20252,
   "dataset": "sih-er",
   "partition": {
    "uf": "to",
@@ -70352,9 +70352,9 @@
  {
   "filename": "ERAC2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAC2511.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 15946,
+  "size": 15927,
   "dataset": "sih-er",
   "partition": {
    "uf": "ac",
@@ -70367,9 +70367,9 @@
  {
   "filename": "ERAL2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAL2511.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 74830,
+  "size": 74739,
   "dataset": "sih-er",
   "partition": {
    "uf": "al",
@@ -70382,9 +70382,9 @@
  {
   "filename": "ERAM2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAM2511.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 30464,
+  "size": 30393,
   "dataset": "sih-er",
   "partition": {
    "uf": "am",
@@ -70397,9 +70397,9 @@
  {
   "filename": "ERAP2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAP2511.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 5127,
+  "size": 5087,
   "dataset": "sih-er",
   "partition": {
    "uf": "ap",
@@ -70412,9 +70412,9 @@
  {
   "filename": "ERBA2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERBA2511.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 435078,
+  "size": 435960,
   "dataset": "sih-er",
   "partition": {
    "uf": "ba",
@@ -70427,9 +70427,9 @@
  {
   "filename": "ERCE2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERCE2511.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 65262,
+  "size": 65456,
   "dataset": "sih-er",
   "partition": {
    "uf": "ce",
@@ -70442,9 +70442,9 @@
  {
   "filename": "ERDF2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERDF2511.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 8588,
+  "size": 8540,
   "dataset": "sih-er",
   "partition": {
    "uf": "df",
@@ -70457,9 +70457,9 @@
  {
   "filename": "ERES2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERES2511.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 24080,
+  "size": 24139,
   "dataset": "sih-er",
   "partition": {
    "uf": "es",
@@ -70472,9 +70472,9 @@
  {
   "filename": "ERGO2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERGO2511.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 44883,
+  "size": 43873,
   "dataset": "sih-er",
   "partition": {
    "uf": "go",
@@ -70487,9 +70487,9 @@
  {
   "filename": "ERMA2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMA2511.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 16450,
+  "size": 16497,
   "dataset": "sih-er",
   "partition": {
    "uf": "ma",
@@ -70502,9 +70502,9 @@
  {
   "filename": "ERMG2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMG2511.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 107550,
+  "size": 107888,
   "dataset": "sih-er",
   "partition": {
    "uf": "mg",
@@ -70517,9 +70517,9 @@
  {
   "filename": "ERMS2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMS2511.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 19585,
+  "size": 19669,
   "dataset": "sih-er",
   "partition": {
    "uf": "ms",
@@ -70532,9 +70532,9 @@
  {
   "filename": "ERMT2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMT2511.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 97402,
+  "size": 97437,
   "dataset": "sih-er",
   "partition": {
    "uf": "mt",
@@ -70547,9 +70547,9 @@
  {
   "filename": "ERPA2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPA2511.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 20711,
+  "size": 20791,
   "dataset": "sih-er",
   "partition": {
    "uf": "pa",
@@ -70562,9 +70562,9 @@
  {
   "filename": "ERPB2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPB2511.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 32628,
+  "size": 33137,
   "dataset": "sih-er",
   "partition": {
    "uf": "pb",
@@ -70577,9 +70577,9 @@
  {
   "filename": "ERPE2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPE2511.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 95405,
+  "size": 95373,
   "dataset": "sih-er",
   "partition": {
    "uf": "pe",
@@ -70592,9 +70592,9 @@
  {
   "filename": "ERPI2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPI2511.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 10940,
+  "size": 10926,
   "dataset": "sih-er",
   "partition": {
    "uf": "pi",
@@ -70607,9 +70607,9 @@
  {
   "filename": "ERPR2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPR2511.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 104128,
+  "size": 104187,
   "dataset": "sih-er",
   "partition": {
    "uf": "pr",
@@ -70622,9 +70622,9 @@
  {
   "filename": "ERRJ2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRJ2511.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 96237,
+  "size": 95918,
   "dataset": "sih-er",
   "partition": {
    "uf": "rj",
@@ -70637,9 +70637,9 @@
  {
   "filename": "ERRN2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRN2511.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 27239,
+  "size": 27131,
   "dataset": "sih-er",
   "partition": {
    "uf": "rn",
@@ -70652,9 +70652,9 @@
  {
   "filename": "ERRO2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRO2511.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 17071,
+  "size": 17115,
   "dataset": "sih-er",
   "partition": {
    "uf": "ro",
@@ -70667,9 +70667,9 @@
  {
   "filename": "ERRR2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRR2511.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 2264,
+  "size": 2272,
   "dataset": "sih-er",
   "partition": {
    "uf": "rr",
@@ -70682,9 +70682,9 @@
  {
   "filename": "ERRS2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRS2511.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 83420,
+  "size": 83485,
   "dataset": "sih-er",
   "partition": {
    "uf": "rs",
@@ -70697,9 +70697,9 @@
  {
   "filename": "ERSC2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERSC2511.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 92144,
+  "size": 92242,
   "dataset": "sih-er",
   "partition": {
    "uf": "sc",
@@ -70712,9 +70712,9 @@
  {
   "filename": "ERSE2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERSE2511.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 3996,
+  "size": 4037,
   "dataset": "sih-er",
   "partition": {
    "uf": "se",
@@ -70727,9 +70727,9 @@
  {
   "filename": "ERSP2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERSP2511.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 280678,
+  "size": 280304,
   "dataset": "sih-er",
   "partition": {
    "uf": "sp",
@@ -70742,9 +70742,9 @@
  {
   "filename": "ERTO2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERTO2511.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 19124,
+  "size": 19121,
   "dataset": "sih-er",
   "partition": {
    "uf": "to",
@@ -70757,9 +70757,9 @@
  {
   "filename": "ERAC2512.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAC2512.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 19194,
+  "size": 19249,
   "dataset": "sih-er",
   "partition": {
    "uf": "ac",
@@ -70772,9 +70772,9 @@
  {
   "filename": "ERAL2512.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAL2512.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 69982,
+  "size": 69857,
   "dataset": "sih-er",
   "partition": {
    "uf": "al",
@@ -70787,9 +70787,9 @@
  {
   "filename": "ERAM2512.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAM2512.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 23030,
+  "size": 22811,
   "dataset": "sih-er",
   "partition": {
    "uf": "am",
@@ -70802,7 +70802,7 @@
  {
   "filename": "ERAP2512.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAP2512.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
   "size": 6737,
   "dataset": "sih-er",
@@ -70817,9 +70817,9 @@
  {
   "filename": "ERBA2512.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERBA2512.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 438381,
+  "size": 439063,
   "dataset": "sih-er",
   "partition": {
    "uf": "ba",
@@ -70832,9 +70832,9 @@
  {
   "filename": "ERCE2512.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERCE2512.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 68150,
+  "size": 68345,
   "dataset": "sih-er",
   "partition": {
    "uf": "ce",
@@ -70847,9 +70847,9 @@
  {
   "filename": "ERDF2512.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERDF2512.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 8208,
+  "size": 8072,
   "dataset": "sih-er",
   "partition": {
    "uf": "df",
@@ -70862,9 +70862,9 @@
  {
   "filename": "ERES2512.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERES2512.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 23447,
+  "size": 23376,
   "dataset": "sih-er",
   "partition": {
    "uf": "es",
@@ -70877,9 +70877,9 @@
  {
   "filename": "ERGO2512.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERGO2512.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 49070,
+  "size": 48972,
   "dataset": "sih-er",
   "partition": {
    "uf": "go",
@@ -70892,9 +70892,9 @@
  {
   "filename": "ERMA2512.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMA2512.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 10396,
+  "size": 10439,
   "dataset": "sih-er",
   "partition": {
    "uf": "ma",
@@ -70907,9 +70907,9 @@
  {
   "filename": "ERMG2512.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMG2512.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 108817,
+  "size": 109554,
   "dataset": "sih-er",
   "partition": {
    "uf": "mg",
@@ -70922,9 +70922,9 @@
  {
   "filename": "ERMS2512.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMS2512.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 27609,
+  "size": 27724,
   "dataset": "sih-er",
   "partition": {
    "uf": "ms",
@@ -70937,9 +70937,9 @@
  {
   "filename": "ERMT2512.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMT2512.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 88855,
+  "size": 87737,
   "dataset": "sih-er",
   "partition": {
    "uf": "mt",
@@ -70952,9 +70952,9 @@
  {
   "filename": "ERPA2512.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPA2512.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 23461,
+  "size": 23472,
   "dataset": "sih-er",
   "partition": {
    "uf": "pa",
@@ -70967,9 +70967,9 @@
  {
   "filename": "ERPB2512.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPB2512.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 29251,
+  "size": 29143,
   "dataset": "sih-er",
   "partition": {
    "uf": "pb",
@@ -70982,9 +70982,9 @@
  {
   "filename": "ERPE2512.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPE2512.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 107988,
+  "size": 108496,
   "dataset": "sih-er",
   "partition": {
    "uf": "pe",
@@ -70997,9 +70997,9 @@
  {
   "filename": "ERPI2512.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPI2512.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 9752,
+  "size": 9857,
   "dataset": "sih-er",
   "partition": {
    "uf": "pi",
@@ -71012,9 +71012,9 @@
  {
   "filename": "ERPR2512.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPR2512.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 80793,
+  "size": 80834,
   "dataset": "sih-er",
   "partition": {
    "uf": "pr",
@@ -71027,9 +71027,9 @@
  {
   "filename": "ERRJ2512.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRJ2512.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 89972,
+  "size": 89967,
   "dataset": "sih-er",
   "partition": {
    "uf": "rj",
@@ -71042,9 +71042,9 @@
  {
   "filename": "ERRN2512.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRN2512.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 21786,
+  "size": 21686,
   "dataset": "sih-er",
   "partition": {
    "uf": "rn",
@@ -71057,9 +71057,9 @@
  {
   "filename": "ERRO2512.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRO2512.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 17837,
+  "size": 17749,
   "dataset": "sih-er",
   "partition": {
    "uf": "ro",
@@ -71072,9 +71072,9 @@
  {
   "filename": "ERRR2512.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRR2512.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 2210,
+  "size": 2201,
   "dataset": "sih-er",
   "partition": {
    "uf": "rr",
@@ -71087,9 +71087,9 @@
  {
   "filename": "ERRS2512.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRS2512.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 81183,
+  "size": 81764,
   "dataset": "sih-er",
   "partition": {
    "uf": "rs",
@@ -71102,9 +71102,9 @@
  {
   "filename": "ERSC2512.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERSC2512.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 81515,
+  "size": 81220,
   "dataset": "sih-er",
   "partition": {
    "uf": "sc",
@@ -71117,9 +71117,9 @@
  {
   "filename": "ERSE2512.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERSE2512.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 13825,
+  "size": 13758,
   "dataset": "sih-er",
   "partition": {
    "uf": "se",
@@ -71132,9 +71132,9 @@
  {
   "filename": "ERSP2512.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERSP2512.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 271946,
+  "size": 271397,
   "dataset": "sih-er",
   "partition": {
    "uf": "sp",
@@ -71147,9 +71147,9 @@
  {
   "filename": "ERTO2512.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERTO2512.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 13898,
+  "size": 13889,
   "dataset": "sih-er",
   "partition": {
    "uf": "to",
@@ -71162,9 +71162,9 @@
  {
   "filename": "ERAC2601.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAC2601.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 18685,
+  "size": 18625,
   "dataset": "sih-er",
   "partition": {
    "uf": "ac",
@@ -71177,9 +71177,9 @@
  {
   "filename": "ERAL2601.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAL2601.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 79546,
+  "size": 80283,
   "dataset": "sih-er",
   "partition": {
    "uf": "al",
@@ -71192,9 +71192,9 @@
  {
   "filename": "ERAM2601.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAM2601.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 27457,
+  "size": 27330,
   "dataset": "sih-er",
   "partition": {
    "uf": "am",
@@ -71207,7 +71207,7 @@
  {
   "filename": "ERAP2601.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAP2601.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
   "size": 5013,
   "dataset": "sih-er",
@@ -71222,9 +71222,9 @@
  {
   "filename": "ERBA2601.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERBA2601.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 432531,
+  "size": 433061,
   "dataset": "sih-er",
   "partition": {
    "uf": "ba",
@@ -71237,9 +71237,9 @@
  {
   "filename": "ERCE2601.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERCE2601.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 76258,
+  "size": 76389,
   "dataset": "sih-er",
   "partition": {
    "uf": "ce",
@@ -71252,9 +71252,9 @@
  {
   "filename": "ERDF2601.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERDF2601.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 9100,
+  "size": 9062,
   "dataset": "sih-er",
   "partition": {
    "uf": "df",
@@ -71267,9 +71267,9 @@
  {
   "filename": "ERES2601.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERES2601.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 19833,
+  "size": 19874,
   "dataset": "sih-er",
   "partition": {
    "uf": "es",
@@ -71282,9 +71282,9 @@
  {
   "filename": "ERGO2601.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERGO2601.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 48704,
+  "size": 47854,
   "dataset": "sih-er",
   "partition": {
    "uf": "go",
@@ -71297,9 +71297,9 @@
  {
   "filename": "ERMA2601.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMA2601.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 17098,
+  "size": 17059,
   "dataset": "sih-er",
   "partition": {
    "uf": "ma",
@@ -71312,9 +71312,9 @@
  {
   "filename": "ERMG2601.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMG2601.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 111491,
+  "size": 111705,
   "dataset": "sih-er",
   "partition": {
    "uf": "mg",
@@ -71327,9 +71327,9 @@
  {
   "filename": "ERMS2601.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMS2601.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 18486,
+  "size": 18285,
   "dataset": "sih-er",
   "partition": {
    "uf": "ms",
@@ -71342,9 +71342,9 @@
  {
   "filename": "ERMT2601.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMT2601.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 87632,
+  "size": 89050,
   "dataset": "sih-er",
   "partition": {
    "uf": "mt",
@@ -71357,9 +71357,9 @@
  {
   "filename": "ERPA2601.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPA2601.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 43895,
+  "size": 43691,
   "dataset": "sih-er",
   "partition": {
    "uf": "pa",
@@ -71372,9 +71372,9 @@
  {
   "filename": "ERPB2601.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPB2601.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 26993,
+  "size": 26978,
   "dataset": "sih-er",
   "partition": {
    "uf": "pb",
@@ -71387,9 +71387,9 @@
  {
   "filename": "ERPE2601.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPE2601.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 96212,
+  "size": 97544,
   "dataset": "sih-er",
   "partition": {
    "uf": "pe",
@@ -71402,9 +71402,9 @@
  {
   "filename": "ERPI2601.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPI2601.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 15514,
+  "size": 15463,
   "dataset": "sih-er",
   "partition": {
    "uf": "pi",
@@ -71417,9 +71417,9 @@
  {
   "filename": "ERPR2601.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPR2601.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 87803,
+  "size": 88253,
   "dataset": "sih-er",
   "partition": {
    "uf": "pr",
@@ -71432,9 +71432,9 @@
  {
   "filename": "ERRJ2601.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRJ2601.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 95591,
+  "size": 96265,
   "dataset": "sih-er",
   "partition": {
    "uf": "rj",
@@ -71447,9 +71447,9 @@
  {
   "filename": "ERRN2601.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRN2601.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 20858,
+  "size": 20859,
   "dataset": "sih-er",
   "partition": {
    "uf": "rn",
@@ -71462,9 +71462,9 @@
  {
   "filename": "ERRO2601.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRO2601.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 14754,
+  "size": 14826,
   "dataset": "sih-er",
   "partition": {
    "uf": "ro",
@@ -71477,9 +71477,9 @@
  {
   "filename": "ERRR2601.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRR2601.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 5228,
+  "size": 5226,
   "dataset": "sih-er",
   "partition": {
    "uf": "rr",
@@ -71492,9 +71492,9 @@
  {
   "filename": "ERRS2601.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRS2601.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 74302,
+  "size": 73671,
   "dataset": "sih-er",
   "partition": {
    "uf": "rs",
@@ -71507,9 +71507,9 @@
  {
   "filename": "ERSC2601.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERSC2601.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 69408,
+  "size": 70101,
   "dataset": "sih-er",
   "partition": {
    "uf": "sc",
@@ -71522,9 +71522,9 @@
  {
   "filename": "ERSE2601.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERSE2601.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 12748,
+  "size": 12758,
   "dataset": "sih-er",
   "partition": {
    "uf": "se",
@@ -71537,9 +71537,9 @@
  {
   "filename": "ERSP2601.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERSP2601.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 331479,
+  "size": 331424,
   "dataset": "sih-er",
   "partition": {
    "uf": "sp",
@@ -71552,9 +71552,9 @@
  {
   "filename": "ERTO2601.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERTO2601.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 17986,
+  "size": 17934,
   "dataset": "sih-er",
   "partition": {
    "uf": "to",
@@ -71567,9 +71567,9 @@
  {
   "filename": "ERAC2602.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAC2602.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 19607,
+  "size": 19534,
   "dataset": "sih-er",
   "partition": {
    "uf": "ac",
@@ -71582,9 +71582,9 @@
  {
   "filename": "ERAL2602.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAL2602.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 100739,
+  "size": 101216,
   "dataset": "sih-er",
   "partition": {
    "uf": "al",
@@ -71597,9 +71597,9 @@
  {
   "filename": "ERAM2602.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAM2602.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 21283,
+  "size": 21488,
   "dataset": "sih-er",
   "partition": {
    "uf": "am",
@@ -71612,9 +71612,9 @@
  {
   "filename": "ERAP2602.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAP2602.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 7022,
+  "size": 7042,
   "dataset": "sih-er",
   "partition": {
    "uf": "ap",
@@ -71627,9 +71627,9 @@
  {
   "filename": "ERBA2602.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERBA2602.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 354548,
+  "size": 354106,
   "dataset": "sih-er",
   "partition": {
    "uf": "ba",
@@ -71642,9 +71642,9 @@
  {
   "filename": "ERCE2602.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERCE2602.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 82641,
+  "size": 83115,
   "dataset": "sih-er",
   "partition": {
    "uf": "ce",
@@ -71657,9 +71657,9 @@
  {
   "filename": "ERDF2602.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERDF2602.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 9675,
+  "size": 9592,
   "dataset": "sih-er",
   "partition": {
    "uf": "df",
@@ -71672,9 +71672,9 @@
  {
   "filename": "ERES2602.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERES2602.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 17248,
+  "size": 17318,
   "dataset": "sih-er",
   "partition": {
    "uf": "es",
@@ -71687,9 +71687,9 @@
  {
   "filename": "ERGO2602.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERGO2602.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 38023,
+  "size": 37894,
   "dataset": "sih-er",
   "partition": {
    "uf": "go",
@@ -71702,9 +71702,9 @@
  {
   "filename": "ERMA2602.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMA2602.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 28785,
+  "size": 28615,
   "dataset": "sih-er",
   "partition": {
    "uf": "ma",
@@ -71717,9 +71717,9 @@
  {
   "filename": "ERMG2602.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMG2602.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 118353,
+  "size": 118186,
   "dataset": "sih-er",
   "partition": {
    "uf": "mg",
@@ -71732,9 +71732,9 @@
  {
   "filename": "ERMS2602.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMS2602.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 20954,
+  "size": 20808,
   "dataset": "sih-er",
   "partition": {
    "uf": "ms",
@@ -71747,9 +71747,9 @@
  {
   "filename": "ERMT2602.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMT2602.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 101191,
+  "size": 101502,
   "dataset": "sih-er",
   "partition": {
    "uf": "mt",
@@ -71762,9 +71762,9 @@
  {
   "filename": "ERPA2602.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPA2602.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 30401,
+  "size": 30476,
   "dataset": "sih-er",
   "partition": {
    "uf": "pa",
@@ -71777,9 +71777,9 @@
  {
   "filename": "ERPB2602.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPB2602.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 43540,
+  "size": 44041,
   "dataset": "sih-er",
   "partition": {
    "uf": "pb",
@@ -71792,9 +71792,9 @@
  {
   "filename": "ERPE2602.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPE2602.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 93313,
+  "size": 93505,
   "dataset": "sih-er",
   "partition": {
    "uf": "pe",
@@ -71807,9 +71807,9 @@
  {
   "filename": "ERPI2602.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPI2602.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 15585,
+  "size": 15633,
   "dataset": "sih-er",
   "partition": {
    "uf": "pi",
@@ -71822,9 +71822,9 @@
  {
   "filename": "ERPR2602.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPR2602.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 106712,
+  "size": 106573,
   "dataset": "sih-er",
   "partition": {
    "uf": "pr",
@@ -71837,9 +71837,9 @@
  {
   "filename": "ERRJ2602.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRJ2602.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 87076,
+  "size": 86840,
   "dataset": "sih-er",
   "partition": {
    "uf": "rj",
@@ -71852,9 +71852,9 @@
  {
   "filename": "ERRN2602.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRN2602.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 14059,
+  "size": 14010,
   "dataset": "sih-er",
   "partition": {
    "uf": "rn",
@@ -71867,9 +71867,9 @@
  {
   "filename": "ERRO2602.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRO2602.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 18769,
+  "size": 18598,
   "dataset": "sih-er",
   "partition": {
    "uf": "ro",
@@ -71882,9 +71882,9 @@
  {
   "filename": "ERRR2602.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRR2602.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 2521,
+  "size": 2514,
   "dataset": "sih-er",
   "partition": {
    "uf": "rr",
@@ -71897,9 +71897,9 @@
  {
   "filename": "ERRS2602.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRS2602.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 76371,
+  "size": 76479,
   "dataset": "sih-er",
   "partition": {
    "uf": "rs",
@@ -71912,9 +71912,9 @@
  {
   "filename": "ERSC2602.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERSC2602.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 89499,
+  "size": 89365,
   "dataset": "sih-er",
   "partition": {
    "uf": "sc",
@@ -71927,9 +71927,9 @@
  {
   "filename": "ERSE2602.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERSE2602.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 5252,
+  "size": 5249,
   "dataset": "sih-er",
   "partition": {
    "uf": "se",
@@ -71942,9 +71942,9 @@
  {
   "filename": "ERSP2602.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERSP2602.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 302554,
+  "size": 303520,
   "dataset": "sih-er",
   "partition": {
    "uf": "sp",
@@ -71957,9 +71957,9 @@
  {
   "filename": "ERTO2602.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERTO2602.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 16567,
+  "size": 16555,
   "dataset": "sih-er",
   "partition": {
    "uf": "to",
@@ -71972,9 +71972,9 @@
  {
   "filename": "ERAC2603.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAC2603.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 19727,
+  "size": 19809,
   "dataset": "sih-er",
   "partition": {
    "uf": "ac",
@@ -71987,9 +71987,9 @@
  {
   "filename": "ERAL2603.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAL2603.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 81687,
+  "size": 81397,
   "dataset": "sih-er",
   "partition": {
    "uf": "al",
@@ -72002,9 +72002,9 @@
  {
   "filename": "ERAM2603.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAM2603.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 23967,
+  "size": 23813,
   "dataset": "sih-er",
   "partition": {
    "uf": "am",
@@ -72017,9 +72017,9 @@
  {
   "filename": "ERAP2603.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAP2603.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 5116,
+  "size": 5112,
   "dataset": "sih-er",
   "partition": {
    "uf": "ap",
@@ -72032,9 +72032,9 @@
  {
   "filename": "ERBA2603.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERBA2603.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 357996,
+  "size": 356866,
   "dataset": "sih-er",
   "partition": {
    "uf": "ba",
@@ -72047,9 +72047,9 @@
  {
   "filename": "ERCE2603.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERCE2603.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 109202,
+  "size": 109723,
   "dataset": "sih-er",
   "partition": {
    "uf": "ce",
@@ -72062,9 +72062,9 @@
  {
   "filename": "ERDF2603.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERDF2603.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 14511,
+  "size": 14538,
   "dataset": "sih-er",
   "partition": {
    "uf": "df",
@@ -72077,9 +72077,9 @@
  {
   "filename": "ERES2603.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERES2603.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 22117,
+  "size": 21766,
   "dataset": "sih-er",
   "partition": {
    "uf": "es",
@@ -72092,9 +72092,9 @@
  {
   "filename": "ERGO2603.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERGO2603.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 50611,
+  "size": 50919,
   "dataset": "sih-er",
   "partition": {
    "uf": "go",
@@ -72107,9 +72107,9 @@
  {
   "filename": "ERMA2603.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMA2603.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 15674,
+  "size": 15611,
   "dataset": "sih-er",
   "partition": {
    "uf": "ma",
@@ -72122,9 +72122,9 @@
  {
   "filename": "ERMG2603.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMG2603.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 88880,
+  "size": 88902,
   "dataset": "sih-er",
   "partition": {
    "uf": "mg",
@@ -72137,9 +72137,9 @@
  {
   "filename": "ERMS2603.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMS2603.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 16813,
+  "size": 16835,
   "dataset": "sih-er",
   "partition": {
    "uf": "ms",
@@ -72152,9 +72152,9 @@
  {
   "filename": "ERMT2603.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMT2603.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 97280,
+  "size": 97201,
   "dataset": "sih-er",
   "partition": {
    "uf": "mt",
@@ -72167,9 +72167,9 @@
  {
   "filename": "ERPA2603.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPA2603.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 34151,
+  "size": 33664,
   "dataset": "sih-er",
   "partition": {
    "uf": "pa",
@@ -72182,9 +72182,9 @@
  {
   "filename": "ERPB2603.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPB2603.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 32003,
+  "size": 31845,
   "dataset": "sih-er",
   "partition": {
    "uf": "pb",
@@ -72197,9 +72197,9 @@
  {
   "filename": "ERPE2603.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPE2603.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 97849,
+  "size": 97981,
   "dataset": "sih-er",
   "partition": {
    "uf": "pe",
@@ -72212,9 +72212,9 @@
  {
   "filename": "ERPI2603.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPI2603.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 16304,
+  "size": 16331,
   "dataset": "sih-er",
   "partition": {
    "uf": "pi",
@@ -72227,9 +72227,9 @@
  {
   "filename": "ERPR2603.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPR2603.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 94484,
+  "size": 94233,
   "dataset": "sih-er",
   "partition": {
    "uf": "pr",
@@ -72242,9 +72242,9 @@
  {
   "filename": "ERRJ2603.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRJ2603.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 94026,
+  "size": 94602,
   "dataset": "sih-er",
   "partition": {
    "uf": "rj",
@@ -72257,7 +72257,7 @@
  {
   "filename": "ERRN2603.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRN2603.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
   "size": 21717,
   "dataset": "sih-er",
@@ -72272,9 +72272,9 @@
  {
   "filename": "ERRO2603.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRO2603.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 22519,
+  "size": 22855,
   "dataset": "sih-er",
   "partition": {
    "uf": "ro",
@@ -72287,9 +72287,9 @@
  {
   "filename": "ERRR2603.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRR2603.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 1855,
+  "size": 1841,
   "dataset": "sih-er",
   "partition": {
    "uf": "rr",
@@ -72302,9 +72302,9 @@
  {
   "filename": "ERRS2603.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRS2603.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 73205,
+  "size": 73633,
   "dataset": "sih-er",
   "partition": {
    "uf": "rs",
@@ -72317,9 +72317,9 @@
  {
   "filename": "ERSC2603.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERSC2603.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 88376,
+  "size": 88274,
   "dataset": "sih-er",
   "partition": {
    "uf": "sc",
@@ -72332,9 +72332,9 @@
  {
   "filename": "ERSE2603.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERSE2603.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 5037,
+  "size": 5023,
   "dataset": "sih-er",
   "partition": {
    "uf": "se",
@@ -72347,9 +72347,9 @@
  {
   "filename": "ERSP2603.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERSP2603.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 324118,
+  "size": 323943,
   "dataset": "sih-er",
   "partition": {
    "uf": "sp",
@@ -72362,9 +72362,9 @@
  {
   "filename": "ERTO2603.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERTO2603.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 20287,
+  "size": 20443,
   "dataset": "sih-er",
   "partition": {
    "uf": "to",
@@ -72377,9 +72377,9 @@
  {
   "filename": "ERAC2604.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAC2604.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 18517,
+  "size": 18330,
   "dataset": "sih-er",
   "partition": {
    "uf": "ac",
@@ -72392,9 +72392,9 @@
  {
   "filename": "ERAL2604.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAL2604.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 81991,
+  "size": 82605,
   "dataset": "sih-er",
   "partition": {
    "uf": "al",
@@ -72407,9 +72407,9 @@
  {
   "filename": "ERAM2604.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAM2604.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 27453,
+  "size": 27252,
   "dataset": "sih-er",
   "partition": {
    "uf": "am",
@@ -72422,9 +72422,9 @@
  {
   "filename": "ERAP2604.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAP2604.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 3656,
+  "size": 3626,
   "dataset": "sih-er",
   "partition": {
    "uf": "ap",
@@ -72437,9 +72437,9 @@
  {
   "filename": "ERBA2604.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERBA2604.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 388907,
+  "size": 388433,
   "dataset": "sih-er",
   "partition": {
    "uf": "ba",
@@ -72452,9 +72452,9 @@
  {
   "filename": "ERCE2604.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERCE2604.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 99650,
+  "size": 100665,
   "dataset": "sih-er",
   "partition": {
    "uf": "ce",
@@ -72467,9 +72467,9 @@
  {
   "filename": "ERDF2604.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERDF2604.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 10017,
+  "size": 10040,
   "dataset": "sih-er",
   "partition": {
    "uf": "df",
@@ -72482,9 +72482,9 @@
  {
   "filename": "ERES2604.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERES2604.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 24021,
+  "size": 25786,
   "dataset": "sih-er",
   "partition": {
    "uf": "es",
@@ -72497,9 +72497,9 @@
  {
   "filename": "ERGO2604.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERGO2604.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 54435,
+  "size": 55524,
   "dataset": "sih-er",
   "partition": {
    "uf": "go",
@@ -72512,9 +72512,9 @@
  {
   "filename": "ERMA2604.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMA2604.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 16728,
+  "size": 16741,
   "dataset": "sih-er",
   "partition": {
    "uf": "ma",
@@ -72527,9 +72527,9 @@
  {
   "filename": "ERMG2604.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMG2604.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 101234,
+  "size": 101331,
   "dataset": "sih-er",
   "partition": {
    "uf": "mg",
@@ -72542,9 +72542,9 @@
  {
   "filename": "ERMS2604.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMS2604.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 17868,
+  "size": 17824,
   "dataset": "sih-er",
   "partition": {
    "uf": "ms",
@@ -72557,9 +72557,9 @@
  {
   "filename": "ERMT2604.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMT2604.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 92846,
+  "size": 93371,
   "dataset": "sih-er",
   "partition": {
    "uf": "mt",
@@ -72572,9 +72572,9 @@
  {
   "filename": "ERPA2604.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPA2604.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 33526,
+  "size": 33104,
   "dataset": "sih-er",
   "partition": {
    "uf": "pa",
@@ -72587,9 +72587,9 @@
  {
   "filename": "ERPB2604.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPB2604.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 34821,
+  "size": 35123,
   "dataset": "sih-er",
   "partition": {
    "uf": "pb",
@@ -72602,9 +72602,9 @@
  {
   "filename": "ERPE2604.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPE2604.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 113353,
+  "size": 113793,
   "dataset": "sih-er",
   "partition": {
    "uf": "pe",
@@ -72617,9 +72617,9 @@
  {
   "filename": "ERPI2604.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPI2604.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 12654,
+  "size": 12647,
   "dataset": "sih-er",
   "partition": {
    "uf": "pi",
@@ -72632,9 +72632,9 @@
  {
   "filename": "ERPR2604.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPR2604.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 91975,
+  "size": 91999,
   "dataset": "sih-er",
   "partition": {
    "uf": "pr",
@@ -72647,9 +72647,9 @@
  {
   "filename": "ERRJ2604.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRJ2604.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 82400,
+  "size": 82721,
   "dataset": "sih-er",
   "partition": {
    "uf": "rj",
@@ -72662,9 +72662,9 @@
  {
   "filename": "ERRN2604.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRN2604.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 23911,
+  "size": 23815,
   "dataset": "sih-er",
   "partition": {
    "uf": "rn",
@@ -72677,9 +72677,9 @@
  {
   "filename": "ERRO2604.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRO2604.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 18335,
+  "size": 18228,
   "dataset": "sih-er",
   "partition": {
    "uf": "ro",
@@ -72692,9 +72692,9 @@
  {
   "filename": "ERRR2604.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRR2604.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 2316,
+  "size": 2312,
   "dataset": "sih-er",
   "partition": {
    "uf": "rr",
@@ -72707,9 +72707,9 @@
  {
   "filename": "ERRS2604.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRS2604.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 71910,
+  "size": 73164,
   "dataset": "sih-er",
   "partition": {
    "uf": "rs",
@@ -72722,9 +72722,9 @@
  {
   "filename": "ERSC2604.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERSC2604.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 95792,
+  "size": 96071,
   "dataset": "sih-er",
   "partition": {
    "uf": "sc",
@@ -72737,9 +72737,9 @@
  {
   "filename": "ERSE2604.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERSE2604.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 4453,
+  "size": 4452,
   "dataset": "sih-er",
   "partition": {
    "uf": "se",
@@ -72752,9 +72752,9 @@
  {
   "filename": "ERSP2604.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERSP2604.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 365817,
+  "size": 365349,
   "dataset": "sih-er",
   "partition": {
    "uf": "sp",
@@ -72767,9 +72767,9 @@
  {
   "filename": "ERTO2604.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERTO2604.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 20787,
+  "size": 20694,
   "dataset": "sih-er",
   "partition": {
    "uf": "to",
@@ -72782,9 +72782,9 @@
  {
   "filename": "ERAC2605.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAC2605.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 23226,
+  "size": 23080,
   "dataset": "sih-er",
   "partition": {
    "uf": "ac",
@@ -72797,9 +72797,9 @@
  {
   "filename": "ERAL2605.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAL2605.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 75257,
+  "size": 75500,
   "dataset": "sih-er",
   "partition": {
    "uf": "al",
@@ -72812,9 +72812,9 @@
  {
   "filename": "ERAM2605.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAM2605.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 23444,
+  "size": 23736,
   "dataset": "sih-er",
   "partition": {
    "uf": "am",
@@ -72827,9 +72827,9 @@
  {
   "filename": "ERAP2605.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAP2605.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 4042,
+  "size": 4022,
   "dataset": "sih-er",
   "partition": {
    "uf": "ap",
@@ -72842,9 +72842,9 @@
  {
   "filename": "ERBA2605.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERBA2605.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 423411,
+  "size": 426272,
   "dataset": "sih-er",
   "partition": {
    "uf": "ba",
@@ -72857,9 +72857,9 @@
  {
   "filename": "ERCE2605.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERCE2605.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 97776,
+  "size": 97548,
   "dataset": "sih-er",
   "partition": {
    "uf": "ce",
@@ -72872,9 +72872,9 @@
  {
   "filename": "ERDF2605.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERDF2605.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 13027,
+  "size": 13121,
   "dataset": "sih-er",
   "partition": {
    "uf": "df",
@@ -72887,9 +72887,9 @@
  {
   "filename": "ERES2605.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERES2605.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 19874,
+  "size": 26583,
   "dataset": "sih-er",
   "partition": {
    "uf": "es",
@@ -72902,9 +72902,9 @@
  {
   "filename": "ERGO2605.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERGO2605.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 53637,
+  "size": 53625,
   "dataset": "sih-er",
   "partition": {
    "uf": "go",
@@ -72917,9 +72917,9 @@
  {
   "filename": "ERMA2605.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMA2605.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 16447,
+  "size": 16956,
   "dataset": "sih-er",
   "partition": {
    "uf": "ma",
@@ -72932,9 +72932,9 @@
  {
   "filename": "ERMG2605.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMG2605.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 105122,
+  "size": 105034,
   "dataset": "sih-er",
   "partition": {
    "uf": "mg",
@@ -72947,9 +72947,9 @@
  {
   "filename": "ERMS2605.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMS2605.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 20450,
+  "size": 20549,
   "dataset": "sih-er",
   "partition": {
    "uf": "ms",
@@ -72962,9 +72962,9 @@
  {
   "filename": "ERMT2605.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMT2605.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 99600,
+  "size": 101254,
   "dataset": "sih-er",
   "partition": {
    "uf": "mt",
@@ -72977,9 +72977,9 @@
  {
   "filename": "ERPA2605.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPA2605.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 50766,
+  "size": 50964,
   "dataset": "sih-er",
   "partition": {
    "uf": "pa",
@@ -72992,9 +72992,9 @@
  {
   "filename": "ERPB2605.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPB2605.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 39249,
+  "size": 39917,
   "dataset": "sih-er",
   "partition": {
    "uf": "pb",
@@ -73007,9 +73007,9 @@
  {
   "filename": "ERPE2605.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPE2605.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 120803,
+  "size": 120825,
   "dataset": "sih-er",
   "partition": {
    "uf": "pe",
@@ -73022,9 +73022,9 @@
  {
   "filename": "ERPI2605.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPI2605.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 9192,
+  "size": 9204,
   "dataset": "sih-er",
   "partition": {
    "uf": "pi",
@@ -73037,9 +73037,9 @@
  {
   "filename": "ERPR2605.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPR2605.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 118369,
+  "size": 117907,
   "dataset": "sih-er",
   "partition": {
    "uf": "pr",
@@ -73052,9 +73052,9 @@
  {
   "filename": "ERRJ2605.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRJ2605.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 95481,
+  "size": 95845,
   "dataset": "sih-er",
   "partition": {
    "uf": "rj",
@@ -73067,9 +73067,9 @@
  {
   "filename": "ERRN2605.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRN2605.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 25236,
+  "size": 25168,
   "dataset": "sih-er",
   "partition": {
    "uf": "rn",
@@ -73082,9 +73082,9 @@
  {
   "filename": "ERRO2605.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRO2605.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 20561,
+  "size": 20600,
   "dataset": "sih-er",
   "partition": {
    "uf": "ro",
@@ -73097,7 +73097,7 @@
  {
   "filename": "ERRR2605.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRR2605.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
   "size": 1815,
   "dataset": "sih-er",
@@ -73112,9 +73112,9 @@
  {
   "filename": "ERRS2605.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRS2605.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 71782,
+  "size": 71681,
   "dataset": "sih-er",
   "partition": {
    "uf": "rs",
@@ -73127,9 +73127,9 @@
  {
   "filename": "ERSC2605.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERSC2605.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 92116,
+  "size": 92093,
   "dataset": "sih-er",
   "partition": {
    "uf": "sc",
@@ -73142,9 +73142,9 @@
  {
   "filename": "ERSE2605.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERSE2605.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 9538,
+  "size": 9531,
   "dataset": "sih-er",
   "partition": {
    "uf": "se",
@@ -73157,9 +73157,9 @@
  {
   "filename": "ERSP2605.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERSP2605.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 328826,
+  "size": 328661,
   "dataset": "sih-er",
   "partition": {
    "uf": "sp",
@@ -73172,9 +73172,9 @@
  {
   "filename": "ERTO2605.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERTO2605.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 18599,
+  "size": 18672,
   "dataset": "sih-er",
   "partition": {
    "uf": "to",
@@ -73187,9 +73187,9 @@
  {
   "filename": "ERAC2606.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAC2606.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 24366,
+  "size": 24384,
   "dataset": "sih-er",
   "partition": {
    "uf": "ac",
@@ -73202,9 +73202,9 @@
  {
   "filename": "ERAL2606.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAL2606.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 79033,
+  "size": 79905,
   "dataset": "sih-er",
   "partition": {
    "uf": "al",
@@ -73217,9 +73217,9 @@
  {
   "filename": "ERAM2606.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAM2606.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 28805,
+  "size": 29030,
   "dataset": "sih-er",
   "partition": {
    "uf": "am",
@@ -73232,9 +73232,9 @@
  {
   "filename": "ERAP2606.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAP2606.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 3676,
+  "size": 3661,
   "dataset": "sih-er",
   "partition": {
    "uf": "ap",
@@ -73247,9 +73247,9 @@
  {
   "filename": "ERBA2606.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERBA2606.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 375563,
+  "size": 375839,
   "dataset": "sih-er",
   "partition": {
    "uf": "ba",
@@ -73262,9 +73262,9 @@
  {
   "filename": "ERCE2606.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERCE2606.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 90446,
+  "size": 90712,
   "dataset": "sih-er",
   "partition": {
    "uf": "ce",
@@ -73277,9 +73277,9 @@
  {
   "filename": "ERDF2606.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERDF2606.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 16521,
+  "size": 16420,
   "dataset": "sih-er",
   "partition": {
    "uf": "df",
@@ -73292,9 +73292,9 @@
  {
   "filename": "ERES2606.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERES2606.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 20517,
+  "size": 23029,
   "dataset": "sih-er",
   "partition": {
    "uf": "es",
@@ -73307,9 +73307,9 @@
  {
   "filename": "ERGO2606.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERGO2606.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 54787,
+  "size": 55303,
   "dataset": "sih-er",
   "partition": {
    "uf": "go",
@@ -73322,9 +73322,9 @@
  {
   "filename": "ERMA2606.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMA2606.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 15300,
+  "size": 15249,
   "dataset": "sih-er",
   "partition": {
    "uf": "ma",
@@ -73337,9 +73337,9 @@
  {
   "filename": "ERMG2606.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMG2606.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 103930,
+  "size": 105825,
   "dataset": "sih-er",
   "partition": {
    "uf": "mg",
@@ -73352,9 +73352,9 @@
  {
   "filename": "ERMS2606.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMS2606.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 19255,
+  "size": 19219,
   "dataset": "sih-er",
   "partition": {
    "uf": "ms",
@@ -73367,9 +73367,9 @@
  {
   "filename": "ERMT2606.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMT2606.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 114139,
+  "size": 120785,
   "dataset": "sih-er",
   "partition": {
    "uf": "mt",
@@ -73382,9 +73382,9 @@
  {
   "filename": "ERPA2606.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPA2606.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 47122,
+  "size": 46910,
   "dataset": "sih-er",
   "partition": {
    "uf": "pa",
@@ -73397,9 +73397,9 @@
  {
   "filename": "ERPB2606.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPB2606.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 46766,
+  "size": 46657,
   "dataset": "sih-er",
   "partition": {
    "uf": "pb",
@@ -73412,9 +73412,9 @@
  {
   "filename": "ERPE2606.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPE2606.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 118785,
+  "size": 119350,
   "dataset": "sih-er",
   "partition": {
    "uf": "pe",
@@ -73427,9 +73427,9 @@
  {
   "filename": "ERPI2606.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPI2606.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 8294,
+  "size": 8343,
   "dataset": "sih-er",
   "partition": {
    "uf": "pi",
@@ -73442,9 +73442,9 @@
  {
   "filename": "ERPR2606.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPR2606.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 106725,
+  "size": 106361,
   "dataset": "sih-er",
   "partition": {
    "uf": "pr",
@@ -73457,9 +73457,9 @@
  {
   "filename": "ERRJ2606.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRJ2606.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 96567,
+  "size": 96860,
   "dataset": "sih-er",
   "partition": {
    "uf": "rj",
@@ -73472,9 +73472,9 @@
  {
   "filename": "ERRN2606.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRN2606.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 22323,
+  "size": 22310,
   "dataset": "sih-er",
   "partition": {
    "uf": "rn",
@@ -73487,9 +73487,9 @@
  {
   "filename": "ERRO2606.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRO2606.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 19914,
+  "size": 20183,
   "dataset": "sih-er",
   "partition": {
    "uf": "ro",
@@ -73502,9 +73502,9 @@
  {
   "filename": "ERRR2606.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRR2606.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 2519,
+  "size": 2538,
   "dataset": "sih-er",
   "partition": {
    "uf": "rr",
@@ -73517,9 +73517,9 @@
  {
   "filename": "ERRS2606.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRS2606.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 69846,
+  "size": 69448,
   "dataset": "sih-er",
   "partition": {
    "uf": "rs",
@@ -73532,9 +73532,9 @@
  {
   "filename": "ERSC2606.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERSC2606.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 68881,
+  "size": 67595,
   "dataset": "sih-er",
   "partition": {
    "uf": "sc",
@@ -73547,9 +73547,9 @@
  {
   "filename": "ERSE2606.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERSE2606.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 7010,
+  "size": 7040,
   "dataset": "sih-er",
   "partition": {
    "uf": "se",
@@ -73562,9 +73562,9 @@
  {
   "filename": "ERSP2606.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERSP2606.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 341476,
+  "size": 341754,
   "dataset": "sih-er",
   "partition": {
    "uf": "sp",
@@ -73577,9 +73577,9 @@
  {
   "filename": "ERTO2606.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERTO2606.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 24413,
+  "size": 24414,
   "dataset": "sih-er",
   "partition": {
    "uf": "to",
@@ -73592,9 +73592,9 @@
  {
   "filename": "ERAC2607.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAC2607.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 30066,
+  "size": 30194,
   "dataset": "sih-er",
   "partition": {
    "uf": "ac",
@@ -73607,9 +73607,9 @@
  {
   "filename": "ERAL2607.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAL2607.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 85752,
+  "size": 84959,
   "dataset": "sih-er",
   "partition": {
    "uf": "al",
@@ -73622,9 +73622,9 @@
  {
   "filename": "ERAM2607.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAM2607.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 23740,
+  "size": 24041,
   "dataset": "sih-er",
   "partition": {
    "uf": "am",
@@ -73637,9 +73637,9 @@
  {
   "filename": "ERAP2607.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAP2607.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 5449,
+  "size": 5432,
   "dataset": "sih-er",
   "partition": {
    "uf": "ap",
@@ -73652,9 +73652,9 @@
  {
   "filename": "ERBA2607.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERBA2607.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 501695,
+  "size": 502900,
   "dataset": "sih-er",
   "partition": {
    "uf": "ba",
@@ -73667,9 +73667,9 @@
  {
   "filename": "ERCE2607.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERCE2607.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 80431,
+  "size": 80767,
   "dataset": "sih-er",
   "partition": {
    "uf": "ce",
@@ -73682,9 +73682,9 @@
  {
   "filename": "ERDF2607.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERDF2607.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 17584,
+  "size": 17400,
   "dataset": "sih-er",
   "partition": {
    "uf": "df",
@@ -73697,9 +73697,9 @@
  {
   "filename": "ERES2607.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERES2607.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 19548,
+  "size": 23251,
   "dataset": "sih-er",
   "partition": {
    "uf": "es",
@@ -73712,9 +73712,9 @@
  {
   "filename": "ERGO2607.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERGO2607.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 60435,
+  "size": 59928,
   "dataset": "sih-er",
   "partition": {
    "uf": "go",
@@ -73727,9 +73727,9 @@
  {
   "filename": "ERMA2607.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMA2607.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 10487,
+  "size": 10945,
   "dataset": "sih-er",
   "partition": {
    "uf": "ma",
@@ -73742,9 +73742,9 @@
  {
   "filename": "ERMG2607.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMG2607.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 114950,
+  "size": 114844,
   "dataset": "sih-er",
   "partition": {
    "uf": "mg",
@@ -73757,9 +73757,9 @@
  {
   "filename": "ERMS2607.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMS2607.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 22330,
+  "size": 21971,
   "dataset": "sih-er",
   "partition": {
    "uf": "ms",
@@ -73772,9 +73772,9 @@
  {
   "filename": "ERMT2607.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMT2607.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 118431,
+  "size": 119014,
   "dataset": "sih-er",
   "partition": {
    "uf": "mt",
@@ -73787,9 +73787,9 @@
  {
   "filename": "ERPA2607.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPA2607.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 65433,
+  "size": 64995,
   "dataset": "sih-er",
   "partition": {
    "uf": "pa",
@@ -73802,9 +73802,9 @@
  {
   "filename": "ERPB2607.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPB2607.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 61371,
+  "size": 62875,
   "dataset": "sih-er",
   "partition": {
    "uf": "pb",
@@ -73817,9 +73817,9 @@
  {
   "filename": "ERPE2607.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPE2607.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 128655,
+  "size": 128221,
   "dataset": "sih-er",
   "partition": {
    "uf": "pe",
@@ -73832,9 +73832,9 @@
  {
   "filename": "ERPI2607.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPI2607.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 6600,
+  "size": 6658,
   "dataset": "sih-er",
   "partition": {
    "uf": "pi",
@@ -73847,9 +73847,9 @@
  {
   "filename": "ERPR2607.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPR2607.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 114163,
+  "size": 113631,
   "dataset": "sih-er",
   "partition": {
    "uf": "pr",
@@ -73862,9 +73862,9 @@
  {
   "filename": "ERRJ2607.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRJ2607.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 92268,
+  "size": 92100,
   "dataset": "sih-er",
   "partition": {
    "uf": "rj",
@@ -73877,9 +73877,9 @@
  {
   "filename": "ERRN2607.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRN2607.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 27362,
+  "size": 27727,
   "dataset": "sih-er",
   "partition": {
    "uf": "rn",
@@ -73892,9 +73892,9 @@
  {
   "filename": "ERRO2607.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRO2607.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 19032,
+  "size": 19021,
   "dataset": "sih-er",
   "partition": {
    "uf": "ro",
@@ -73907,9 +73907,9 @@
  {
   "filename": "ERRR2607.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRR2607.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 524,
+  "size": 2130,
   "dataset": "sih-er",
   "partition": {
    "uf": "rr",
@@ -73922,9 +73922,9 @@
  {
   "filename": "ERRS2607.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRS2607.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 79852,
+  "size": 101025,
   "dataset": "sih-er",
   "partition": {
    "uf": "rs",
@@ -73937,9 +73937,9 @@
  {
   "filename": "ERSC2607.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERSC2607.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 89436,
+  "size": 88831,
   "dataset": "sih-er",
   "partition": {
    "uf": "sc",
@@ -73952,9 +73952,9 @@
  {
   "filename": "ERSE2607.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERSE2607.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 3920,
+  "size": 3904,
   "dataset": "sih-er",
   "partition": {
    "uf": "se",
@@ -73967,9 +73967,9 @@
  {
   "filename": "ERSP2607.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERSP2607.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 387928,
+  "size": 389174,
   "dataset": "sih-er",
   "partition": {
    "uf": "sp",
@@ -73982,9 +73982,9 @@
  {
   "filename": "ERTO2607.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERTO2607.dbc",
-  "datetime": "2026-10-16T17:30:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 15591,
+  "size": 15587,
   "dataset": "sih-er",
   "partition": {
    "uf": "to",
@@ -73997,9 +73997,9 @@
  {
   "filename": "ERAL2608.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAL2608.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 83159,
+  "size": 82990,
   "dataset": "sih-er",
   "partition": {
    "uf": "al",
@@ -74012,9 +74012,9 @@
  {
   "filename": "ERAM2608.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAM2608.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 22936,
+  "size": 23037,
   "dataset": "sih-er",
   "partition": {
    "uf": "am",
@@ -74027,9 +74027,9 @@
  {
   "filename": "ERAP2608.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAP2608.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 3499,
+  "size": 3496,
   "dataset": "sih-er",
   "partition": {
    "uf": "ap",
@@ -74042,9 +74042,9 @@
  {
   "filename": "ERBA2608.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERBA2608.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 402752,
+  "size": 411638,
   "dataset": "sih-er",
   "partition": {
    "uf": "ba",
@@ -74057,9 +74057,9 @@
  {
   "filename": "ERCE2608.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERCE2608.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 79203,
+  "size": 80281,
   "dataset": "sih-er",
   "partition": {
    "uf": "ce",
@@ -74072,9 +74072,9 @@
  {
   "filename": "ERDF2608.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERDF2608.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 18161,
+  "size": 18162,
   "dataset": "sih-er",
   "partition": {
    "uf": "df",
@@ -74087,9 +74087,9 @@
  {
   "filename": "ERES2608.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERES2608.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 15225,
+  "size": 20864,
   "dataset": "sih-er",
   "partition": {
    "uf": "es",
@@ -74102,9 +74102,9 @@
  {
   "filename": "ERGO2608.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERGO2608.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 62527,
+  "size": 64617,
   "dataset": "sih-er",
   "partition": {
    "uf": "go",
@@ -74117,9 +74117,9 @@
  {
   "filename": "ERMA2608.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMA2608.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 14420,
+  "size": 14507,
   "dataset": "sih-er",
   "partition": {
    "uf": "ma",
@@ -74132,9 +74132,9 @@
  {
   "filename": "ERMG2608.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMG2608.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 88511,
+  "size": 106074,
   "dataset": "sih-er",
   "partition": {
    "uf": "mg",
@@ -74147,9 +74147,9 @@
  {
   "filename": "ERMS2608.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMS2608.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 21211,
+  "size": 23079,
   "dataset": "sih-er",
   "partition": {
    "uf": "ms",
@@ -74162,9 +74162,9 @@
  {
   "filename": "ERMT2608.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMT2608.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 102551,
+  "size": 111634,
   "dataset": "sih-er",
   "partition": {
    "uf": "mt",
@@ -74177,9 +74177,9 @@
  {
   "filename": "ERPA2608.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPA2608.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 61340,
+  "size": 61883,
   "dataset": "sih-er",
   "partition": {
    "uf": "pa",
@@ -74192,9 +74192,9 @@
  {
   "filename": "ERPB2608.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPB2608.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 52294,
+  "size": 53457,
   "dataset": "sih-er",
   "partition": {
    "uf": "pb",
@@ -74207,9 +74207,9 @@
  {
   "filename": "ERPE2608.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPE2608.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 117336,
+  "size": 117098,
   "dataset": "sih-er",
   "partition": {
    "uf": "pe",
@@ -74222,9 +74222,9 @@
  {
   "filename": "ERPI2608.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPI2608.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 10160,
+  "size": 10167,
   "dataset": "sih-er",
   "partition": {
    "uf": "pi",
@@ -74237,9 +74237,9 @@
  {
   "filename": "ERPR2608.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPR2608.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 127501,
+  "size": 126885,
   "dataset": "sih-er",
   "partition": {
    "uf": "pr",
@@ -74252,9 +74252,9 @@
  {
   "filename": "ERRJ2608.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRJ2608.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 51877,
+  "size": 75821,
   "dataset": "sih-er",
   "partition": {
    "uf": "rj",
@@ -74267,9 +74267,9 @@
  {
   "filename": "ERRN2608.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRN2608.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 3445,
+  "size": 27690,
   "dataset": "sih-er",
   "partition": {
    "uf": "rn",
@@ -74282,9 +74282,9 @@
  {
   "filename": "ERRO2608.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRO2608.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 19010,
+  "size": 18962,
   "dataset": "sih-er",
   "partition": {
    "uf": "ro",
@@ -74295,11 +74295,26 @@
   "preliminary": false
  },
  {
+  "filename": "ERRR2608.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRR2608.dbc",
+  "datetime": "2026-11-10T18:53:00",
+  "extension": "dbc",
+  "size": 591,
+  "dataset": "sih-er",
+  "partition": {
+   "uf": "rr",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "ERRS2608.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRS2608.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 48811,
+  "size": 84335,
   "dataset": "sih-er",
   "partition": {
    "uf": "rs",
@@ -74312,9 +74327,9 @@
  {
   "filename": "ERSC2608.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERSC2608.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 86229,
+  "size": 87545,
   "dataset": "sih-er",
   "partition": {
    "uf": "sc",
@@ -74327,7 +74342,7 @@
  {
   "filename": "ERSE2608.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERSE2608.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
   "size": 3103,
   "dataset": "sih-er",
@@ -74342,9 +74357,9 @@
  {
   "filename": "ERSP2608.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERSP2608.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 376946,
+  "size": 377941,
   "dataset": "sih-er",
   "partition": {
    "uf": "sp",
@@ -74357,14 +74372,389 @@
  {
   "filename": "ERTO2608.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERTO2608.dbc",
-  "datetime": "2026-10-16T17:31:00",
+  "datetime": "2026-11-10T18:53:00",
   "extension": "dbc",
-  "size": 16971,
+  "size": 17152,
   "dataset": "sih-er",
   "partition": {
    "uf": "to",
    "year": 2026,
    "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ERAL2609.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAL2609.dbc",
+  "datetime": "2026-11-10T18:53:00",
+  "extension": "dbc",
+  "size": 86685,
+  "dataset": "sih-er",
+  "partition": {
+   "uf": "al",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ERAM2609.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAM2609.dbc",
+  "datetime": "2026-11-10T18:53:00",
+  "extension": "dbc",
+  "size": 22745,
+  "dataset": "sih-er",
+  "partition": {
+   "uf": "am",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ERAP2609.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERAP2609.dbc",
+  "datetime": "2026-11-10T18:53:00",
+  "extension": "dbc",
+  "size": 2675,
+  "dataset": "sih-er",
+  "partition": {
+   "uf": "ap",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ERBA2609.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERBA2609.dbc",
+  "datetime": "2026-11-10T18:53:00",
+  "extension": "dbc",
+  "size": 399932,
+  "dataset": "sih-er",
+  "partition": {
+   "uf": "ba",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ERCE2609.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERCE2609.dbc",
+  "datetime": "2026-11-10T18:53:00",
+  "extension": "dbc",
+  "size": 78361,
+  "dataset": "sih-er",
+  "partition": {
+   "uf": "ce",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ERDF2609.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERDF2609.dbc",
+  "datetime": "2026-11-10T18:53:00",
+  "extension": "dbc",
+  "size": 15197,
+  "dataset": "sih-er",
+  "partition": {
+   "uf": "df",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ERES2609.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERES2609.dbc",
+  "datetime": "2026-11-10T18:53:00",
+  "extension": "dbc",
+  "size": 17610,
+  "dataset": "sih-er",
+  "partition": {
+   "uf": "es",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ERGO2609.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERGO2609.dbc",
+  "datetime": "2026-11-10T18:53:00",
+  "extension": "dbc",
+  "size": 49176,
+  "dataset": "sih-er",
+  "partition": {
+   "uf": "go",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ERMA2609.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMA2609.dbc",
+  "datetime": "2026-11-10T18:53:00",
+  "extension": "dbc",
+  "size": 25238,
+  "dataset": "sih-er",
+  "partition": {
+   "uf": "ma",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ERMG2609.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMG2609.dbc",
+  "datetime": "2026-11-10T18:53:00",
+  "extension": "dbc",
+  "size": 104902,
+  "dataset": "sih-er",
+  "partition": {
+   "uf": "mg",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ERMS2609.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMS2609.dbc",
+  "datetime": "2026-11-10T18:53:00",
+  "extension": "dbc",
+  "size": 19053,
+  "dataset": "sih-er",
+  "partition": {
+   "uf": "ms",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ERMT2609.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERMT2609.dbc",
+  "datetime": "2026-11-10T18:53:00",
+  "extension": "dbc",
+  "size": 118563,
+  "dataset": "sih-er",
+  "partition": {
+   "uf": "mt",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ERPA2609.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPA2609.dbc",
+  "datetime": "2026-11-10T18:53:00",
+  "extension": "dbc",
+  "size": 50395,
+  "dataset": "sih-er",
+  "partition": {
+   "uf": "pa",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ERPB2609.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPB2609.dbc",
+  "datetime": "2026-11-10T18:53:00",
+  "extension": "dbc",
+  "size": 35431,
+  "dataset": "sih-er",
+  "partition": {
+   "uf": "pb",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ERPE2609.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPE2609.dbc",
+  "datetime": "2026-11-10T18:53:00",
+  "extension": "dbc",
+  "size": 108290,
+  "dataset": "sih-er",
+  "partition": {
+   "uf": "pe",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ERPI2609.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPI2609.dbc",
+  "datetime": "2026-11-10T18:53:00",
+  "extension": "dbc",
+  "size": 6547,
+  "dataset": "sih-er",
+  "partition": {
+   "uf": "pi",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ERPR2609.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERPR2609.dbc",
+  "datetime": "2026-11-10T18:53:00",
+  "extension": "dbc",
+  "size": 120347,
+  "dataset": "sih-er",
+  "partition": {
+   "uf": "pr",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ERRJ2609.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRJ2609.dbc",
+  "datetime": "2026-11-10T18:53:00",
+  "extension": "dbc",
+  "size": 90335,
+  "dataset": "sih-er",
+  "partition": {
+   "uf": "rj",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ERRN2609.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRN2609.dbc",
+  "datetime": "2026-11-10T18:53:00",
+  "extension": "dbc",
+  "size": 4319,
+  "dataset": "sih-er",
+  "partition": {
+   "uf": "rn",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ERRO2609.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRO2609.dbc",
+  "datetime": "2026-11-10T18:53:00",
+  "extension": "dbc",
+  "size": 26359,
+  "dataset": "sih-er",
+  "partition": {
+   "uf": "ro",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ERRS2609.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERRS2609.dbc",
+  "datetime": "2026-11-10T18:53:00",
+  "extension": "dbc",
+  "size": 89437,
+  "dataset": "sih-er",
+  "partition": {
+   "uf": "rs",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ERSC2609.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERSC2609.dbc",
+  "datetime": "2026-11-10T18:53:00",
+  "extension": "dbc",
+  "size": 98637,
+  "dataset": "sih-er",
+  "partition": {
+   "uf": "sc",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ERSE2609.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERSE2609.dbc",
+  "datetime": "2026-11-10T18:53:00",
+  "extension": "dbc",
+  "size": 16557,
+  "dataset": "sih-er",
+  "partition": {
+   "uf": "se",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ERSP2609.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERSP2609.dbc",
+  "datetime": "2026-11-10T18:53:00",
+  "extension": "dbc",
+  "size": 407127,
+  "dataset": "sih-er",
+  "partition": {
+   "uf": "sp",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ERTO2609.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/ERTO2609.dbc",
+  "datetime": "2026-11-10T18:53:00",
+  "extension": "dbc",
+  "size": 13253,
+  "dataset": "sih-er",
+  "partition": {
+   "uf": "to",
+   "year": 2026,
+   "month": 9,
    "subpartition": null
   },
   "preliminary": false
