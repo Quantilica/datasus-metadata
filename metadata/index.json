@@ -712,13 +712,13 @@
    "name": "Febre de Chikungunya",
    "source": "sinan",
    "n_files": 13,
-   "total_size": 100136354,
+   "total_size": 99483808,
    "partition_n_ufs": 1,
    "partition_period_start": "2014",
    "partition_period_end": "2026",
    "partition_n_periods": 13,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-11-03T15:04:00"
+   "latest_update": "2026-11-10T09:42:00"
   },
   "sinan-cole": {
    "name": "Cólera",
@@ -748,13 +748,13 @@
    "name": "Dengue",
    "source": "sinan",
    "n_files": 27,
-   "total_size": 1076047056,
+   "total_size": 1076664706,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
    "partition_period_end": "2026",
    "partition_n_periods": 27,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-11-03T15:03:00"
+   "latest_update": "2026-11-10T09:41:00"
   },
   "sinan-derm": {
    "name": "Dermatoses ocupacionais",
@@ -1107,14 +1107,14 @@
   "sinan-sdta": {
    "name": "Surto Doenças Transmitidas por Alimentos",
    "source": "sinan",
-   "n_files": 17,
-   "total_size": 1233169,
+   "n_files": 19,
+   "total_size": 1490521,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
-   "partition_period_end": "2024",
-   "partition_n_periods": 17,
+   "partition_period_end": "2026",
+   "partition_n_periods": 19,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-07-24T16:52:00"
+   "latest_update": "2026-11-10T16:44:00"
   },
   "sinan-sifa": {
    "name": "Sífilis Adquirida",
@@ -1264,13 +1264,13 @@
    "name": "Zika Vírus",
    "source": "sinan",
    "n_files": 12,
-   "total_size": 14194874,
+   "total_size": 14199280,
    "partition_n_ufs": 1,
    "partition_period_start": "2015",
    "partition_period_end": "2026",
    "partition_n_periods": 12,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-11-03T15:05:00"
+   "latest_update": "2026-11-10T09:42:00"
   },
   "sinasc-dn": {
    "name": "Declarações de nascidos vivos",
@@ -1427,8 +1427,8 @@
   "sinan": {
    "source_name": "SINAN: Sistema de Informação de Agravos de Notificação",
    "n_files": 9,
-   "total_size": 68952874,
-   "latest_update": "2026-03-12T22:33:00"
+   "total_size": 69168573,
+   "latest_update": "2026-11-11T16:01:00"
   },
   "sinasc": {
    "source_name": "SINASC: Sistema de Informação de Nascidos Vivos",
