@@ -1,5 +1,110 @@
 [
  {
+  "filename": "TETNBR07.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TETNBR07.dbc",
+  "datetime": "2026-11-12T15:23:00",
+  "extension": "dbc",
+  "size": 2887,
+  "dataset": "sinan-tetn",
+  "partition": {
+   "uf": "br",
+   "year": 2007,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "TETNBR08.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TETNBR08.dbc",
+  "datetime": "2026-11-12T15:23:00",
+  "extension": "dbc",
+  "size": 3059,
+  "dataset": "sinan-tetn",
+  "partition": {
+   "uf": "br",
+   "year": 2008,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "TETNBR09.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TETNBR09.dbc",
+  "datetime": "2026-11-12T15:23:00",
+  "extension": "dbc",
+  "size": 2841,
+  "dataset": "sinan-tetn",
+  "partition": {
+   "uf": "br",
+   "year": 2009,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "TETNBR10.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TETNBR10.dbc",
+  "datetime": "2026-11-12T15:23:00",
+  "extension": "dbc",
+  "size": 3067,
+  "dataset": "sinan-tetn",
+  "partition": {
+   "uf": "br",
+   "year": 2010,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "TETNBR11.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TETNBR11.dbc",
+  "datetime": "2026-11-12T15:23:00",
+  "extension": "dbc",
+  "size": 3108,
+  "dataset": "sinan-tetn",
+  "partition": {
+   "uf": "br",
+   "year": 2011,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "TETNBR12.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TETNBR12.dbc",
+  "datetime": "2026-11-12T15:24:00",
+  "extension": "dbc",
+  "size": 2640,
+  "dataset": "sinan-tetn",
+  "partition": {
+   "uf": "br",
+   "year": 2012,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "TETNBR13.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TETNBR13.dbc",
+  "datetime": "2026-11-12T15:24:00",
+  "extension": "dbc",
+  "size": 2737,
+  "dataset": "sinan-tetn",
+  "partition": {
+   "uf": "br",
+   "year": 2013,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "TETNBR14.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TETNBR14.dbc",
   "datetime": "2021-11-23T17:54:00",

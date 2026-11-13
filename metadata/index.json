@@ -1179,14 +1179,14 @@
   "sinan-tetn": {
    "name": "Tétano Neonatal",
    "source": "sinan",
-   "n_files": 13,
-   "total_size": 34665,
+   "n_files": 20,
+   "total_size": 55004,
    "partition_n_ufs": 1,
-   "partition_period_start": "2014",
+   "partition_period_start": "2007",
    "partition_period_end": "2026",
-   "partition_n_periods": 13,
+   "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-10-29T10:50:00"
+   "latest_update": "2026-11-12T15:24:00"
   },
   "sinan-toxc": {
    "name": "Toxoplasmose Congênita",
