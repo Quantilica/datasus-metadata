@@ -268,13 +268,13 @@
    "name": "Painel de Oncologia",
    "source": "po",
    "n_files": 14,
-   "total_size": 203274500,
+   "total_size": 204237949,
    "partition_n_ufs": 1,
    "partition_period_start": "2013",
    "partition_period_end": "2026",
    "partition_n_periods": 14,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-10-17T19:49:00"
+   "latest_update": "2026-11-16T21:55:00"
   },
   "resp": {
    "name": "Notificações de casos suspeitos de SCZ",
@@ -1180,13 +1180,13 @@
    "name": "Tétano Neonatal",
    "source": "sinan",
    "n_files": 20,
-   "total_size": 55004,
+   "total_size": 55099,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2026",
    "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-11-12T15:24:00"
+   "latest_update": "2026-11-16T09:41:00"
   },
   "sinan-toxc": {
    "name": "Toxoplasmose Congênita",
