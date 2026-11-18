@@ -48013,5 +48013,20 @@
    "subpartition": null
   },
   "preliminary": false
+ },
+ {
+  "filename": "EESP2610.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EE/EESP2610.dbc",
+  "datetime": "2026-11-17T14:57:00",
+  "extension": "dbc",
+  "size": 1140,
+  "dataset": "cnes-ee",
+  "partition": {
+   "uf": "sp",
+   "year": 2026,
+   "month": 10,
+   "subpartition": null
+  },
+  "preliminary": false
  }
 ]
