@@ -77882,9 +77882,9 @@
  {
   "filename": "ARMG2509.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMG2509.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 199611,
+  "size": 195155,
   "dataset": "sia-ar",
   "partition": {
    "uf": "mg",
@@ -78122,9 +78122,9 @@
  {
   "filename": "ARAC2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAC2510.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 5263,
+  "size": 5245,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ac",
@@ -78137,9 +78137,9 @@
  {
   "filename": "ARAL2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAL2510.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 16794,
+  "size": 16674,
   "dataset": "sia-ar",
   "partition": {
    "uf": "al",
@@ -78152,9 +78152,9 @@
  {
   "filename": "ARAM2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAM2510.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 11228,
+  "size": 11253,
   "dataset": "sia-ar",
   "partition": {
    "uf": "am",
@@ -78167,9 +78167,9 @@
  {
   "filename": "ARBA2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARBA2510.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 56225,
+  "size": 56101,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ba",
@@ -78182,9 +78182,9 @@
  {
   "filename": "ARCE2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARCE2510.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 55014,
+  "size": 54446,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ce",
@@ -78197,9 +78197,9 @@
  {
   "filename": "ARDF2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARDF2510.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 9823,
+  "size": 9938,
   "dataset": "sia-ar",
   "partition": {
    "uf": "df",
@@ -78212,9 +78212,9 @@
  {
   "filename": "ARES2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARES2510.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 25686,
+  "size": 25673,
   "dataset": "sia-ar",
   "partition": {
    "uf": "es",
@@ -78227,9 +78227,9 @@
  {
   "filename": "ARGO2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARGO2510.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 24519,
+  "size": 24724,
   "dataset": "sia-ar",
   "partition": {
    "uf": "go",
@@ -78242,9 +78242,9 @@
  {
   "filename": "ARMA2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMA2510.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 18690,
+  "size": 18826,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ma",
@@ -78257,9 +78257,9 @@
  {
   "filename": "ARMG2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMG2510.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 206219,
+  "size": 212179,
   "dataset": "sia-ar",
   "partition": {
    "uf": "mg",
@@ -78272,9 +78272,9 @@
  {
   "filename": "ARMS2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMS2510.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 12333,
+  "size": 12299,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ms",
@@ -78287,9 +78287,9 @@
  {
   "filename": "ARMT2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMT2510.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 14584,
+  "size": 14694,
   "dataset": "sia-ar",
   "partition": {
    "uf": "mt",
@@ -78302,9 +78302,9 @@
  {
   "filename": "ARPA2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPA2510.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 35451,
+  "size": 35136,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pa",
@@ -78317,9 +78317,9 @@
  {
   "filename": "ARPB2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPB2510.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 22430,
+  "size": 22586,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pb",
@@ -78332,9 +78332,9 @@
  {
   "filename": "ARPE2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPE2510.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 51371,
+  "size": 51295,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pe",
@@ -78347,9 +78347,9 @@
  {
   "filename": "ARPI2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPI2510.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 12795,
+  "size": 12769,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pi",
@@ -78362,9 +78362,9 @@
  {
   "filename": "ARPR2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPR2510.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 120000,
+  "size": 117688,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pr",
@@ -78377,9 +78377,9 @@
  {
   "filename": "ARRJ2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRJ2510.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 101149,
+  "size": 98851,
   "dataset": "sia-ar",
   "partition": {
    "uf": "rj",
@@ -78392,9 +78392,9 @@
  {
   "filename": "ARRN2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRN2510.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 23832,
+  "size": 23720,
   "dataset": "sia-ar",
   "partition": {
    "uf": "rn",
@@ -78407,9 +78407,9 @@
  {
   "filename": "ARRO2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRO2510.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 14202,
+  "size": 14163,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ro",
@@ -78422,9 +78422,9 @@
  {
   "filename": "ARRS2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRS2510.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 111390,
+  "size": 110794,
   "dataset": "sia-ar",
   "partition": {
    "uf": "rs",
@@ -78437,9 +78437,9 @@
  {
   "filename": "ARSC2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARSC2510.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 67738,
+  "size": 66560,
   "dataset": "sia-ar",
   "partition": {
    "uf": "sc",
@@ -78452,9 +78452,9 @@
  {
   "filename": "ARSE2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARSE2510.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 10212,
+  "size": 10114,
   "dataset": "sia-ar",
   "partition": {
    "uf": "se",
@@ -78467,9 +78467,9 @@
  {
   "filename": "ARSP2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARSP2510.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 355673,
+  "size": 373132,
   "dataset": "sia-ar",
   "partition": {
    "uf": "sp",
@@ -78482,9 +78482,9 @@
  {
   "filename": "ARTO2510.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARTO2510.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 9777,
+  "size": 9615,
   "dataset": "sia-ar",
   "partition": {
    "uf": "to",
@@ -78497,9 +78497,9 @@
  {
   "filename": "ARAC2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAC2511.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 3998,
+  "size": 3993,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ac",
@@ -78512,9 +78512,9 @@
  {
   "filename": "ARAL2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAL2511.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 13244,
+  "size": 13315,
   "dataset": "sia-ar",
   "partition": {
    "uf": "al",
@@ -78527,9 +78527,9 @@
  {
   "filename": "ARAM2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAM2511.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 3547,
+  "size": 3566,
   "dataset": "sia-ar",
   "partition": {
    "uf": "am",
@@ -78542,9 +78542,9 @@
  {
   "filename": "ARBA2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARBA2511.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 54224,
+  "size": 54845,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ba",
@@ -78557,9 +78557,9 @@
  {
   "filename": "ARCE2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARCE2511.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 53663,
+  "size": 54486,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ce",
@@ -78572,9 +78572,9 @@
  {
   "filename": "ARDF2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARDF2511.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 12980,
+  "size": 12988,
   "dataset": "sia-ar",
   "partition": {
    "uf": "df",
@@ -78587,9 +78587,9 @@
  {
   "filename": "ARES2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARES2511.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 22427,
+  "size": 22440,
   "dataset": "sia-ar",
   "partition": {
    "uf": "es",
@@ -78602,9 +78602,9 @@
  {
   "filename": "ARGO2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARGO2511.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 28790,
+  "size": 28468,
   "dataset": "sia-ar",
   "partition": {
    "uf": "go",
@@ -78617,9 +78617,9 @@
  {
   "filename": "ARMA2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMA2511.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 22603,
+  "size": 22754,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ma",
@@ -78632,9 +78632,9 @@
  {
   "filename": "ARMG2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMG2511.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 173406,
+  "size": 174217,
   "dataset": "sia-ar",
   "partition": {
    "uf": "mg",
@@ -78647,9 +78647,9 @@
  {
   "filename": "ARMS2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMS2511.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 9361,
+  "size": 9282,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ms",
@@ -78662,9 +78662,9 @@
  {
   "filename": "ARMT2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMT2511.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 9698,
+  "size": 9693,
   "dataset": "sia-ar",
   "partition": {
    "uf": "mt",
@@ -78677,9 +78677,9 @@
  {
   "filename": "ARPA2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPA2511.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 19647,
+  "size": 19604,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pa",
@@ -78692,9 +78692,9 @@
  {
   "filename": "ARPB2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPB2511.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 20137,
+  "size": 20188,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pb",
@@ -78707,9 +78707,9 @@
  {
   "filename": "ARPE2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPE2511.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 41438,
+  "size": 41084,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pe",
@@ -78722,9 +78722,9 @@
  {
   "filename": "ARPI2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPI2511.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 11079,
+  "size": 11047,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pi",
@@ -78737,9 +78737,9 @@
  {
   "filename": "ARPR2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPR2511.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 107381,
+  "size": 107379,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pr",
@@ -78752,9 +78752,9 @@
  {
   "filename": "ARRJ2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRJ2511.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 80773,
+  "size": 80211,
   "dataset": "sia-ar",
   "partition": {
    "uf": "rj",
@@ -78767,9 +78767,9 @@
  {
   "filename": "ARRN2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRN2511.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 19411,
+  "size": 19399,
   "dataset": "sia-ar",
   "partition": {
    "uf": "rn",
@@ -78782,9 +78782,9 @@
  {
   "filename": "ARRO2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRO2511.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 12332,
+  "size": 12275,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ro",
@@ -78797,9 +78797,9 @@
  {
   "filename": "ARRS2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRS2511.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 103482,
+  "size": 103474,
   "dataset": "sia-ar",
   "partition": {
    "uf": "rs",
@@ -78812,9 +78812,9 @@
  {
   "filename": "ARSC2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARSC2511.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 58724,
+  "size": 59066,
   "dataset": "sia-ar",
   "partition": {
    "uf": "sc",
@@ -78827,9 +78827,9 @@
  {
   "filename": "ARSE2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARSE2511.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 8265,
+  "size": 8259,
   "dataset": "sia-ar",
   "partition": {
    "uf": "se",
@@ -78842,9 +78842,9 @@
  {
   "filename": "ARSP2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARSP2511.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 319005,
+  "size": 318382,
   "dataset": "sia-ar",
   "partition": {
    "uf": "sp",
@@ -78857,9 +78857,9 @@
  {
   "filename": "ARTO2511.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARTO2511.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 9671,
+  "size": 9716,
   "dataset": "sia-ar",
   "partition": {
    "uf": "to",
@@ -78872,9 +78872,9 @@
  {
   "filename": "ARAC2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAC2512.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 4201,
+  "size": 4181,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ac",
@@ -78887,7 +78887,7 @@
  {
   "filename": "ARAL2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAL2512.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
   "size": 11290,
   "dataset": "sia-ar",
@@ -78902,9 +78902,9 @@
  {
   "filename": "ARAM2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAM2512.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 8400,
+  "size": 8225,
   "dataset": "sia-ar",
   "partition": {
    "uf": "am",
@@ -78917,7 +78917,7 @@
  {
   "filename": "ARAP2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAP2512.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
   "size": 2632,
   "dataset": "sia-ar",
@@ -78932,9 +78932,9 @@
  {
   "filename": "ARBA2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARBA2512.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 60338,
+  "size": 59812,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ba",
@@ -78947,9 +78947,9 @@
  {
   "filename": "ARCE2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARCE2512.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 48759,
+  "size": 49232,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ce",
@@ -78962,9 +78962,9 @@
  {
   "filename": "ARDF2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARDF2512.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 13125,
+  "size": 13312,
   "dataset": "sia-ar",
   "partition": {
    "uf": "df",
@@ -78977,9 +78977,9 @@
  {
   "filename": "ARES2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARES2512.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 23520,
+  "size": 23267,
   "dataset": "sia-ar",
   "partition": {
    "uf": "es",
@@ -78992,9 +78992,9 @@
  {
   "filename": "ARGO2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARGO2512.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 24064,
+  "size": 24096,
   "dataset": "sia-ar",
   "partition": {
    "uf": "go",
@@ -79007,9 +79007,9 @@
  {
   "filename": "ARMA2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMA2512.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 18156,
+  "size": 18259,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ma",
@@ -79022,9 +79022,9 @@
  {
   "filename": "ARMG2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMG2512.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 181165,
+  "size": 186084,
   "dataset": "sia-ar",
   "partition": {
    "uf": "mg",
@@ -79037,9 +79037,9 @@
  {
   "filename": "ARMS2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMS2512.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 11898,
+  "size": 11913,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ms",
@@ -79052,9 +79052,9 @@
  {
   "filename": "ARMT2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMT2512.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 13053,
+  "size": 13142,
   "dataset": "sia-ar",
   "partition": {
    "uf": "mt",
@@ -79067,9 +79067,9 @@
  {
   "filename": "ARPA2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPA2512.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 18404,
+  "size": 18591,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pa",
@@ -79082,9 +79082,9 @@
  {
   "filename": "ARPB2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPB2512.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 22354,
+  "size": 22294,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pb",
@@ -79097,9 +79097,9 @@
  {
   "filename": "ARPE2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPE2512.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 40160,
+  "size": 39804,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pe",
@@ -79112,9 +79112,9 @@
  {
   "filename": "ARPI2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPI2512.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 14003,
+  "size": 13844,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pi",
@@ -79127,9 +79127,9 @@
  {
   "filename": "ARPR2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPR2512.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 106491,
+  "size": 103413,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pr",
@@ -79142,9 +79142,9 @@
  {
   "filename": "ARRJ2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRJ2512.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 73820,
+  "size": 72362,
   "dataset": "sia-ar",
   "partition": {
    "uf": "rj",
@@ -79157,9 +79157,9 @@
  {
   "filename": "ARRN2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRN2512.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 15898,
+  "size": 15965,
   "dataset": "sia-ar",
   "partition": {
    "uf": "rn",
@@ -79172,9 +79172,9 @@
  {
   "filename": "ARRO2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRO2512.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 11140,
+  "size": 11060,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ro",
@@ -79187,9 +79187,9 @@
  {
   "filename": "ARRS2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRS2512.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 101308,
+  "size": 99986,
   "dataset": "sia-ar",
   "partition": {
    "uf": "rs",
@@ -79202,9 +79202,9 @@
  {
   "filename": "ARSC2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARSC2512.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 52549,
+  "size": 51970,
   "dataset": "sia-ar",
   "partition": {
    "uf": "sc",
@@ -79217,9 +79217,9 @@
  {
   "filename": "ARSE2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARSE2512.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 9567,
+  "size": 9594,
   "dataset": "sia-ar",
   "partition": {
    "uf": "se",
@@ -79232,9 +79232,9 @@
  {
   "filename": "ARSP2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARSP2512.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 302178,
+  "size": 315238,
   "dataset": "sia-ar",
   "partition": {
    "uf": "sp",
@@ -79247,9 +79247,9 @@
  {
   "filename": "ARTO2512.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARTO2512.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 10986,
+  "size": 11132,
   "dataset": "sia-ar",
   "partition": {
    "uf": "to",
@@ -79262,9 +79262,9 @@
  {
   "filename": "ARAC2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAC2601.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 3775,
+  "size": 3779,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ac",
@@ -79277,9 +79277,9 @@
  {
   "filename": "ARAL2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAL2601.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 14900,
+  "size": 15130,
   "dataset": "sia-ar",
   "partition": {
    "uf": "al",
@@ -79292,9 +79292,9 @@
  {
   "filename": "ARAM2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAM2601.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 6874,
+  "size": 6982,
   "dataset": "sia-ar",
   "partition": {
    "uf": "am",
@@ -79307,9 +79307,9 @@
  {
   "filename": "ARAP2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAP2601.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 3797,
+  "size": 3816,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ap",
@@ -79322,9 +79322,9 @@
  {
   "filename": "ARBA2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARBA2601.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 58794,
+  "size": 59591,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ba",
@@ -79337,9 +79337,9 @@
  {
   "filename": "ARCE2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARCE2601.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 51916,
+  "size": 52466,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ce",
@@ -79352,9 +79352,9 @@
  {
   "filename": "ARDF2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARDF2601.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 10395,
+  "size": 10285,
   "dataset": "sia-ar",
   "partition": {
    "uf": "df",
@@ -79367,9 +79367,9 @@
  {
   "filename": "ARES2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARES2601.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 24474,
+  "size": 24678,
   "dataset": "sia-ar",
   "partition": {
    "uf": "es",
@@ -79382,9 +79382,9 @@
  {
   "filename": "ARGO2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARGO2601.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 24925,
+  "size": 25070,
   "dataset": "sia-ar",
   "partition": {
    "uf": "go",
@@ -79397,9 +79397,9 @@
  {
   "filename": "ARMA2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMA2601.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 20346,
+  "size": 20354,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ma",
@@ -79412,9 +79412,9 @@
  {
   "filename": "ARMG2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMG2601.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 173401,
+  "size": 174463,
   "dataset": "sia-ar",
   "partition": {
    "uf": "mg",
@@ -79427,9 +79427,9 @@
  {
   "filename": "ARMS2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMS2601.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 12460,
+  "size": 12491,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ms",
@@ -79442,9 +79442,9 @@
  {
   "filename": "ARMT2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMT2601.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 12377,
+  "size": 12435,
   "dataset": "sia-ar",
   "partition": {
    "uf": "mt",
@@ -79457,9 +79457,9 @@
  {
   "filename": "ARPA2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPA2601.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 16012,
+  "size": 16102,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pa",
@@ -79472,9 +79472,9 @@
  {
   "filename": "ARPB2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPB2601.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 21540,
+  "size": 21505,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pb",
@@ -79487,9 +79487,9 @@
  {
   "filename": "ARPE2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPE2601.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 41550,
+  "size": 41278,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pe",
@@ -79502,9 +79502,9 @@
  {
   "filename": "ARPI2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPI2601.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 14306,
+  "size": 14409,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pi",
@@ -79517,9 +79517,9 @@
  {
   "filename": "ARPR2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPR2601.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 107430,
+  "size": 107943,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pr",
@@ -79532,9 +79532,9 @@
  {
   "filename": "ARRJ2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRJ2601.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 65650,
+  "size": 66427,
   "dataset": "sia-ar",
   "partition": {
    "uf": "rj",
@@ -79547,9 +79547,9 @@
  {
   "filename": "ARRN2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRN2601.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 17764,
+  "size": 17859,
   "dataset": "sia-ar",
   "partition": {
    "uf": "rn",
@@ -79562,9 +79562,9 @@
  {
   "filename": "ARRO2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRO2601.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 12073,
+  "size": 12066,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ro",
@@ -79577,9 +79577,9 @@
  {
   "filename": "ARRS2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRS2601.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 101712,
+  "size": 102302,
   "dataset": "sia-ar",
   "partition": {
    "uf": "rs",
@@ -79592,9 +79592,9 @@
  {
   "filename": "ARSC2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARSC2601.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 61221,
+  "size": 61919,
   "dataset": "sia-ar",
   "partition": {
    "uf": "sc",
@@ -79607,9 +79607,9 @@
  {
   "filename": "ARSE2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARSE2601.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 8528,
+  "size": 8462,
   "dataset": "sia-ar",
   "partition": {
    "uf": "se",
@@ -79622,9 +79622,9 @@
  {
   "filename": "ARSP2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARSP2601.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 318270,
+  "size": 317510,
   "dataset": "sia-ar",
   "partition": {
    "uf": "sp",
@@ -79637,9 +79637,9 @@
  {
   "filename": "ARTO2601.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARTO2601.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 9889,
+  "size": 9834,
   "dataset": "sia-ar",
   "partition": {
    "uf": "to",
@@ -79652,9 +79652,9 @@
  {
   "filename": "ARAC2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAC2602.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 4166,
+  "size": 4204,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ac",
@@ -79667,9 +79667,9 @@
  {
   "filename": "ARAL2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAL2602.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 14271,
+  "size": 14335,
   "dataset": "sia-ar",
   "partition": {
    "uf": "al",
@@ -79682,9 +79682,9 @@
  {
   "filename": "ARAM2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAM2602.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 4982,
+  "size": 4980,
   "dataset": "sia-ar",
   "partition": {
    "uf": "am",
@@ -79697,9 +79697,9 @@
  {
   "filename": "ARAP2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAP2602.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 3710,
+  "size": 3735,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ap",
@@ -79712,9 +79712,9 @@
  {
   "filename": "ARBA2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARBA2602.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 63972,
+  "size": 63522,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ba",
@@ -79727,9 +79727,9 @@
  {
   "filename": "ARCE2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARCE2602.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 38851,
+  "size": 38683,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ce",
@@ -79742,9 +79742,9 @@
  {
   "filename": "ARDF2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARDF2602.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 9969,
+  "size": 9992,
   "dataset": "sia-ar",
   "partition": {
    "uf": "df",
@@ -79757,9 +79757,9 @@
  {
   "filename": "ARES2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARES2602.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 24721,
+  "size": 24568,
   "dataset": "sia-ar",
   "partition": {
    "uf": "es",
@@ -79772,9 +79772,9 @@
  {
   "filename": "ARGO2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARGO2602.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 21191,
+  "size": 21254,
   "dataset": "sia-ar",
   "partition": {
    "uf": "go",
@@ -79787,9 +79787,9 @@
  {
   "filename": "ARMA2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMA2602.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 18731,
+  "size": 18857,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ma",
@@ -79802,9 +79802,9 @@
  {
   "filename": "ARMG2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMG2602.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 167796,
+  "size": 165857,
   "dataset": "sia-ar",
   "partition": {
    "uf": "mg",
@@ -79817,9 +79817,9 @@
  {
   "filename": "ARMS2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMS2602.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 13805,
+  "size": 13859,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ms",
@@ -79832,9 +79832,9 @@
  {
   "filename": "ARMT2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMT2602.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 12271,
+  "size": 12496,
   "dataset": "sia-ar",
   "partition": {
    "uf": "mt",
@@ -79847,9 +79847,9 @@
  {
   "filename": "ARPA2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPA2602.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 20655,
+  "size": 20508,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pa",
@@ -79862,9 +79862,9 @@
  {
   "filename": "ARPB2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPB2602.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 21789,
+  "size": 21790,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pb",
@@ -79877,9 +79877,9 @@
  {
   "filename": "ARPE2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPE2602.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 38747,
+  "size": 38647,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pe",
@@ -79892,9 +79892,9 @@
  {
   "filename": "ARPI2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPI2602.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 12724,
+  "size": 12882,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pi",
@@ -79907,9 +79907,9 @@
  {
   "filename": "ARPR2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPR2602.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 102534,
+  "size": 102088,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pr",
@@ -79922,9 +79922,9 @@
  {
   "filename": "ARRJ2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRJ2602.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 72454,
+  "size": 71827,
   "dataset": "sia-ar",
   "partition": {
    "uf": "rj",
@@ -79937,9 +79937,9 @@
  {
   "filename": "ARRN2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRN2602.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 17655,
+  "size": 17722,
   "dataset": "sia-ar",
   "partition": {
    "uf": "rn",
@@ -79952,9 +79952,9 @@
  {
   "filename": "ARRO2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRO2602.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 12535,
+  "size": 12551,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ro",
@@ -79967,9 +79967,9 @@
  {
   "filename": "ARRS2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRS2602.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 91283,
+  "size": 90519,
   "dataset": "sia-ar",
   "partition": {
    "uf": "rs",
@@ -79982,9 +79982,9 @@
  {
   "filename": "ARSC2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARSC2602.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 66627,
+  "size": 66368,
   "dataset": "sia-ar",
   "partition": {
    "uf": "sc",
@@ -79997,9 +79997,9 @@
  {
   "filename": "ARSE2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARSE2602.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 6917,
+  "size": 6955,
   "dataset": "sia-ar",
   "partition": {
    "uf": "se",
@@ -80012,9 +80012,9 @@
  {
   "filename": "ARSP2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARSP2602.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 305411,
+  "size": 306202,
   "dataset": "sia-ar",
   "partition": {
    "uf": "sp",
@@ -80027,9 +80027,9 @@
  {
   "filename": "ARTO2602.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARTO2602.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 9673,
+  "size": 9573,
   "dataset": "sia-ar",
   "partition": {
    "uf": "to",
@@ -80042,9 +80042,9 @@
  {
   "filename": "ARAC2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAC2603.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 4518,
+  "size": 4538,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ac",
@@ -80057,9 +80057,9 @@
  {
   "filename": "ARAL2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAL2603.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 17847,
+  "size": 17974,
   "dataset": "sia-ar",
   "partition": {
    "uf": "al",
@@ -80072,9 +80072,9 @@
  {
   "filename": "ARAM2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAM2603.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 20023,
+  "size": 20286,
   "dataset": "sia-ar",
   "partition": {
    "uf": "am",
@@ -80087,9 +80087,9 @@
  {
   "filename": "ARAP2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAP2603.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 4166,
+  "size": 4186,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ap",
@@ -80102,9 +80102,9 @@
  {
   "filename": "ARBA2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARBA2603.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 63871,
+  "size": 63126,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ba",
@@ -80117,9 +80117,9 @@
  {
   "filename": "ARCE2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARCE2603.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 43815,
+  "size": 43921,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ce",
@@ -80132,9 +80132,9 @@
  {
   "filename": "ARDF2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARDF2603.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 15589,
+  "size": 15735,
   "dataset": "sia-ar",
   "partition": {
    "uf": "df",
@@ -80147,9 +80147,9 @@
  {
   "filename": "ARES2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARES2603.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 24600,
+  "size": 24492,
   "dataset": "sia-ar",
   "partition": {
    "uf": "es",
@@ -80162,9 +80162,9 @@
  {
   "filename": "ARGO2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARGO2603.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 25855,
+  "size": 25704,
   "dataset": "sia-ar",
   "partition": {
    "uf": "go",
@@ -80177,9 +80177,9 @@
  {
   "filename": "ARMA2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMA2603.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 23415,
+  "size": 23370,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ma",
@@ -80192,9 +80192,9 @@
  {
   "filename": "ARMG2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMG2603.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 195243,
+  "size": 195203,
   "dataset": "sia-ar",
   "partition": {
    "uf": "mg",
@@ -80207,9 +80207,9 @@
  {
   "filename": "ARMS2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMS2603.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 13576,
+  "size": 13396,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ms",
@@ -80222,9 +80222,9 @@
  {
   "filename": "ARMT2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMT2603.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 13748,
+  "size": 13780,
   "dataset": "sia-ar",
   "partition": {
    "uf": "mt",
@@ -80237,9 +80237,9 @@
  {
   "filename": "ARPA2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPA2603.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 16330,
+  "size": 16675,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pa",
@@ -80252,9 +80252,9 @@
  {
   "filename": "ARPB2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPB2603.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 27615,
+  "size": 27567,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pb",
@@ -80267,9 +80267,9 @@
  {
   "filename": "ARPE2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPE2603.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 39910,
+  "size": 40092,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pe",
@@ -80282,9 +80282,9 @@
  {
   "filename": "ARPI2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPI2603.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 13852,
+  "size": 14019,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pi",
@@ -80297,9 +80297,9 @@
  {
   "filename": "ARPR2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPR2603.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 115351,
+  "size": 115289,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pr",
@@ -80312,9 +80312,9 @@
  {
   "filename": "ARRJ2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRJ2603.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 77268,
+  "size": 77767,
   "dataset": "sia-ar",
   "partition": {
    "uf": "rj",
@@ -80327,9 +80327,9 @@
  {
   "filename": "ARRN2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRN2603.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 18624,
+  "size": 18672,
   "dataset": "sia-ar",
   "partition": {
    "uf": "rn",
@@ -80342,9 +80342,9 @@
  {
   "filename": "ARRO2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRO2603.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 14611,
+  "size": 14772,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ro",
@@ -80357,9 +80357,9 @@
  {
   "filename": "ARRS2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRS2603.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 103995,
+  "size": 103941,
   "dataset": "sia-ar",
   "partition": {
    "uf": "rs",
@@ -80372,9 +80372,9 @@
  {
   "filename": "ARSC2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARSC2603.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 76444,
+  "size": 76190,
   "dataset": "sia-ar",
   "partition": {
    "uf": "sc",
@@ -80387,9 +80387,9 @@
  {
   "filename": "ARSE2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARSE2603.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 7501,
+  "size": 7446,
   "dataset": "sia-ar",
   "partition": {
    "uf": "se",
@@ -80402,9 +80402,9 @@
  {
   "filename": "ARSP2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARSP2603.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 344656,
+  "size": 345715,
   "dataset": "sia-ar",
   "partition": {
    "uf": "sp",
@@ -80417,9 +80417,9 @@
  {
   "filename": "ARTO2603.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARTO2603.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 11411,
+  "size": 11437,
   "dataset": "sia-ar",
   "partition": {
    "uf": "to",
@@ -80432,9 +80432,9 @@
  {
   "filename": "ARAC2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAC2604.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 5229,
+  "size": 5228,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ac",
@@ -80447,9 +80447,9 @@
  {
   "filename": "ARAL2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAL2604.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 13482,
+  "size": 13284,
   "dataset": "sia-ar",
   "partition": {
    "uf": "al",
@@ -80462,9 +80462,9 @@
  {
   "filename": "ARAM2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAM2604.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 10994,
+  "size": 10949,
   "dataset": "sia-ar",
   "partition": {
    "uf": "am",
@@ -80477,9 +80477,9 @@
  {
   "filename": "ARAP2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAP2604.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 4825,
+  "size": 4804,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ap",
@@ -80492,9 +80492,9 @@
  {
   "filename": "ARBA2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARBA2604.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 63019,
+  "size": 64847,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ba",
@@ -80507,9 +80507,9 @@
  {
   "filename": "ARCE2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARCE2604.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 42650,
+  "size": 42528,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ce",
@@ -80522,9 +80522,9 @@
  {
   "filename": "ARDF2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARDF2604.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 7178,
+  "size": 7142,
   "dataset": "sia-ar",
   "partition": {
    "uf": "df",
@@ -80537,9 +80537,9 @@
  {
   "filename": "ARES2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARES2604.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 25893,
+  "size": 25814,
   "dataset": "sia-ar",
   "partition": {
    "uf": "es",
@@ -80552,9 +80552,9 @@
  {
   "filename": "ARGO2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARGO2604.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 21719,
+  "size": 21730,
   "dataset": "sia-ar",
   "partition": {
    "uf": "go",
@@ -80567,9 +80567,9 @@
  {
   "filename": "ARMA2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMA2604.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 21516,
+  "size": 21331,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ma",
@@ -80582,9 +80582,9 @@
  {
   "filename": "ARMG2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMG2604.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 179781,
+  "size": 175427,
   "dataset": "sia-ar",
   "partition": {
    "uf": "mg",
@@ -80597,9 +80597,9 @@
  {
   "filename": "ARMS2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMS2604.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 13353,
+  "size": 13469,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ms",
@@ -80612,9 +80612,9 @@
  {
   "filename": "ARMT2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMT2604.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 12238,
+  "size": 12160,
   "dataset": "sia-ar",
   "partition": {
    "uf": "mt",
@@ -80627,9 +80627,9 @@
  {
   "filename": "ARPA2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPA2604.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 14760,
+  "size": 14611,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pa",
@@ -80642,9 +80642,9 @@
  {
   "filename": "ARPB2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPB2604.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 23485,
+  "size": 23629,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pb",
@@ -80657,9 +80657,9 @@
  {
   "filename": "ARPE2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPE2604.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 40366,
+  "size": 40309,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pe",
@@ -80672,9 +80672,9 @@
  {
   "filename": "ARPI2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPI2604.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 15501,
+  "size": 15438,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pi",
@@ -80687,9 +80687,9 @@
  {
   "filename": "ARPR2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPR2604.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 96197,
+  "size": 99037,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pr",
@@ -80702,9 +80702,9 @@
  {
   "filename": "ARRJ2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRJ2604.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 83324,
+  "size": 85053,
   "dataset": "sia-ar",
   "partition": {
    "uf": "rj",
@@ -80717,9 +80717,9 @@
  {
   "filename": "ARRN2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRN2604.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 16186,
+  "size": 16211,
   "dataset": "sia-ar",
   "partition": {
    "uf": "rn",
@@ -80732,9 +80732,9 @@
  {
   "filename": "ARRO2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRO2604.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 11595,
+  "size": 11394,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ro",
@@ -80747,9 +80747,9 @@
  {
   "filename": "ARRS2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRS2604.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 99986,
+  "size": 102415,
   "dataset": "sia-ar",
   "partition": {
    "uf": "rs",
@@ -80762,9 +80762,9 @@
  {
   "filename": "ARSC2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARSC2604.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 66484,
+  "size": 67921,
   "dataset": "sia-ar",
   "partition": {
    "uf": "sc",
@@ -80777,9 +80777,9 @@
  {
   "filename": "ARSE2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARSE2604.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 10379,
+  "size": 10212,
   "dataset": "sia-ar",
   "partition": {
    "uf": "se",
@@ -80792,9 +80792,9 @@
  {
   "filename": "ARSP2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARSP2604.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 313533,
+  "size": 301804,
   "dataset": "sia-ar",
   "partition": {
    "uf": "sp",
@@ -80807,9 +80807,9 @@
  {
   "filename": "ARTO2604.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARTO2604.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 9508,
+  "size": 9571,
   "dataset": "sia-ar",
   "partition": {
    "uf": "to",
@@ -80822,9 +80822,9 @@
  {
   "filename": "ARAC2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAC2605.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 4313,
+  "size": 4343,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ac",
@@ -80837,9 +80837,9 @@
  {
   "filename": "ARAL2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAL2605.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 15085,
+  "size": 15215,
   "dataset": "sia-ar",
   "partition": {
    "uf": "al",
@@ -80852,9 +80852,9 @@
  {
   "filename": "ARAM2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAM2605.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 11525,
+  "size": 11384,
   "dataset": "sia-ar",
   "partition": {
    "uf": "am",
@@ -80867,9 +80867,9 @@
  {
   "filename": "ARAP2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAP2605.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 3932,
+  "size": 3936,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ap",
@@ -80882,9 +80882,9 @@
  {
   "filename": "ARBA2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARBA2605.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 56695,
+  "size": 55678,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ba",
@@ -80897,9 +80897,9 @@
  {
   "filename": "ARCE2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARCE2605.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 43771,
+  "size": 43627,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ce",
@@ -80912,9 +80912,9 @@
  {
   "filename": "ARDF2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARDF2605.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 10842,
+  "size": 10709,
   "dataset": "sia-ar",
   "partition": {
    "uf": "df",
@@ -80927,9 +80927,9 @@
  {
   "filename": "ARES2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARES2605.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 23626,
+  "size": 23409,
   "dataset": "sia-ar",
   "partition": {
    "uf": "es",
@@ -80942,9 +80942,9 @@
  {
   "filename": "ARGO2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARGO2605.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 25935,
+  "size": 25849,
   "dataset": "sia-ar",
   "partition": {
    "uf": "go",
@@ -80957,9 +80957,9 @@
  {
   "filename": "ARMA2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMA2605.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 19087,
+  "size": 19061,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ma",
@@ -80972,9 +80972,9 @@
  {
   "filename": "ARMG2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMG2605.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 182959,
+  "size": 186411,
   "dataset": "sia-ar",
   "partition": {
    "uf": "mg",
@@ -80987,9 +80987,9 @@
  {
   "filename": "ARMS2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMS2605.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 15846,
+  "size": 15736,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ms",
@@ -81002,9 +81002,9 @@
  {
   "filename": "ARMT2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMT2605.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 13337,
+  "size": 13235,
   "dataset": "sia-ar",
   "partition": {
    "uf": "mt",
@@ -81017,9 +81017,9 @@
  {
   "filename": "ARPA2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPA2605.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 13417,
+  "size": 13403,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pa",
@@ -81032,9 +81032,9 @@
  {
   "filename": "ARPB2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPB2605.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 19190,
+  "size": 19314,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pb",
@@ -81047,9 +81047,9 @@
  {
   "filename": "ARPE2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPE2605.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 41385,
+  "size": 41338,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pe",
@@ -81062,9 +81062,9 @@
  {
   "filename": "ARPI2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPI2605.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 14766,
+  "size": 14617,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pi",
@@ -81077,9 +81077,9 @@
  {
   "filename": "ARPR2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPR2605.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 101171,
+  "size": 101960,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pr",
@@ -81092,9 +81092,9 @@
  {
   "filename": "ARRJ2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRJ2605.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 75156,
+  "size": 75369,
   "dataset": "sia-ar",
   "partition": {
    "uf": "rj",
@@ -81107,9 +81107,9 @@
  {
   "filename": "ARRN2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRN2605.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 16376,
+  "size": 16797,
   "dataset": "sia-ar",
   "partition": {
    "uf": "rn",
@@ -81122,9 +81122,9 @@
  {
   "filename": "ARRO2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRO2605.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 10833,
+  "size": 10892,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ro",
@@ -81137,9 +81137,9 @@
  {
   "filename": "ARRS2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRS2605.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 104117,
+  "size": 104643,
   "dataset": "sia-ar",
   "partition": {
    "uf": "rs",
@@ -81152,9 +81152,9 @@
  {
   "filename": "ARSC2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARSC2605.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 68873,
+  "size": 69374,
   "dataset": "sia-ar",
   "partition": {
    "uf": "sc",
@@ -81167,9 +81167,9 @@
  {
   "filename": "ARSE2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARSE2605.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 9989,
+  "size": 10024,
   "dataset": "sia-ar",
   "partition": {
    "uf": "se",
@@ -81182,9 +81182,9 @@
  {
   "filename": "ARSP2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARSP2605.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 332471,
+  "size": 336696,
   "dataset": "sia-ar",
   "partition": {
    "uf": "sp",
@@ -81197,9 +81197,9 @@
  {
   "filename": "ARTO2605.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARTO2605.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 9152,
+  "size": 9179,
   "dataset": "sia-ar",
   "partition": {
    "uf": "to",
@@ -81212,9 +81212,9 @@
  {
   "filename": "ARAC2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAC2606.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 4353,
+  "size": 4352,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ac",
@@ -81227,9 +81227,9 @@
  {
   "filename": "ARAL2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAL2606.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 12802,
+  "size": 12747,
   "dataset": "sia-ar",
   "partition": {
    "uf": "al",
@@ -81242,9 +81242,9 @@
  {
   "filename": "ARAM2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAM2606.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 11536,
+  "size": 11679,
   "dataset": "sia-ar",
   "partition": {
    "uf": "am",
@@ -81257,9 +81257,9 @@
  {
   "filename": "ARAP2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAP2606.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 4622,
+  "size": 4606,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ap",
@@ -81272,9 +81272,9 @@
  {
   "filename": "ARBA2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARBA2606.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 58241,
+  "size": 59142,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ba",
@@ -81287,9 +81287,9 @@
  {
   "filename": "ARCE2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARCE2606.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 48716,
+  "size": 49137,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ce",
@@ -81302,9 +81302,9 @@
  {
   "filename": "ARDF2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARDF2606.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 3992,
+  "size": 3994,
   "dataset": "sia-ar",
   "partition": {
    "uf": "df",
@@ -81317,9 +81317,9 @@
  {
   "filename": "ARES2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARES2606.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 15047,
+  "size": 14933,
   "dataset": "sia-ar",
   "partition": {
    "uf": "es",
@@ -81332,9 +81332,9 @@
  {
   "filename": "ARGO2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARGO2606.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 22869,
+  "size": 22928,
   "dataset": "sia-ar",
   "partition": {
    "uf": "go",
@@ -81347,9 +81347,9 @@
  {
   "filename": "ARMA2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMA2606.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 17163,
+  "size": 17288,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ma",
@@ -81362,9 +81362,9 @@
  {
   "filename": "ARMG2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMG2606.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 173926,
+  "size": 182497,
   "dataset": "sia-ar",
   "partition": {
    "uf": "mg",
@@ -81377,9 +81377,9 @@
  {
   "filename": "ARMS2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMS2606.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 12832,
+  "size": 12908,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ms",
@@ -81392,9 +81392,9 @@
  {
   "filename": "ARMT2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMT2606.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 12414,
+  "size": 12585,
   "dataset": "sia-ar",
   "partition": {
    "uf": "mt",
@@ -81407,9 +81407,9 @@
  {
   "filename": "ARPA2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPA2606.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 11421,
+  "size": 11480,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pa",
@@ -81422,9 +81422,9 @@
  {
   "filename": "ARPB2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPB2606.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 15529,
+  "size": 15438,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pb",
@@ -81437,9 +81437,9 @@
  {
   "filename": "ARPE2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPE2606.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 40342,
+  "size": 40453,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pe",
@@ -81452,9 +81452,9 @@
  {
   "filename": "ARPI2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPI2606.dbc",
-  "datetime": "2026-09-14T15:01:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 14212,
+  "size": 14081,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pi",
@@ -81467,9 +81467,9 @@
  {
   "filename": "ARPR2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPR2606.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 106018,
+  "size": 108568,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pr",
@@ -81482,9 +81482,9 @@
  {
   "filename": "ARRJ2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRJ2606.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 86924,
+  "size": 88403,
   "dataset": "sia-ar",
   "partition": {
    "uf": "rj",
@@ -81497,9 +81497,9 @@
  {
   "filename": "ARRN2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRN2606.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 18471,
+  "size": 18531,
   "dataset": "sia-ar",
   "partition": {
    "uf": "rn",
@@ -81512,9 +81512,9 @@
  {
   "filename": "ARRO2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRO2606.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 12348,
+  "size": 12263,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ro",
@@ -81527,9 +81527,9 @@
  {
   "filename": "ARRS2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRS2606.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 107500,
+  "size": 109141,
   "dataset": "sia-ar",
   "partition": {
    "uf": "rs",
@@ -81542,9 +81542,9 @@
  {
   "filename": "ARSC2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARSC2606.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 62723,
+  "size": 65071,
   "dataset": "sia-ar",
   "partition": {
    "uf": "sc",
@@ -81557,9 +81557,9 @@
  {
   "filename": "ARSE2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARSE2606.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 17402,
+  "size": 17386,
   "dataset": "sia-ar",
   "partition": {
    "uf": "se",
@@ -81572,9 +81572,9 @@
  {
   "filename": "ARSP2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARSP2606.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 323996,
+  "size": 311694,
   "dataset": "sia-ar",
   "partition": {
    "uf": "sp",
@@ -81587,9 +81587,9 @@
  {
   "filename": "ARTO2606.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARTO2606.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 9763,
+  "size": 9729,
   "dataset": "sia-ar",
   "partition": {
    "uf": "to",
@@ -81602,9 +81602,9 @@
  {
   "filename": "ARAC2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAC2607.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 5011,
+  "size": 5000,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ac",
@@ -81617,9 +81617,9 @@
  {
   "filename": "ARAL2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAL2607.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 15719,
+  "size": 15904,
   "dataset": "sia-ar",
   "partition": {
    "uf": "al",
@@ -81632,9 +81632,9 @@
  {
   "filename": "ARAM2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAM2607.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 12803,
+  "size": 12938,
   "dataset": "sia-ar",
   "partition": {
    "uf": "am",
@@ -81647,9 +81647,9 @@
  {
   "filename": "ARAP2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAP2607.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 4608,
+  "size": 4601,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ap",
@@ -81662,9 +81662,9 @@
  {
   "filename": "ARBA2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARBA2607.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 66662,
+  "size": 66388,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ba",
@@ -81677,9 +81677,9 @@
  {
   "filename": "ARCE2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARCE2607.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 51780,
+  "size": 51883,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ce",
@@ -81692,9 +81692,9 @@
  {
   "filename": "ARDF2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARDF2607.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 14173,
+  "size": 13925,
   "dataset": "sia-ar",
   "partition": {
    "uf": "df",
@@ -81707,9 +81707,9 @@
  {
   "filename": "ARES2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARES2607.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 21789,
+  "size": 21960,
   "dataset": "sia-ar",
   "partition": {
    "uf": "es",
@@ -81722,9 +81722,9 @@
  {
   "filename": "ARGO2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARGO2607.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 22926,
+  "size": 22868,
   "dataset": "sia-ar",
   "partition": {
    "uf": "go",
@@ -81737,9 +81737,9 @@
  {
   "filename": "ARMA2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMA2607.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 18450,
+  "size": 18671,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ma",
@@ -81752,9 +81752,9 @@
  {
   "filename": "ARMG2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMG2607.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 180558,
+  "size": 192114,
   "dataset": "sia-ar",
   "partition": {
    "uf": "mg",
@@ -81767,9 +81767,9 @@
  {
   "filename": "ARMS2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMS2607.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 12982,
+  "size": 12959,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ms",
@@ -81782,9 +81782,9 @@
  {
   "filename": "ARMT2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMT2607.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 14540,
+  "size": 14639,
   "dataset": "sia-ar",
   "partition": {
    "uf": "mt",
@@ -81797,9 +81797,9 @@
  {
   "filename": "ARPA2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPA2607.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 12115,
+  "size": 10971,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pa",
@@ -81812,9 +81812,9 @@
  {
   "filename": "ARPB2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPB2607.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 18490,
+  "size": 18547,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pb",
@@ -81827,9 +81827,9 @@
  {
   "filename": "ARPE2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPE2607.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 45874,
+  "size": 45620,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pe",
@@ -81842,9 +81842,9 @@
  {
   "filename": "ARPI2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPI2607.dbc",
-  "datetime": "2026-09-14T15:01:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 16189,
+  "size": 16090,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pi",
@@ -81857,9 +81857,9 @@
  {
   "filename": "ARPR2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPR2607.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 108929,
+  "size": 111411,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pr",
@@ -81872,9 +81872,9 @@
  {
   "filename": "ARRJ2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRJ2607.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 87412,
+  "size": 86957,
   "dataset": "sia-ar",
   "partition": {
    "uf": "rj",
@@ -81887,9 +81887,9 @@
  {
   "filename": "ARRN2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRN2607.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 18019,
+  "size": 17849,
   "dataset": "sia-ar",
   "partition": {
    "uf": "rn",
@@ -81902,9 +81902,9 @@
  {
   "filename": "ARRO2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRO2607.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 11839,
+  "size": 11797,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ro",
@@ -81917,9 +81917,9 @@
  {
   "filename": "ARRS2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRS2607.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 110127,
+  "size": 109614,
   "dataset": "sia-ar",
   "partition": {
    "uf": "rs",
@@ -81932,9 +81932,9 @@
  {
   "filename": "ARSC2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARSC2607.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 65865,
+  "size": 66006,
   "dataset": "sia-ar",
   "partition": {
    "uf": "sc",
@@ -81947,9 +81947,9 @@
  {
   "filename": "ARSE2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARSE2607.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 17528,
+  "size": 17428,
   "dataset": "sia-ar",
   "partition": {
    "uf": "se",
@@ -81962,9 +81962,9 @@
  {
   "filename": "ARSP2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARSP2607.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 319277,
+  "size": 320700,
   "dataset": "sia-ar",
   "partition": {
    "uf": "sp",
@@ -81977,9 +81977,9 @@
  {
   "filename": "ARTO2607.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARTO2607.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 7067,
+  "size": 7106,
   "dataset": "sia-ar",
   "partition": {
    "uf": "to",
@@ -81992,9 +81992,9 @@
  {
   "filename": "ARAC2608.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAC2608.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 4493,
+  "size": 4494,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ac",
@@ -82007,9 +82007,9 @@
  {
   "filename": "ARAL2608.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAL2608.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 11186,
+  "size": 11126,
   "dataset": "sia-ar",
   "partition": {
    "uf": "al",
@@ -82022,9 +82022,9 @@
  {
   "filename": "ARAM2608.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAM2608.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 10375,
+  "size": 10219,
   "dataset": "sia-ar",
   "partition": {
    "uf": "am",
@@ -82037,9 +82037,9 @@
  {
   "filename": "ARAP2608.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAP2608.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 4538,
+  "size": 4531,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ap",
@@ -82052,9 +82052,9 @@
  {
   "filename": "ARBA2608.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARBA2608.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 69407,
+  "size": 69525,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ba",
@@ -82067,9 +82067,9 @@
  {
   "filename": "ARCE2608.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARCE2608.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 42264,
+  "size": 50322,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ce",
@@ -82082,9 +82082,9 @@
  {
   "filename": "ARDF2608.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARDF2608.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 10270,
+  "size": 10414,
   "dataset": "sia-ar",
   "partition": {
    "uf": "df",
@@ -82097,9 +82097,9 @@
  {
   "filename": "ARES2608.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARES2608.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 23413,
+  "size": 23471,
   "dataset": "sia-ar",
   "partition": {
    "uf": "es",
@@ -82112,9 +82112,9 @@
  {
   "filename": "ARGO2608.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARGO2608.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 24981,
+  "size": 24890,
   "dataset": "sia-ar",
   "partition": {
    "uf": "go",
@@ -82127,9 +82127,9 @@
  {
   "filename": "ARMA2608.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMA2608.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 17075,
+  "size": 17061,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ma",
@@ -82142,9 +82142,9 @@
  {
   "filename": "ARMG2608.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMG2608.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 153219,
+  "size": 188548,
   "dataset": "sia-ar",
   "partition": {
    "uf": "mg",
@@ -82157,9 +82157,9 @@
  {
   "filename": "ARMS2608.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMS2608.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 8666,
+  "size": 11281,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ms",
@@ -82172,9 +82172,9 @@
  {
   "filename": "ARMT2608.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMT2608.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 12776,
+  "size": 12518,
   "dataset": "sia-ar",
   "partition": {
    "uf": "mt",
@@ -82187,9 +82187,9 @@
  {
   "filename": "ARPA2608.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPA2608.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 15705,
+  "size": 12560,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pa",
@@ -82202,9 +82202,9 @@
  {
   "filename": "ARPB2608.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPB2608.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 16617,
+  "size": 16350,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pb",
@@ -82217,9 +82217,9 @@
  {
   "filename": "ARPE2608.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPE2608.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 45675,
+  "size": 45761,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pe",
@@ -82230,11 +82230,26 @@
   "preliminary": false
  },
  {
+  "filename": "ARPI2608.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPI2608.dbc",
+  "datetime": "2026-11-19T15:38:00",
+  "extension": "dbc",
+  "size": 13461,
+  "dataset": "sia-ar",
+  "partition": {
+   "uf": "pi",
+   "year": 2026,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "ARPR2608.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPR2608.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 81252,
+  "size": 110417,
   "dataset": "sia-ar",
   "partition": {
    "uf": "pr",
@@ -82247,9 +82262,9 @@
  {
   "filename": "ARRJ2608.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRJ2608.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 78562,
+  "size": 83125,
   "dataset": "sia-ar",
   "partition": {
    "uf": "rj",
@@ -82262,9 +82277,9 @@
  {
   "filename": "ARRN2608.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRN2608.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 18958,
+  "size": 19017,
   "dataset": "sia-ar",
   "partition": {
    "uf": "rn",
@@ -82277,9 +82292,9 @@
  {
   "filename": "ARRO2608.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRO2608.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 11237,
+  "size": 11229,
   "dataset": "sia-ar",
   "partition": {
    "uf": "ro",
@@ -82292,9 +82307,9 @@
  {
   "filename": "ARRS2608.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRS2608.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 103520,
+  "size": 107395,
   "dataset": "sia-ar",
   "partition": {
    "uf": "rs",
@@ -82307,9 +82322,9 @@
  {
   "filename": "ARSC2608.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARSC2608.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 69981,
+  "size": 70278,
   "dataset": "sia-ar",
   "partition": {
    "uf": "sc",
@@ -82322,9 +82337,9 @@
  {
   "filename": "ARSE2608.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARSE2608.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 11501,
+  "size": 8515,
   "dataset": "sia-ar",
   "partition": {
    "uf": "se",
@@ -82337,9 +82352,9 @@
  {
   "filename": "ARSP2608.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARSP2608.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 355513,
+  "size": 357882,
   "dataset": "sia-ar",
   "partition": {
    "uf": "sp",
@@ -82352,14 +82367,389 @@
  {
   "filename": "ARTO2608.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARTO2608.dbc",
-  "datetime": "2026-10-30T21:39:00",
+  "datetime": "2026-11-19T15:38:00",
   "extension": "dbc",
-  "size": 8071,
+  "size": 8067,
   "dataset": "sia-ar",
   "partition": {
    "uf": "to",
    "year": 2026,
    "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ARAC2609.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAC2609.dbc",
+  "datetime": "2026-11-19T15:38:00",
+  "extension": "dbc",
+  "size": 4508,
+  "dataset": "sia-ar",
+  "partition": {
+   "uf": "ac",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ARAL2609.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAL2609.dbc",
+  "datetime": "2026-11-19T15:38:00",
+  "extension": "dbc",
+  "size": 13401,
+  "dataset": "sia-ar",
+  "partition": {
+   "uf": "al",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ARAM2609.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAM2609.dbc",
+  "datetime": "2026-11-19T15:38:00",
+  "extension": "dbc",
+  "size": 9072,
+  "dataset": "sia-ar",
+  "partition": {
+   "uf": "am",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ARAP2609.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARAP2609.dbc",
+  "datetime": "2026-11-19T15:38:00",
+  "extension": "dbc",
+  "size": 5334,
+  "dataset": "sia-ar",
+  "partition": {
+   "uf": "ap",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ARBA2609.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARBA2609.dbc",
+  "datetime": "2026-11-19T15:38:00",
+  "extension": "dbc",
+  "size": 57621,
+  "dataset": "sia-ar",
+  "partition": {
+   "uf": "ba",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ARCE2609.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARCE2609.dbc",
+  "datetime": "2026-11-19T15:38:00",
+  "extension": "dbc",
+  "size": 50894,
+  "dataset": "sia-ar",
+  "partition": {
+   "uf": "ce",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ARDF2609.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARDF2609.dbc",
+  "datetime": "2026-11-19T15:38:00",
+  "extension": "dbc",
+  "size": 5857,
+  "dataset": "sia-ar",
+  "partition": {
+   "uf": "df",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ARES2609.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARES2609.dbc",
+  "datetime": "2026-11-19T15:38:00",
+  "extension": "dbc",
+  "size": 19117,
+  "dataset": "sia-ar",
+  "partition": {
+   "uf": "es",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ARGO2609.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARGO2609.dbc",
+  "datetime": "2026-11-19T15:38:00",
+  "extension": "dbc",
+  "size": 20805,
+  "dataset": "sia-ar",
+  "partition": {
+   "uf": "go",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ARMA2609.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMA2609.dbc",
+  "datetime": "2026-11-19T15:38:00",
+  "extension": "dbc",
+  "size": 16722,
+  "dataset": "sia-ar",
+  "partition": {
+   "uf": "ma",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ARMG2609.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMG2609.dbc",
+  "datetime": "2026-11-19T15:38:00",
+  "extension": "dbc",
+  "size": 187791,
+  "dataset": "sia-ar",
+  "partition": {
+   "uf": "mg",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ARMS2609.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMS2609.dbc",
+  "datetime": "2026-11-19T15:38:00",
+  "extension": "dbc",
+  "size": 11845,
+  "dataset": "sia-ar",
+  "partition": {
+   "uf": "ms",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ARMT2609.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARMT2609.dbc",
+  "datetime": "2026-11-19T15:38:00",
+  "extension": "dbc",
+  "size": 16917,
+  "dataset": "sia-ar",
+  "partition": {
+   "uf": "mt",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ARPB2609.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPB2609.dbc",
+  "datetime": "2026-11-19T15:38:00",
+  "extension": "dbc",
+  "size": 16123,
+  "dataset": "sia-ar",
+  "partition": {
+   "uf": "pb",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ARPE2609.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPE2609.dbc",
+  "datetime": "2026-11-19T15:38:00",
+  "extension": "dbc",
+  "size": 40566,
+  "dataset": "sia-ar",
+  "partition": {
+   "uf": "pe",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ARPI2609.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPI2609.dbc",
+  "datetime": "2026-11-19T15:38:00",
+  "extension": "dbc",
+  "size": 4585,
+  "dataset": "sia-ar",
+  "partition": {
+   "uf": "pi",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ARPR2609.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARPR2609.dbc",
+  "datetime": "2026-11-19T15:38:00",
+  "extension": "dbc",
+  "size": 109456,
+  "dataset": "sia-ar",
+  "partition": {
+   "uf": "pr",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ARRJ2609.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRJ2609.dbc",
+  "datetime": "2026-11-19T15:38:00",
+  "extension": "dbc",
+  "size": 64465,
+  "dataset": "sia-ar",
+  "partition": {
+   "uf": "rj",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ARRN2609.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRN2609.dbc",
+  "datetime": "2026-11-19T15:38:00",
+  "extension": "dbc",
+  "size": 18999,
+  "dataset": "sia-ar",
+  "partition": {
+   "uf": "rn",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ARRO2609.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRO2609.dbc",
+  "datetime": "2026-11-19T15:38:00",
+  "extension": "dbc",
+  "size": 12989,
+  "dataset": "sia-ar",
+  "partition": {
+   "uf": "ro",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ARRS2609.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARRS2609.dbc",
+  "datetime": "2026-11-19T15:38:00",
+  "extension": "dbc",
+  "size": 99785,
+  "dataset": "sia-ar",
+  "partition": {
+   "uf": "rs",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ARSC2609.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARSC2609.dbc",
+  "datetime": "2026-11-19T15:38:00",
+  "extension": "dbc",
+  "size": 69372,
+  "dataset": "sia-ar",
+  "partition": {
+   "uf": "sc",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ARSE2609.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARSE2609.dbc",
+  "datetime": "2026-11-19T15:38:00",
+  "extension": "dbc",
+  "size": 7851,
+  "dataset": "sia-ar",
+  "partition": {
+   "uf": "se",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ARSP2609.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARSP2609.dbc",
+  "datetime": "2026-11-19T15:38:00",
+  "extension": "dbc",
+  "size": 334199,
+  "dataset": "sia-ar",
+  "partition": {
+   "uf": "sp",
+   "year": 2026,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ARTO2609.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ARTO2609.dbc",
+  "datetime": "2026-11-19T15:38:00",
+  "extension": "dbc",
+  "size": 7345,
+  "dataset": "sia-ar",
+  "partition": {
+   "uf": "to",
+   "year": 2026,
+   "month": 9,
    "subpartition": null
   },
   "preliminary": false
