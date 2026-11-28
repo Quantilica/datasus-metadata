@@ -519,14 +519,14 @@
   "sim-doext-cid10": {
    "name": "Declarações de Óbito Externas CID-10",
    "source": "sim",
-   "n_files": 30,
-   "total_size": 301191779,
+   "n_files": 29,
+   "total_size": 287252913,
    "partition_n_ufs": 1,
    "partition_period_start": "1996",
-   "partition_period_end": "2025",
-   "partition_n_periods": 30,
+   "partition_period_end": "2024",
+   "partition_n_periods": 29,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-08-28T13:40:00"
+   "latest_update": "2025-12-23T15:47:00"
   },
   "sim-dofet-cid09": {
    "name": "Declarações de Óbito Fetais CID-9",
@@ -543,14 +543,14 @@
   "sim-dofet-cid10": {
    "name": "Declarações de Óbito Fetais CID-10",
    "source": "sim",
-   "n_files": 30,
-   "total_size": 68733547,
+   "n_files": 29,
+   "total_size": 66236709,
    "partition_n_ufs": 1,
    "partition_period_start": "1996",
-   "partition_period_end": "2025",
-   "partition_n_periods": 30,
+   "partition_period_end": "2024",
+   "partition_n_periods": 29,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-08-28T13:40:00"
+   "latest_update": "2025-12-23T15:47:00"
   },
   "sim-doinf-cid09": {
    "name": "Declarações de Óbito Infantis CID-9",
@@ -567,38 +567,38 @@
   "sim-doinf-cid10": {
    "name": "Declarações de Óbito Infantis CID-10",
    "source": "sim",
-   "n_files": 30,
-   "total_size": 103081457,
+   "n_files": 29,
+   "total_size": 99746474,
    "partition_n_ufs": 1,
    "partition_period_start": "1996",
-   "partition_period_end": "2025",
-   "partition_n_periods": 30,
+   "partition_period_end": "2024",
+   "partition_n_periods": 29,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-08-28T13:40:00"
+   "latest_update": "2025-12-23T15:47:00"
   },
   "sim-domat-cid10": {
    "name": "Declarações de Óbitos Maternos CID-10",
    "source": "sim",
-   "n_files": 30,
-   "total_size": 4600558,
+   "n_files": 29,
+   "total_size": 4448705,
    "partition_n_ufs": 1,
    "partition_period_start": "1996",
-   "partition_period_end": "2025",
-   "partition_n_periods": 30,
+   "partition_period_end": "2024",
+   "partition_n_periods": 29,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-08-28T13:40:00"
+   "latest_update": "2025-12-23T15:47:00"
   },
   "sim-dorext-cid10": {
    "name": "Mortalidade de Residentes no Exterior CID-10",
    "source": "sim",
-   "n_files": 13,
-   "total_size": 624403,
+   "n_files": 12,
+   "total_size": 557647,
    "partition_n_ufs": 1,
    "partition_period_start": "2013",
-   "partition_period_end": "2025",
-   "partition_n_periods": 13,
+   "partition_period_end": "2024",
+   "partition_n_periods": 12,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-08-28T13:42:00"
+   "latest_update": "2026-08-28T11:20:00"
   },
   "sinan-acbi": {
    "name": "Acidente de trabalho com material biológico",
@@ -712,13 +712,13 @@
    "name": "Febre de Chikungunya",
    "source": "sinan",
    "n_files": 13,
-   "total_size": 100506416,
+   "total_size": 100446324,
    "partition_n_ufs": 1,
    "partition_period_start": "2014",
    "partition_period_end": "2026",
    "partition_n_periods": 13,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-11-16T15:48:00"
+   "latest_update": "2026-11-23T12:07:00"
   },
   "sinan-cole": {
    "name": "Cólera",
@@ -748,13 +748,13 @@
    "name": "Dengue",
    "source": "sinan",
    "n_files": 27,
-   "total_size": 1076987250,
+   "total_size": 1077324105,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
    "partition_period_end": "2026",
    "partition_n_periods": 27,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-11-16T15:45:00"
+   "latest_update": "2026-11-23T12:07:00"
   },
   "sinan-derm": {
    "name": "Dermatoses ocupacionais",
